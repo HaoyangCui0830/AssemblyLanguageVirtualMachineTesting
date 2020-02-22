@@ -1,0 +1,9 @@
+*.o
+*.o-san
+machine
+machine-vuln?
+*-san
+*-fuzz
+*-cov
+*.profraw
+*.profdata

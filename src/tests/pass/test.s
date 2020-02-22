@@ -1,0 +1,10000 @@
+sub R4 R14 R16
+mov R25 -13146
+ldr R8 R2 -26490
+jmp 8932
+ldr R26 R12 65496
+div R23 R11 R14
+div R2 R29 R8
+sub R7 R0 R9
+mov R30 4073
+ldr R18 R11 -61641
+mul R27 R0 R20
+add R25 R21 R26
+ret R28
+ret R7
+sub R26 R6 R11
+ret R21
+div R21 R23 R10
+str R1 -43247 R26
+mul R21 R30 R13
+mul R16 R16 R8
+div R15 R8 R14
+div R27 R22 R29
+str R23 -37692 R23
+ldr R8 R13 -5523
+mul R7 R31 R10
+mul R28 R26 R5
+sub R1 R18 R0
+add R4 R26 R24
+str R12 -43744 R26
+ret R23
+ret R9
+str R20 -30172 R5
+ldr R19 R18 20223
+sub R0 R8 R11
+ret R21
+div R17 R28 R31
+jz R30 8703
+ret R10
+ldr R4 R5 -10557
+ldr R16 R30 43941
+mov R29 36878
+jmp 5272
+str R2 -41899 R23
+add R17 R1 R12
+mov R14 56314
+div R19 R27 R1
+ldr R13 R22 38487
+ldr R25 R17 -41133
+jmp 6215
+ldr R23 R4 46018
+ret R14
+ret R21
+ret R3
+mov R29 54609
+mul R10 R21 R24
+add R6 R23 R14
+jmp 4485
+mov R24 14989
+mov R14 -57854
+ldr R0 R21 20756
+sub R14 R5 R0
+ldr R28 R4 50824
+mov R9 4681
+jmp 7627
+str R26 22070 R28
+ret R29
+str R25 37656 R17
+ldr R14 R13 22652
+jmp 1458
+add R5 R20 R3
+sub R11 R6 R28
+ldr R6 R27 -321
+jz R4 1579
+str R20 18956 R0
+ldr R8 R12 -5299
+ldr R6 R16 24229
+jmp 2106
+str R18 -40404 R7
+jmp 1107
+str R19 -15835 R22
+ret R27
+jz R19 7235
+jz R6 1663
+add R25 R10 R8
+jmp 2491
+jz R21 7963
+mul R26 R11 R31
+add R12 R26 R10
+mov R13 60263
+str R3 -9847 R29
+ldr R30 R28 -25207
+div R10 R26 R13
+add R8 R12 R25
+mul R27 R12 R25
+jz R15 5412
+add R1 R15 R5
+div R18 R7 R31
+mul R13 R15 R18
+add R21 R0 R13
+ret R20
+mov R11 -19408
+div R22 R23 R25
+ldr R22 R1 -22328
+add R10 R24 R20
+jmp 274
+ldr R1 R23 -40052
+ret R27
+jz R9 4037
+sub R14 R16 R14
+mov R23 -41635
+str R26 7134 R9
+mul R25 R30 R10
+jmp 1157
+ldr R5 R24 37723
+mov R2 -20359
+mul R7 R19 R4
+mov R15 61220
+add R19 R8 R29
+mul R24 R19 R11
+sub R14 R17 R7
+str R24 22434 R22
+jz R23 2738
+mov R25 -58642
+ret R5
+ldr R17 R5 21935
+ldr R25 R26 27439
+jz R0 7931
+ldr R29 R29 -15358
+str R4 -62007 R5
+str R14 5999 R27
+str R0 34417 R16
+mul R27 R14 R9
+jmp 1993
+ldr R2 R1 -19602
+mul R10 R2 R23
+add R26 R25 R8
+jz R14 6291
+mul R1 R18 R31
+mul R28 R13 R12
+mov R18 -17783
+mov R15 -1666
+jmp 4071
+ret R19
+add R31 R9 R18
+ldr R27 R25 -38010
+mov R3 41398
+sub R28 R21 R23
+add R25 R18 R22
+mul R6 R23 R18
+div R5 R28 R23
+ldr R1 R14 43381
+ret R15
+div R19 R0 R9
+div R12 R15 R21
+mov R31 -22668
+jz R29 4318
+add R7 R2 R1
+mul R7 R20 R23
+jz R11 5897
+jmp 2488
+jmp 1123
+str R23 -15476 R0
+jmp 322
+sub R2 R26 R7
+jmp 8375
+jmp 6174
+mov R30 -52880
+jmp 7001
+str R17 -43920 R21
+str R30 43853 R29
+sub R3 R13 R30
+jmp 2005
+mul R28 R13 R1
+jz R7 7952
+mov R17 30290
+mov R6 25892
+ret R26
+sub R20 R1 R29
+mul R24 R16 R7
+ldr R23 R24 5237
+ret R25
+add R23 R10 R10
+ret R17
+str R9 -56353 R10
+jz R14 9674
+sub R18 R4 R24
+mov R0 55874
+ret R3
+jmp 178
+mov R15 27276
+add R7 R10 R24
+str R30 -56916 R15
+str R11 -14258 R16
+jmp 9046
+str R25 -49343 R10
+jmp 2597
+jz R13 -167
+add R21 R26 R20
+sub R18 R16 R20
+mov R18 -2104
+mul R28 R1 R12
+jz R31 1224
+jz R13 3134
+mul R13 R5 R9
+mov R21 43472
+add R22 R6 R7
+mov R12 56977
+jmp 852
+add R7 R16 R14
+div R13 R2 R26
+mov R13 26193
+ret R7
+jz R18 3209
+mov R17 51445
+mov R20 20386
+str R30 23754 R3
+sub R24 R19 R9
+jmp 640
+add R31 R17 R19
+mov R22 -41850
+mul R12 R29 R11
+mul R12 R11 R28
+mov R13 -37947
+ldr R10 R15 -54980
+mul R2 R13 R23
+add R2 R16 R29
+jz R1 9382
+sub R26 R1 R19
+ldr R11 R26 -45351
+jz R11 3903
+add R4 R25 R19
+mov R26 4207
+ret R8
+ret R22
+str R21 50657 R22
+str R21 1940 R11
+mov R1 60275
+jz R12 7901
+sub R19 R14 R0
+jz R25 5445
+jz R18 4157
+jmp 688
+jz R23 9428
+sub R11 R9 R27
+add R21 R30 R7
+jz R24 1876
+jmp 4890
+jmp 6211
+ldr R1 R21 -9278
+mov R30 -52978
+mov R7 43899
+jmp 6544
+mul R26 R6 R24
+ret R10
+jz R14 3025
+jmp 829
+mul R8 R4 R29
+ldr R6 R13 -7046
+jz R18 8528
+ldr R6 R13 -60553
+sub R26 R24 R18
+str R17 17196 R10
+mul R5 R25 R26
+ldr R14 R15 -64586
+add R15 R10 R14
+div R31 R16 R11
+jz R19 8080
+jmp 5402
+mul R31 R3 R8
+mov R25 51509
+jz R28 7547
+mov R21 -17800
+ret R14
+ldr R10 R16 61521
+str R29 -62022 R1
+jmp 8067
+jz R19 2360
+ret R5
+jz R19 4739
+add R30 R17 R9
+ret R26
+mov R6 14060
+jmp 9525
+mul R30 R12 R27
+ret R20
+mov R0 -15490
+jmp 611
+mov R25 -32273
+str R1 17628 R27
+sub R10 R1 R30
+mov R3 44105
+sub R8 R2 R5
+add R20 R29 R24
+str R31 -1081 R20
+jmp 5324
+jz R28 3999
+jmp 194
+jmp 3832
+jmp 8846
+div R7 R12 R25
+sub R15 R31 R0
+mul R6 R15 R31
+sub R15 R30 R24
+div R30 R8 R29
+jmp 6650
+div R8 R15 R28
+str R15 63195 R27
+mul R17 R5 R18
+ldr R4 R23 5783
+div R6 R10 R11
+div R26 R27 R19
+mul R13 R18 R11
+ldr R28 R20 -62039
+add R2 R25 R3
+mov R9 -35430
+mul R9 R31 R19
+ldr R24 R15 34806
+div R6 R12 R24
+div R8 R15 R30
+div R24 R24 R24
+ldr R15 R27 -5769
+ldr R2 R2 -8029
+ldr R13 R23 60841
+jz R9 5372
+ldr R8 R30 -63668
+sub R27 R10 R30
+ldr R28 R22 -57405
+sub R3 R11 R19
+str R25 -597 R23
+sub R0 R12 R0
+str R22 46611 R28
+ret R3
+mul R4 R18 R31
+ret R22
+ldr R1 R10 20355
+mov R11 52574
+div R8 R5 R7
+div R24 R23 R22
+div R16 R9 R6
+add R19 R25 R3
+ldr R5 R9 65435
+mul R27 R3 R20
+ldr R27 R2 42643
+mul R8 R11 R10
+str R16 19598 R25
+mov R1 -9714
+mov R5 13080
+jmp 9033
+jz R10 5892
+jz R6 539
+mov R11 27858
+div R14 R1 R5
+sub R28 R14 R29
+str R10 2545 R28
+sub R0 R0 R20
+mov R1 8384
+mul R8 R13 R16
+add R30 R21 R19
+add R6 R17 R26
+ldr R20 R20 1569
+str R21 44868 R23
+jz R12 4989
+ldr R10 R30 63124
+jz R3 48
+jmp 7633
+sub R13 R12 R31
+ret R24
+mul R29 R27 R18
+jmp 3188
+add R20 R21 R4
+jz R13 8101
+str R23 20064 R16
+ret R7
+str R2 17286 R10
+str R19 -43078 R16
+jz R28 1562
+sub R24 R17 R24
+div R12 R15 R24
+mov R6 -55112
+div R0 R25 R17
+ret R23
+str R23 -4912 R24
+mul R27 R22 R14
+jmp 72
+jmp 4297
+mul R9 R13 R25
+div R22 R6 R26
+div R29 R14 R20
+div R13 R24 R7
+jmp -262
+div R17 R19 R8
+sub R31 R9 R20
+str R20 27425 R14
+jmp 1526
+add R12 R24 R7
+jmp 6335
+str R20 -18540 R15
+mov R4 1534
+sub R12 R24 R21
+jz R19 4180
+add R0 R23 R16
+mov R10 -51835
+sub R21 R28 R31
+str R21 -64380 R14
+add R15 R5 R3
+mul R7 R2 R24
+jz R14 2784
+sub R16 R4 R6
+add R10 R28 R24
+add R3 R25 R31
+add R1 R1 R5
+div R19 R1 R22
+mov R8 31087
+jmp 536
+str R13 -57701 R27
+sub R28 R1 R17
+mov R16 39726
+jz R13 5816
+jz R6 2035
+div R3 R27 R28
+jmp 8651
+mul R17 R1 R10
+jmp 275
+ret R6
+ldr R2 R15 61543
+str R30 -5257 R9
+mul R24 R0 R2
+mul R0 R16 R19
+jmp 1176
+add R5 R1 R30
+jz R17 7310
+ret R7
+jmp 2356
+sub R5 R19 R12
+add R21 R20 R0
+sub R26 R25 R2
+div R12 R23 R14
+mov R26 -34957
+jmp 6803
+str R2 54039 R6
+add R23 R1 R25
+ldr R4 R24 -48602
+jz R28 2205
+mul R31 R17 R3
+str R16 61806 R24
+mul R17 R4 R21
+div R5 R26 R16
+div R26 R19 R21
+jz R7 1148
+sub R8 R19 R10
+jmp 5229
+ldr R11 R8 41352
+ldr R30 R13 19220
+sub R9 R20 R16
+mov R8 -27363
+mov R5 -40027
+ldr R10 R16 55872
+ldr R16 R14 49638
+jmp 225
+ret R13
+ret R28
+sub R25 R11 R1
+ldr R21 R7 -50366
+mul R25 R16 R9
+ldr R23 R23 -21435
+mul R1 R29 R7
+mov R26 2878
+add R5 R8 R22
+mul R14 R4 R16
+jmp 7094
+sub R15 R24 R20
+sub R1 R25 R5
+ldr R12 R17 -26402
+sub R19 R0 R11
+jz R1 9139
+sub R5 R3 R20
+add R8 R26 R3
+mov R0 52005
+ldr R4 R15 24013
+str R13 -65345 R9
+jz R2 7510
+add R9 R28 R25
+jmp 8614
+add R1 R1 R23
+div R23 R31 R28
+mul R31 R14 R19
+sub R8 R27 R20
+sub R14 R3 R13
+mov R27 25421
+add R28 R1 R0
+str R30 44980 R0
+mov R28 -47441
+mul R17 R21 R7
+sub R22 R31 R5
+jmp 1412
+add R17 R14 R5
+mul R12 R17 R28
+ldr R24 R9 23217
+add R5 R22 R29
+sub R19 R2 R0
+div R2 R19 R10
+str R20 -37279 R9
+ret R19
+mov R2 -26830
+mov R4 38043
+str R13 -33253 R31
+add R17 R24 R10
+div R30 R5 R6
+mov R6 55204
+mov R25 50104
+mul R0 R19 R21
+ldr R21 R2 -18242
+mov R13 20988
+sub R1 R22 R25
+jz R13 141
+ldr R8 R22 61067
+sub R13 R29 R7
+div R19 R24 R12
+add R30 R30 R26
+add R16 R24 R26
+str R4 -32593 R26
+sub R4 R15 R5
+mov R5 48970
+sub R2 R15 R13
+sub R10 R20 R9
+str R15 -22880 R31
+ldr R28 R4 -59630
+ldr R16 R1 -37278
+div R8 R3 R17
+mov R30 -44884
+jmp 1773
+ldr R28 R2 -27555
+jz R19 271
+mul R30 R9 R11
+ldr R18 R0 55340
+mul R30 R4 R12
+div R11 R26 R21
+jz R31 2617
+mul R30 R17 R8
+div R22 R18 R12
+mul R28 R31 R13
+ret R30
+div R6 R13 R21
+jz R18 7272
+add R16 R0 R31
+jz R5 1220
+sub R13 R26 R2
+mul R5 R20 R14
+str R3 -17829 R7
+add R8 R31 R24
+ret R3
+add R6 R5 R31
+str R24 163 R23
+ldr R16 R31 -31897
+ret R18
+jz R5 -183
+mov R6 40288
+mov R23 42367
+ldr R0 R27 4721
+ret R8
+str R6 35739 R30
+jz R30 8386
+ldr R23 R14 -37291
+ldr R25 R14 54877
+ret R22
+mov R11 12979
+mov R18 41030
+ret R13
+jz R14 2165
+add R31 R10 R0
+mov R26 -44107
+sub R13 R29 R20
+jmp 213
+ret R12
+str R28 56634 R3
+ret R31
+div R28 R18 R18
+str R18 -4602 R28
+div R20 R23 R4
+add R3 R25 R22
+jz R10 8527
+str R26 26282 R23
+jmp 8892
+jz R10 373
+ldr R22 R5 -15670
+jz R31 4616
+ret R0
+str R3 -39083 R18
+mul R4 R10 R16
+jz R0 4506
+ldr R4 R11 -36644
+div R3 R26 R22
+div R10 R7 R30
+jz R22 3944
+add R19 R22 R13
+ret R16
+div R5 R14 R22
+ldr R20 R23 45973
+ldr R31 R19 9866
+mov R25 -25365
+mul R5 R27 R1
+jz R26 3465
+sub R3 R21 R5
+jz R25 5209
+mul R30 R15 R9
+div R28 R24 R26
+mul R29 R20 R20
+mov R7 19080
+ret R11
+sub R16 R1 R2
+ldr R0 R27 -13539
+div R0 R28 R3
+sub R9 R1 R27
+div R12 R28 R18
+mov R26 -21248
+jmp -411
+ldr R15 R2 -53865
+jz R16 5351
+mul R19 R6 R0
+div R26 R29 R14
+mov R18 37670
+str R17 20651 R6
+mul R24 R30 R19
+sub R7 R4 R13
+add R8 R31 R26
+add R13 R13 R1
+div R17 R22 R9
+div R27 R7 R7
+mov R13 -25712
+ldr R8 R5 55092
+jmp 4488
+jz R6 5492
+add R27 R24 R28
+ret R4
+jmp 5905
+mul R10 R3 R7
+ldr R25 R27 23019
+div R1 R11 R3
+add R7 R23 R6
+jmp 6084
+mov R3 18162
+ret R2
+ldr R26 R1 38543
+jmp 8614
+sub R7 R4 R6
+div R18 R28 R2
+div R27 R13 R4
+str R20 42661 R2
+str R1 -14864 R16
+mul R20 R0 R21
+jz R5 3296
+div R2 R9 R25
+mul R13 R5 R9
+jmp 2216
+mul R28 R30 R9
+ret R19
+ret R15
+mov R6 25520
+sub R1 R27 R0
+str R30 4837 R25
+jmp -557
+ret R20
+div R11 R19 R0
+jmp 1761
+sub R6 R28 R24
+div R27 R14 R20
+jz R10 6233
+ldr R17 R16 17985
+mov R24 27152
+div R2 R17 R15
+mul R16 R12 R3
+mov R13 -22195
+str R9 20757 R21
+mov R9 -18794
+jz R26 8149
+mov R0 -28047
+mov R5 -2467
+ldr R19 R19 -40712
+jmp 9205
+mov R10 -3162
+mov R0 37110
+mul R22 R22 R2
+add R23 R13 R26
+sub R19 R13 R30
+jmp 493
+ldr R25 R4 40574
+str R25 8454 R20
+mov R26 60816
+ret R9
+mov R10 23313
+str R6 1210 R16
+div R3 R18 R4
+ret R24
+jz R5 7153
+mov R16 -24400
+sub R8 R21 R8
+sub R2 R6 R1
+mul R13 R6 R9
+jmp 1329
+ldr R30 R15 -48364
+mul R21 R19 R30
+mul R19 R25 R2
+div R7 R11 R21
+add R9 R10 R13
+ret R0
+str R20 -49431 R0
+div R18 R27 R17
+div R10 R15 R22
+sub R7 R24 R4
+jz R28 214
+jz R31 8768
+add R26 R3 R31
+jmp 3914
+div R15 R7 R31
+mov R14 13225
+sub R19 R0 R27
+ldr R0 R21 16432
+ldr R8 R23 10084
+add R20 R4 R4
+div R11 R31 R2
+jmp 1569
+mul R4 R1 R13
+str R28 -14631 R2
+jmp -716
+jmp 4179
+ret R22
+mov R13 -7700
+jz R8 9138
+ldr R10 R25 -39972
+ldr R29 R17 -10861
+ldr R20 R28 1342
+str R4 -57847 R2
+mov R24 -65425
+add R23 R18 R30
+ret R23
+jz R20 7496
+str R18 5138 R26
+ret R6
+jmp 99
+div R4 R30 R23
+str R11 -44097 R15
+mov R18 -62116
+div R28 R9 R9
+mul R14 R2 R7
+ret R23
+mov R7 -39391
+jmp 6388
+add R19 R29 R4
+ldr R17 R14 49172
+ret R27
+add R18 R15 R27
+jmp 4884
+ret R24
+add R2 R31 R0
+str R5 -380 R7
+mul R5 R30 R12
+mov R3 32312
+ldr R8 R8 -50886
+add R31 R27 R26
+mul R1 R23 R12
+mov R11 -18315
+ret R26
+div R13 R29 R31
+jmp 1506
+ret R8
+jmp 1608
+ldr R22 R3 -14630
+add R14 R18 R8
+sub R16 R23 R24
+ret R24
+jmp 1486
+mov R21 -40555
+add R8 R15 R19
+jz R1 -404
+mov R27 13123
+str R31 -17304 R30
+jz R13 5280
+sub R20 R14 R2
+div R14 R18 R29
+mul R7 R24 R15
+mul R18 R24 R26
+sub R11 R16 R31
+ldr R20 R12 -15156
+mul R17 R15 R10
+sub R23 R29 R22
+jmp 4079
+jmp 7389
+add R25 R0 R15
+str R24 35299 R8
+jmp 8512
+add R8 R24 R3
+add R10 R13 R0
+sub R15 R30 R25
+div R2 R2 R6
+str R0 12000 R20
+sub R27 R8 R23
+ret R14
+ldr R25 R18 -23405
+ret R1
+add R10 R9 R7
+mul R7 R15 R13
+jz R31 909
+ret R14
+add R26 R23 R31
+jz R18 1243
+mov R20 19324
+mul R5 R14 R10
+ret R11
+jmp 6045
+mov R13 18868
+jmp 3332
+jmp 5024
+jmp 219
+add R3 R16 R11
+mov R3 47137
+div R17 R25 R25
+sub R23 R2 R18
+ldr R0 R1 53814
+sub R10 R31 R1
+ldr R12 R11 8281
+add R17 R1 R21
+jz R22 6373
+jz R18 3649
+str R26 -45357 R2
+str R12 43345 R23
+ldr R8 R1 -8188
+add R21 R28 R9
+sub R7 R18 R9
+str R4 39407 R7
+add R0 R4 R30
+mul R25 R15 R2
+div R0 R12 R8
+sub R25 R8 R15
+jz R28 7666
+ret R5
+mul R11 R4 R14
+add R16 R12 R27
+mul R5 R2 R19
+sub R11 R10 R24
+div R4 R13 R13
+ret R3
+add R24 R27 R21
+jz R4 9053
+ldr R21 R0 -18687
+jmp 5378
+mov R4 -15706
+jmp 3963
+str R21 -27812 R30
+jmp 2195
+mul R31 R8 R23
+sub R23 R8 R13
+ldr R19 R18 30531
+add R28 R23 R30
+mul R22 R27 R1
+ret R7
+ldr R16 R3 45042
+ldr R14 R1 -54203
+jz R4 8638
+sub R22 R24 R9
+sub R17 R13 R26
+jz R20 4580
+str R23 -20376 R0
+mov R19 -43833
+div R20 R20 R19
+div R29 R7 R25
+sub R11 R10 R20
+add R12 R5 R3
+div R1 R3 R26
+ret R2
+jmp 53
+add R24 R3 R0
+add R30 R5 R12
+add R21 R12 R9
+ldr R26 R9 10534
+jmp 4224
+mov R22 -27294
+jmp 4053
+div R20 R28 R23
+div R29 R19 R13
+jz R31 7211
+ldr R2 R0 48751
+ldr R24 R10 51884
+ldr R29 R28 -54664
+add R4 R23 R5
+div R5 R10 R5
+div R23 R23 R8
+add R12 R26 R15
+add R19 R24 R8
+div R21 R22 R0
+mov R31 3762
+div R21 R5 R27
+mul R12 R25 R23
+ldr R21 R27 -38641
+sub R29 R28 R19
+ldr R11 R1 15476
+mov R26 -35850
+ldr R4 R1 -6955
+jz R11 6377
+mov R5 11178
+ldr R7 R24 -18373
+mov R23 -47130
+div R25 R29 R16
+jmp 2099
+jmp -376
+str R14 -39481 R6
+jz R12 162
+mov R8 -62963
+mul R21 R6 R25
+ret R15
+div R17 R13 R16
+str R4 47419 R9
+str R15 -9546 R26
+ldr R12 R20 -63299
+add R6 R1 R7
+add R16 R10 R16
+mov R31 -37014
+div R30 R20 R3
+str R12 27884 R20
+jz R17 1163
+div R4 R21 R7
+sub R17 R3 R6
+ldr R16 R18 -4683
+div R23 R27 R21
+jz R16 7050
+jmp 4239
+ret R22
+mov R14 -58403
+sub R14 R12 R0
+add R30 R1 R3
+jz R28 409
+sub R28 R23 R24
+jmp 4790
+div R24 R14 R6
+ret R9
+str R0 -40989 R18
+mov R1 48621
+mov R16 59495
+mul R20 R16 R9
+div R17 R6 R20
+mov R0 6821
+add R14 R8 R26
+jz R7 7587
+mul R31 R25 R17
+mul R3 R18 R17
+mul R28 R9 R1
+mul R26 R12 R4
+str R5 -7424 R14
+add R6 R2 R2
+sub R9 R14 R7
+mov R31 362
+ret R16
+str R23 43350 R11
+ldr R20 R0 -18749
+sub R9 R27 R20
+str R7 26007 R13
+ret R20
+div R10 R7 R3
+str R2 52384 R27
+ret R4
+ldr R31 R27 52488
+ldr R22 R15 52669
+jz R29 3685
+div R4 R4 R22
+mov R16 14034
+mov R2 13657
+add R27 R10 R25
+sub R6 R30 R9
+ldr R22 R7 -22412
+mul R9 R13 R6
+mul R24 R25 R1
+jz R31 3360
+str R22 56651 R30
+add R2 R8 R6
+ret R10
+ldr R2 R21 39866
+mov R31 -49028
+str R13 37731 R31
+add R6 R11 R4
+jz R14 8315
+div R13 R17 R28
+add R16 R4 R20
+mov R19 -43879
+str R6 -533 R12
+div R8 R21 R30
+str R21 39706 R23
+ret R17
+mov R15 -38913
+div R31 R27 R15
+add R27 R20 R2
+mul R28 R3 R5
+mov R29 -32980
+mul R2 R19 R25
+mov R26 -20024
+ret R29
+add R31 R2 R1
+ret R28
+mul R29 R16 R24
+jz R11 4595
+str R16 39249 R12
+str R26 40043 R4
+ret R17
+mov R5 -11152
+ret R1
+jmp 1500
+jmp 7116
+mov R3 17322
+jmp 5407
+sub R24 R1 R11
+mul R16 R20 R18
+jmp 8134
+add R10 R19 R29
+mov R4 -22088
+mov R14 44581
+sub R23 R4 R1
+div R26 R26 R3
+add R7 R28 R9
+add R23 R3 R29
+ret R31
+str R4 8105 R10
+str R24 1085 R3
+div R7 R9 R21
+str R7 -36587 R18
+div R23 R22 R9
+sub R26 R9 R8
+ldr R2 R26 -39597
+jz R9 3350
+div R5 R13 R29
+mov R8 2812
+ldr R7 R4 16
+add R22 R12 R15
+sub R20 R11 R24
+jz R17 1587
+jmp 1243
+ret R29
+add R3 R27 R27
+jz R13 5745
+mul R4 R13 R28
+sub R11 R23 R22
+ret R20
+str R17 15718 R3
+jmp 6536
+sub R27 R27 R20
+div R15 R1 R9
+ldr R4 R3 65293
+mul R10 R10 R21
+div R5 R22 R29
+ldr R19 R24 9083
+sub R1 R9 R5
+sub R16 R16 R25
+ldr R6 R22 58965
+str R23 21284 R10
+jmp 5833
+sub R1 R9 R6
+str R1 44891 R30
+mov R2 -20658
+div R22 R22 R25
+sub R23 R0 R13
+sub R14 R19 R12
+mul R19 R25 R5
+ret R31
+add R19 R13 R5
+div R6 R15 R5
+str R16 31086 R0
+sub R20 R13 R1
+mul R29 R6 R27
+ldr R21 R7 23443
+jz R26 -824
+mov R23 -33684
+jz R9 1965
+ldr R8 R21 56383
+add R8 R5 R24
+jmp -321
+div R9 R20 R29
+ldr R25 R1 64172
+mov R13 -11639
+mul R19 R17 R13
+jmp 5540
+ldr R27 R17 -35488
+mul R22 R24 R9
+add R1 R22 R20
+jmp 989
+jz R11 718
+div R1 R19 R17
+sub R16 R16 R7
+jz R2 -651
+div R8 R16 R26
+mul R26 R4 R29
+ret R15
+jmp -169
+div R21 R16 R12
+jmp 2707
+jmp 4735
+sub R26 R26 R30
+sub R20 R5 R2
+add R10 R29 R27
+sub R6 R18 R12
+str R11 -50583 R12
+mul R0 R17 R1
+div R20 R15 R1
+jmp 4715
+jz R9 4249
+str R8 41778 R27
+mul R21 R14 R4
+add R24 R0 R27
+mul R2 R11 R21
+ldr R30 R21 -41389
+ldr R3 R10 23004
+add R3 R18 R21
+mul R10 R24 R23
+jz R20 8412
+ret R26
+mov R17 36458
+ldr R13 R5 -24844
+sub R7 R8 R1
+mov R26 18082
+ret R28
+jz R30 4630
+sub R22 R1 R19
+ret R20
+str R13 -12727 R3
+mul R6 R22 R12
+div R1 R4 R18
+ret R16
+div R14 R9 R25
+sub R16 R22 R9
+jmp 6685
+ldr R12 R14 -42322
+jmp 7547
+div R24 R24 R8
+add R5 R14 R4
+ldr R3 R24 -31885
+ldr R31 R1 -37272
+mov R4 -49117
+mov R1 -12025
+sub R31 R14 R26
+mul R7 R9 R13
+add R7 R13 R24
+ret R24
+add R12 R18 R29
+mov R9 26836
+ldr R20 R11 62107
+add R20 R22 R0
+str R20 49253 R28
+ret R12
+add R24 R6 R27
+div R13 R17 R14
+ldr R19 R30 -54846
+mov R6 17049
+ret R31
+ldr R4 R18 52810
+div R12 R19 R4
+mov R21 -34633
+mul R8 R20 R0
+str R27 1041 R0
+div R31 R30 R23
+ldr R11 R8 -17590
+jmp 3483
+mov R30 2859
+mov R11 23518
+mov R14 -12273
+div R20 R2 R26
+mul R9 R30 R14
+jz R2 8779
+ret R13
+str R11 55359 R1
+mul R12 R31 R19
+sub R24 R17 R13
+ldr R5 R5 7158
+ldr R25 R8 22232
+div R31 R27 R26
+jmp 2255
+jz R5 2228
+jz R27 6527
+add R23 R23 R0
+jz R4 -16
+div R23 R26 R1
+ret R3
+mov R9 -2946
+jmp 2229
+str R17 40979 R4
+mov R25 -17710
+mul R22 R26 R31
+mov R27 -40326
+mov R11 -47258
+ret R19
+mov R8 33319
+mov R18 2470
+jz R11 5537
+add R28 R22 R0
+ret R13
+jz R17 7246
+sub R16 R12 R19
+sub R25 R5 R3
+ret R26
+mov R30 -18400
+str R5 55421 R26
+mov R10 48107
+jz R3 7019
+str R17 -38893 R17
+add R27 R24 R14
+add R10 R1 R17
+str R14 -7320 R6
+ret R1
+mul R20 R19 R14
+str R9 21162 R0
+sub R24 R24 R6
+div R27 R29 R4
+div R19 R11 R8
+sub R19 R13 R15
+ret R16
+ret R10
+ret R8
+str R25 27689 R9
+div R8 R14 R24
+div R30 R8 R8
+add R10 R10 R14
+jz R6 2845
+jmp 7241
+mul R20 R7 R30
+str R7 11385 R31
+add R5 R6 R15
+add R18 R12 R15
+str R1 -62898 R4
+ldr R4 R31 -40556
+jz R11 2287
+ldr R16 R11 -15658
+ret R8
+str R19 41724 R5
+sub R8 R29 R19
+div R27 R14 R27
+ldr R31 R26 38494
+sub R7 R0 R0
+add R11 R21 R21
+mul R17 R12 R25
+ret R26
+jmp 389
+str R27 -18383 R1
+ret R4
+mov R17 21341
+ret R15
+ret R1
+add R9 R8 R0
+jmp 4424
+str R26 -714 R31
+jz R20 7865
+ret R29
+mul R0 R10 R3
+mul R15 R5 R2
+mov R16 -43613
+div R23 R31 R20
+ldr R26 R14 57197
+jz R29 1969
+jz R17 6777
+add R20 R12 R0
+jz R0 3206
+sub R11 R27 R22
+ret R13
+jmp 6519
+ret R1
+mul R29 R3 R4
+ldr R10 R22 -3742
+div R21 R6 R0
+sub R23 R29 R1
+ldr R28 R25 -29041
+str R2 64222 R7
+jmp 2031
+jmp 1200
+ldr R28 R18 47295
+str R14 -4176 R28
+ret R10
+sub R19 R0 R25
+add R26 R2 R26
+ret R20
+str R18 54046 R7
+ret R1
+jmp 4426
+mov R20 25126
+str R1 -2175 R12
+mov R13 35177
+jz R4 2336
+mov R5 15829
+mov R0 -23349
+div R17 R10 R2
+div R2 R13 R4
+str R11 -63258 R27
+ret R19
+sub R25 R17 R21
+jz R27 7048
+sub R23 R24 R9
+ret R21
+jmp 5494
+mul R16 R1 R27
+mov R2 48246
+ldr R10 R7 -35434
+mul R9 R9 R25
+add R8 R23 R0
+mov R17 10273
+str R24 25205 R6
+mov R28 -16052
+str R28 2505 R12
+mov R20 39051
+mov R1 47296
+sub R4 R5 R10
+ldr R29 R28 -8123
+sub R22 R8 R24
+mov R3 16025
+ret R0
+div R0 R23 R4
+jmp 4952
+ldr R26 R18 23115
+ret R2
+str R18 31888 R19
+sub R19 R16 R19
+ret R17
+mov R17 -13630
+str R16 34467 R29
+jmp -1304
+mov R13 30559
+mul R15 R26 R23
+jmp 3242
+str R7 5563 R10
+mov R3 -16810
+ldr R7 R5 -36328
+div R9 R20 R23
+ret R24
+ret R20
+ldr R3 R27 16640
+jmp 8202
+ret R31
+mul R21 R8 R7
+ret R4
+add R5 R9 R16
+jmp 1886
+add R9 R22 R20
+jz R20 4850
+mov R9 -6051
+mov R9 -17913
+str R25 -31657 R13
+str R26 -61480 R11
+jmp 3938
+div R7 R4 R18
+ret R6
+div R7 R30 R2
+sub R21 R29 R1
+jmp 3348
+div R26 R4 R1
+jmp -1115
+sub R30 R29 R17
+sub R7 R15 R13
+div R7 R14 R28
+sub R3 R2 R25
+sub R30 R11 R5
+str R10 -42421 R30
+str R18 5506 R28
+sub R11 R2 R9
+jz R5 3162
+jz R30 -1322
+str R21 -21100 R10
+jmp 2937
+div R5 R7 R21
+str R22 -16310 R29
+mov R22 26464
+sub R4 R17 R4
+mul R31 R17 R24
+ret R5
+mov R9 24262
+div R23 R4 R7
+div R29 R9 R21
+ret R3
+div R16 R30 R16
+ret R9
+str R28 64941 R19
+mov R16 23791
+ldr R2 R15 14422
+mul R6 R9 R5
+mul R0 R11 R27
+ldr R15 R24 46328
+sub R20 R6 R5
+str R22 -48331 R8
+jz R9 6856
+jmp 4786
+add R5 R9 R31
+ret R17
+add R17 R10 R27
+div R31 R4 R7
+div R6 R6 R7
+str R1 -9441 R14
+str R10 -45093 R22
+ldr R17 R14 25025
+jmp 135
+jmp -242
+jmp 8561
+ldr R11 R15 2078
+add R5 R25 R18
+mov R25 2046
+str R0 64923 R19
+mov R31 -975
+ret R22
+div R15 R30 R22
+ret R5
+mul R4 R3 R3
+ldr R0 R21 -28781
+sub R25 R30 R23
+str R17 52360 R26
+str R5 35314 R3
+div R22 R24 R18
+mov R25 11536
+div R26 R18 R17
+ldr R1 R29 -11743
+jz R17 5778
+add R20 R9 R28
+div R4 R25 R10
+mul R22 R3 R4
+str R6 15856 R25
+str R5 37104 R18
+jmp 1582
+jz R9 -1268
+add R2 R14 R8
+add R12 R24 R8
+str R30 -13791 R10
+str R6 -28454 R13
+add R0 R4 R9
+mul R6 R20 R6
+div R1 R23 R27
+ret R9
+str R31 40874 R7
+ldr R21 R11 19273
+div R0 R10 R12
+jz R20 5729
+ldr R28 R13 21876
+jz R5 5230
+ldr R15 R30 -33849
+mov R29 -62697
+sub R25 R15 R8
+jz R13 4545
+str R3 43042 R13
+ret R6
+div R8 R21 R2
+div R0 R31 R24
+mul R3 R21 R4
+ldr R23 R24 -14530
+mul R15 R18 R21
+jz R7 4733
+mov R4 -49610
+div R10 R8 R25
+div R29 R10 R28
+sub R30 R27 R25
+sub R28 R24 R2
+add R24 R7 R9
+add R25 R10 R15
+add R19 R11 R27
+jmp 2927
+ret R31
+sub R15 R28 R30
+add R22 R10 R31
+str R8 45688 R16
+mul R13 R6 R7
+mul R26 R19 R25
+ret R2
+jmp 7730
+jmp 2594
+jmp 3792
+ldr R31 R15 -7801
+div R5 R4 R18
+jz R20 2705
+mov R4 -10605
+ret R0
+add R1 R28 R6
+str R28 -14576 R16
+str R15 -55184 R28
+mul R29 R16 R10
+sub R13 R8 R6
+add R5 R10 R16
+ldr R23 R12 43819
+add R25 R22 R31
+mov R1 -2252
+mul R18 R11 R28
+jmp 3811
+div R31 R8 R15
+mul R6 R0 R14
+div R7 R19 R29
+add R9 R25 R26
+str R16 40347 R1
+add R29 R28 R19
+add R25 R21 R6
+jmp 7528
+jmp 5129
+ret R29
+str R11 -43281 R8
+sub R31 R25 R23
+sub R1 R26 R31
+ldr R31 R19 -29624
+mul R6 R30 R0
+ret R25
+mov R18 -2610
+jmp 600
+ldr R6 R18 57121
+jmp 3765
+add R16 R14 R18
+ldr R30 R27 -930
+sub R23 R0 R6
+jmp 4809
+ret R28
+mov R29 -61548
+ldr R4 R11 -6945
+add R1 R5 R30
+jmp 3030
+add R28 R4 R29
+jmp 5569
+mov R30 28833
+mov R22 -26740
+jz R14 4838
+jmp 1868
+jz R21 7516
+mul R8 R18 R10
+div R31 R29 R4
+str R12 -51429 R22
+mul R22 R20 R7
+mul R3 R20 R11
+sub R27 R25 R10
+str R9 39003 R2
+div R7 R21 R8
+jmp 4294
+jz R19 54
+jmp 4673
+str R2 -53344 R23
+ret R2
+jmp 106
+ret R17
+mov R30 -22679
+ldr R26 R1 -38608
+add R4 R30 R9
+add R10 R23 R1
+ldr R6 R21 54206
+mov R20 9077
+jz R27 8054
+ret R27
+mov R0 14706
+div R27 R6 R16
+add R27 R7 R31
+ldr R23 R21 36723
+jz R12 -1297
+div R21 R23 R6
+mul R7 R13 R20
+mov R21 -25959
+div R16 R11 R31
+jz R25 7131
+jmp 5822
+add R22 R23 R10
+str R22 38984 R1
+ldr R19 R3 -35660
+ret R11
+add R11 R17 R17
+jz R7 2696
+jmp 2384
+jz R31 -685
+mul R19 R31 R12
+div R20 R3 R17
+mov R16 31820
+str R14 -35005 R7
+div R16 R19 R11
+div R20 R18 R19
+div R23 R3 R0
+ret R29
+ret R10
+ret R16
+ret R17
+div R24 R20 R30
+div R16 R8 R16
+add R16 R20 R3
+jz R28 6778
+mov R23 -35320
+jz R22 629
+mov R21 -26875
+ret R17
+str R5 -24505 R17
+add R16 R24 R5
+str R19 -27682 R3
+ldr R2 R5 64291
+str R11 -369 R24
+div R27 R2 R9
+str R16 26666 R7
+sub R29 R19 R19
+mov R30 -22405
+jmp -825
+jz R29 8347
+mul R13 R28 R15
+sub R19 R17 R20
+sub R25 R22 R2
+add R15 R21 R12
+jmp -1565
+jz R24 7821
+ldr R27 R1 31894
+mov R2 -31022
+ret R7
+div R27 R23 R31
+mul R27 R18 R26
+sub R10 R0 R6
+mul R15 R10 R4
+ret R16
+mov R28 21389
+add R30 R20 R4
+ret R18
+add R12 R21 R29
+div R31 R20 R27
+div R0 R7 R28
+jmp 7329
+div R13 R19 R21
+ldr R2 R10 8601
+mov R11 -22544
+str R19 -28887 R10
+sub R20 R31 R22
+jz R30 -1107
+mul R24 R5 R5
+str R25 27899 R11
+str R28 -7653 R6
+mov R15 23134
+jz R27 2529
+jz R0 -159
+jmp 3302
+mul R16 R14 R8
+jz R26 4024
+mul R1 R10 R24
+add R18 R16 R6
+sub R8 R16 R15
+div R9 R5 R11
+jmp -1160
+jmp 7959
+sub R11 R8 R24
+jmp 6510
+div R28 R28 R7
+jz R27 -675
+jmp 7468
+mul R13 R11 R4
+div R23 R21 R9
+ret R24
+ldr R1 R16 -30901
+add R23 R16 R20
+ret R1
+div R21 R18 R29
+add R2 R28 R22
+mov R24 -38731
+mul R22 R6 R21
+sub R19 R26 R14
+div R21 R14 R28
+mov R15 -26103
+sub R24 R20 R28
+jmp 4169
+mov R1 -14852
+mul R8 R17 R21
+jz R25 330
+str R4 10051 R0
+jmp 4184
+mul R23 R9 R14
+str R13 -50997 R15
+sub R4 R30 R16
+mov R1 -13368
+jmp -878
+add R23 R18 R18
+add R4 R12 R13
+sub R25 R10 R10
+str R30 -25054 R13
+jz R9 -601
+mov R18 -10246
+sub R29 R6 R7
+ldr R19 R9 32193
+ldr R14 R28 -29110
+str R3 -49428 R16
+mul R27 R11 R0
+sub R3 R24 R3
+div R21 R11 R23
+sub R18 R10 R9
+sub R11 R0 R8
+div R20 R26 R14
+mul R14 R24 R13
+add R18 R13 R4
+sub R10 R12 R4
+ret R3
+mov R9 -12028
+jmp 3401
+sub R24 R15 R15
+mul R20 R12 R10
+mov R4 43568
+jz R29 6087
+sub R20 R31 R23
+ldr R30 R6 -23136
+str R24 12403 R17
+add R21 R6 R18
+div R20 R17 R3
+ret R1
+mul R24 R20 R9
+jz R9 1375
+mov R30 -45967
+ldr R9 R3 63282
+jmp -615
+mul R5 R30 R0
+jmp -1260
+div R31 R30 R11
+str R0 -42518 R15
+ldr R17 R23 -10671
+mov R16 32540
+ret R31
+ret R29
+ret R19
+add R14 R29 R22
+sub R26 R12 R4
+ret R6
+jmp 3401
+jz R15 1468
+ldr R28 R17 -17500
+mov R12 -25686
+mul R3 R23 R20
+str R6 50614 R30
+mul R11 R5 R6
+jz R18 3002
+str R17 -8524 R31
+mul R27 R22 R6
+mul R0 R22 R11
+sub R18 R16 R9
+ldr R1 R4 3620
+ldr R9 R16 -27697
+mul R18 R7 R7
+mul R4 R17 R29
+mul R20 R8 R30
+ret R24
+mov R28 -10672
+jmp 5494
+mov R12 -58140
+ret R6
+ret R14
+add R13 R24 R7
+div R25 R2 R9
+ret R6
+mov R3 -51143
+div R26 R2 R21
+str R6 -49924 R18
+jz R0 4544
+str R8 -6482 R15
+jz R8 404
+str R1 62175 R13
+str R23 16524 R3
+jz R15 445
+div R0 R26 R20
+ret R29
+mul R22 R15 R16
+div R23 R1 R21
+jmp -111
+div R5 R10 R17
+ret R0
+ret R0
+div R3 R2 R1
+add R25 R28 R6
+add R6 R7 R8
+str R26 -21983 R13
+ldr R31 R27 -48842
+ldr R30 R23 -6277
+jmp 6602
+ldr R10 R23 5269
+mul R25 R23 R1
+mul R4 R8 R30
+jz R29 5940
+mov R19 -22246
+mul R8 R11 R22
+add R2 R22 R5
+jmp -1162
+str R24 -48663 R8
+jz R13 -1230
+str R2 19564 R8
+div R6 R9 R1
+ldr R27 R9 23909
+div R23 R8 R6
+ldr R11 R5 -11579
+jmp 6829
+add R9 R23 R8
+sub R3 R24 R0
+div R6 R22 R21
+mul R16 R14 R21
+jz R11 -622
+add R28 R16 R24
+str R29 -2352 R12
+ret R17
+ldr R6 R4 -22258
+mov R6 15842
+div R8 R15 R24
+mul R23 R6 R12
+div R4 R23 R19
+mul R26 R26 R1
+str R12 -64347 R10
+ldr R1 R13 41863
+jmp 1384
+ret R13
+mul R16 R31 R21
+sub R26 R1 R20
+jmp 1640
+ldr R5 R31 19794
+sub R25 R18 R0
+ldr R10 R13 -556
+mov R22 55765
+ret R20
+str R24 -7922 R23
+div R8 R20 R8
+jmp 2694
+add R7 R27 R9
+str R30 -46808 R17
+sub R11 R25 R14
+mov R26 11286
+mul R25 R0 R5
+div R0 R16 R26
+sub R11 R9 R23
+mov R9 48917
+jmp 40
+sub R7 R19 R19
+div R10 R10 R17
+ldr R22 R5 -16986
+div R17 R8 R4
+ldr R16 R6 9314
+ret R10
+div R29 R19 R19
+str R7 9380 R7
+str R17 -34067 R16
+mov R10 22738
+str R17 19228 R7
+str R20 2109 R31
+div R10 R24 R14
+mul R12 R4 R31
+ret R18
+mov R4 48933
+ldr R4 R6 -47500
+ret R4
+ret R16
+ldr R14 R0 -14347
+sub R30 R25 R23
+mul R10 R15 R7
+ldr R20 R6 -39988
+sub R4 R19 R11
+div R29 R8 R27
+jz R27 6604
+mov R1 21594
+div R27 R21 R12
+mul R28 R24 R16
+mul R8 R18 R1
+mul R19 R30 R8
+add R8 R4 R18
+add R15 R4 R22
+jmp 2408
+jz R8 4448
+jmp -1624
+jmp 5769
+ldr R0 R3 39538
+jz R28 -1469
+str R3 8078 R5
+jz R3 3959
+jz R13 -1160
+ret R17
+div R25 R9 R19
+add R10 R11 R24
+add R6 R5 R30
+ret R7
+ret R16
+mov R27 -37451
+ldr R10 R30 -13040
+str R29 45701 R27
+ret R25
+str R12 -6406 R27
+mul R27 R14 R27
+sub R10 R4 R5
+jz R30 4830
+jz R5 5380
+add R6 R22 R2
+add R7 R1 R1
+jmp -1113
+mul R12 R30 R27
+div R23 R25 R13
+mul R25 R29 R26
+jz R23 7089
+ret R29
+ldr R7 R19 50250
+ret R6
+jmp 447
+str R8 22799 R7
+sub R22 R19 R15
+jz R15 1014
+sub R18 R22 R4
+mul R2 R30 R11
+ret R13
+sub R17 R29 R8
+ldr R7 R27 60031
+str R3 53580 R28
+mov R29 -13274
+add R30 R4 R24
+jmp -443
+add R2 R23 R31
+mul R11 R7 R21
+div R14 R5 R18
+add R9 R19 R24
+jz R8 35
+jz R17 961
+ldr R1 R20 22495
+add R18 R6 R30
+div R27 R1 R15
+jmp 4143
+jmp 7552
+jmp 2667
+add R8 R29 R29
+mov R14 -11399
+div R9 R10 R27
+mov R22 53842
+add R21 R25 R26
+ldr R3 R7 -31205
+div R8 R6 R6
+sub R9 R30 R8
+ret R28
+ldr R25 R19 25199
+mov R11 25742
+str R15 131 R16
+mov R15 51712
+div R19 R8 R13
+add R20 R22 R4
+str R6 20984 R16
+ret R10
+ldr R29 R12 -48159
+div R2 R26 R26
+ldr R20 R4 -12576
+ldr R7 R28 31983
+ldr R4 R0 -57919
+str R14 45928 R20
+str R2 11456 R4
+div R6 R2 R18
+ldr R10 R18 -35163
+jz R2 6527
+add R1 R7 R19
+ret R31
+str R24 -13444 R14
+jmp 5081
+mov R0 -15943
+ldr R27 R13 -32024
+ldr R15 R1 -21881
+sub R7 R1 R13
+str R22 8460 R16
+div R26 R9 R3
+add R9 R15 R3
+add R21 R13 R28
+sub R10 R20 R6
+mov R19 -31479
+div R17 R29 R19
+jz R11 829
+ldr R2 R21 -45306
+ldr R5 R2 26443
+add R11 R28 R29
+jz R22 904
+sub R3 R3 R8
+sub R20 R11 R9
+str R20 -41313 R29
+ldr R11 R22 13591
+mul R0 R9 R10
+jz R3 7583
+ret R2
+add R6 R11 R17
+ldr R2 R6 18761
+mov R4 -25533
+sub R20 R28 R6
+div R30 R19 R16
+div R28 R15 R28
+ldr R26 R1 3435
+jmp 3624
+div R19 R16 R29
+jz R6 2625
+div R7 R26 R15
+jmp 2225
+mul R30 R29 R19
+str R29 -8699 R18
+str R10 60464 R30
+jz R10 6909
+jmp 4658
+jmp 2792
+jz R6 -218
+ret R27
+sub R19 R26 R1
+ldr R28 R27 -55129
+ldr R27 R0 64849
+add R19 R25 R6
+ldr R29 R0 35351
+jmp 1334
+ldr R22 R7 -28423
+add R5 R10 R18
+mov R7 6021
+ret R28
+mov R22 14256
+ldr R14 R17 -5500
+add R9 R31 R31
+add R31 R25 R19
+ret R11
+mov R4 1397
+add R8 R16 R29
+sub R18 R19 R12
+sub R9 R15 R12
+jz R23 6596
+jmp 1737
+mul R6 R29 R24
+mul R29 R27 R25
+str R1 27921 R5
+mul R9 R4 R12
+div R24 R9 R3
+div R29 R22 R24
+ldr R13 R11 4151
+ret R2
+mov R23 -55844
+ret R24
+ret R2
+sub R21 R21 R0
+sub R3 R2 R6
+jmp 3659
+ret R1
+mul R0 R1 R20
+mul R13 R22 R30
+ret R31
+ret R23
+ret R6
+ret R16
+ret R1
+str R10 31763 R14
+ldr R16 R1 -11134
+str R5 -1554 R19
+str R14 64802 R21
+add R30 R31 R29
+mov R3 -23877
+div R20 R30 R29
+div R7 R18 R4
+ret R8
+jz R18 3682
+str R22 -45428 R9
+mul R23 R10 R26
+sub R16 R5 R1
+mul R27 R19 R15
+sub R23 R6 R30
+add R13 R31 R15
+sub R8 R14 R24
+jmp 2051
+str R9 -5005 R30
+sub R27 R26 R30
+mul R18 R23 R24
+ldr R24 R8 49064
+jmp -590
+mov R5 48768
+add R23 R17 R31
+div R2 R8 R15
+mov R26 15386
+ret R1
+mov R27 42187
+sub R31 R8 R29
+str R0 64644 R7
+jz R10 1797
+jz R22 3316
+jmp 1729
+ldr R16 R11 40267
+jmp 5439
+sub R1 R4 R0
+str R12 47473 R17
+ldr R13 R7 -14082
+div R21 R1 R19
+jz R4 6626
+div R21 R29 R24
+div R11 R7 R25
+jz R12 2412
+div R8 R1 R16
+jz R23 5647
+div R27 R12 R24
+ldr R6 R31 33827
+mul R10 R25 R12
+mov R18 -22644
+mul R4 R25 R24
+mov R24 -41040
+ret R13
+jz R24 2408
+div R6 R1 R25
+mov R22 16016
+add R24 R29 R27
+mov R20 -65190
+ret R17
+jz R22 3602
+add R12 R9 R1
+mul R30 R28 R13
+add R29 R12 R24
+mul R13 R9 R8
+mov R31 56245
+ldr R4 R1 54174
+mul R28 R7 R5
+mul R10 R0 R29
+add R5 R15 R18
+sub R29 R1 R14
+str R9 30280 R9
+sub R5 R4 R19
+ldr R19 R8 -48763
+ldr R14 R12 -6061
+str R20 -22933 R19
+jz R0 3505
+str R31 -3184 R28
+div R21 R19 R11
+sub R16 R27 R13
+jmp 6794
+mov R15 -14325
+str R13 43332 R9
+jz R12 5965
+div R26 R10 R29
+ldr R10 R29 -21607
+jmp 87
+str R27 21349 R19
+str R17 -7416 R15
+jz R28 4848
+jz R6 5179
+ret R10
+ret R10
+jz R10 1790
+sub R26 R28 R14
+str R18 25188 R8
+ret R22
+sub R11 R7 R26
+ret R19
+sub R29 R1 R20
+sub R15 R4 R16
+mov R18 30380
+ldr R23 R26 -48561
+mov R21 -58379
+ldr R8 R28 56715
+jz R30 189
+ret R13
+ret R15
+div R22 R4 R16
+jz R27 4805
+div R17 R14 R2
+mov R11 11514
+jmp 5394
+sub R10 R4 R13
+jmp 1013
+ldr R25 R26 40726
+mov R26 63345
+sub R15 R26 R25
+mov R10 27591
+mov R31 -46771
+jmp 619
+ret R17
+mov R0 -42689
+mov R7 -57168
+div R9 R12 R3
+jmp 1366
+ret R1
+add R5 R9 R23
+jz R26 7642
+div R18 R9 R15
+sub R31 R6 R30
+add R4 R4 R3
+div R16 R10 R16
+ldr R30 R31 23541
+mov R18 42488
+ret R12
+mov R8 43726
+jmp -298
+add R24 R1 R25
+mov R28 -16260
+jmp 3765
+mul R8 R4 R28
+ldr R0 R15 -48287
+mov R4 26811
+jmp -1266
+mov R29 -21359
+sub R12 R6 R0
+mov R26 -52951
+sub R17 R19 R26
+ret R21
+ldr R11 R20 35661
+str R8 58986 R13
+jmp 6304
+sub R15 R13 R9
+add R14 R22 R27
+sub R2 R8 R22
+str R28 25434 R7
+str R4 -64839 R11
+str R11 -37014 R25
+ldr R19 R31 -37650
+sub R29 R27 R5
+str R23 -25925 R1
+div R19 R3 R10
+mov R6 32886
+add R18 R14 R11
+jmp 6912
+jz R30 4247
+sub R27 R0 R6
+div R24 R26 R14
+mul R11 R6 R30
+ldr R23 R2 -36177
+sub R7 R12 R25
+ret R30
+jz R21 7582
+ldr R24 R23 -5292
+jmp 2604
+ldr R24 R2 35270
+str R4 5225 R28
+jz R4 2506
+ret R11
+ret R30
+jz R19 -2145
+sub R30 R25 R8
+jmp 79
+jz R9 -441
+ret R16
+ldr R13 R18 -12406
+mul R10 R24 R9
+str R2 1678 R17
+add R8 R3 R1
+mov R28 -20580
+add R10 R2 R14
+jz R0 -1642
+div R11 R28 R21
+sub R19 R8 R19
+jmp 6346
+jz R21 -2129
+str R15 27681 R28
+sub R23 R3 R6
+jmp 6778
+sub R25 R0 R12
+add R14 R28 R23
+sub R14 R31 R29
+str R18 -13344 R6
+jmp 3294
+str R24 5060 R2
+add R23 R21 R4
+sub R7 R24 R17
+ldr R21 R0 -13235
+mul R16 R20 R3
+sub R6 R11 R30
+ldr R29 R19 -8150
+add R9 R10 R5
+ret R24
+jz R23 478
+ret R27
+ldr R15 R29 58047
+mov R13 -34942
+sub R27 R21 R23
+mul R8 R17 R15
+ldr R30 R12 46863
+mul R12 R31 R9
+jmp -398
+ldr R13 R13 16890
+ret R25
+sub R19 R4 R1
+ret R27
+div R29 R22 R27
+mul R19 R6 R0
+mov R29 -64413
+add R21 R10 R10
+ret R9
+add R21 R11 R23
+div R9 R10 R28
+jmp -2040
+div R3 R6 R25
+mul R28 R10 R27
+mov R22 43287
+sub R14 R21 R28
+str R25 34276 R31
+jmp -491
+mov R6 -33125
+ldr R2 R26 -19746
+str R7 6560 R8
+jz R6 1426
+jmp -1037
+mov R2 -17210
+mov R10 -10360
+add R5 R4 R2
+div R22 R24 R19
+ldr R18 R31 35167
+add R17 R25 R14
+mov R23 -56961
+ldr R21 R29 -17174
+jz R0 3183
+str R10 13438 R5
+jz R22 20
+str R30 1195 R10
+add R21 R5 R18
+mul R31 R10 R20
+jmp 1321
+sub R16 R22 R30
+div R11 R11 R3
+mul R4 R15 R2
+ret R10
+jz R5 4807
+div R16 R10 R5
+ret R13
+ret R12
+ldr R17 R26 -42249
+mul R20 R16 R15
+ret R18
+jz R6 6283
+str R8 -50899 R18
+div R18 R17 R10
+ldr R16 R18 -52370
+add R30 R19 R23
+div R30 R31 R26
+add R27 R28 R22
+ldr R3 R20 63022
+add R19 R28 R16
+add R4 R16 R24
+jmp 2956
+jz R24 6271
+sub R2 R30 R20
+ret R25
+ldr R26 R5 -15123
+str R21 57737 R24
+sub R10 R15 R9
+jmp 1567
+mov R3 35829
+jmp 2
+jz R28 -2053
+mov R12 25969
+jmp 6113
+ret R21
+sub R14 R12 R24
+ret R12
+div R5 R9 R25
+jz R28 3594
+add R15 R28 R6
+sub R12 R25 R22
+ldr R13 R27 60235
+ldr R4 R0 -44982
+jz R12 6283
+mov R30 -17046
+mov R19 42210
+jmp -521
+sub R2 R10 R27
+str R1 62291 R3
+ret R13
+div R8 R21 R3
+add R12 R10 R27
+sub R12 R21 R29
+mov R2 18182
+sub R31 R14 R7
+mov R6 7171
+div R3 R11 R20
+div R8 R14 R28
+jz R19 4654
+mul R6 R27 R23
+mov R20 55097
+ldr R19 R22 -60708
+jmp 5480
+ret R20
+mul R18 R31 R18
+mul R19 R5 R0
+ldr R1 R21 -38507
+ret R20
+add R13 R2 R23
+ret R31
+str R20 -7974 R31
+mov R29 64966
+ret R25
+jz R18 -221
+str R29 -43171 R19
+sub R21 R9 R0
+div R0 R14 R16
+mov R14 42098
+mov R26 4151
+sub R30 R15 R14
+sub R22 R22 R10
+jmp -2133
+sub R18 R23 R29
+str R16 -32595 R11
+ldr R22 R11 7654
+add R30 R14 R27
+jz R25 4468
+str R16 -29035 R27
+str R11 -42243 R1
+div R12 R0 R22
+sub R27 R28 R19
+div R31 R30 R22
+mov R21 41810
+ret R4
+sub R20 R11 R18
+sub R17 R18 R9
+str R26 -23982 R29
+ret R2
+mov R13 1296
+mul R6 R9 R8
+sub R24 R10 R17
+mul R17 R25 R16
+sub R20 R22 R3
+mov R23 -24816
+sub R26 R17 R17
+div R17 R2 R24
+ret R4
+sub R19 R26 R21
+ret R13
+jmp -1644
+mov R27 36696
+jmp 3903
+div R31 R27 R16
+jz R29 -2106
+mul R30 R15 R10
+str R11 1881 R22
+mul R15 R12 R14
+add R22 R12 R0
+mul R0 R2 R12
+mul R18 R21 R19
+add R27 R17 R5
+str R3 -31783 R17
+jz R18 143
+ret R23
+add R12 R15 R0
+jz R2 6481
+div R22 R29 R29
+ret R10
+jz R10 2134
+str R12 43274 R8
+ldr R16 R2 -45318
+jz R20 2642
+jmp -275
+mul R1 R19 R12
+jmp -267
+str R20 -54515 R9
+jmp -403
+jz R18 -1550
+jmp 656
+mov R19 -35708
+add R19 R22 R0
+str R5 20644 R11
+mul R5 R8 R20
+mov R9 -12353
+str R11 -23213 R26
+sub R10 R24 R11
+mul R0 R10 R10
+sub R7 R6 R2
+mul R8 R30 R20
+add R15 R17 R22
+ldr R26 R1 35917
+jz R28 -608
+jz R10 -1428
+sub R21 R6 R20
+ret R1
+sub R26 R31 R28
+div R11 R6 R0
+str R8 22040 R10
+div R0 R3 R7
+ldr R17 R8 -9436
+sub R31 R7 R15
+jmp -1717
+str R2 -13841 R3
+add R31 R4 R6
+mul R4 R17 R25
+sub R1 R6 R16
+mov R24 11456
+str R4 38464 R10
+sub R1 R18 R29
+ret R28
+ldr R17 R25 62773
+jmp 1632
+add R18 R22 R16
+mul R24 R26 R23
+div R17 R30 R8
+str R1 -49750 R21
+mov R9 -61350
+jmp 3706
+str R28 -58910 R19
+jz R31 -1776
+jmp -1075
+ret R16
+str R10 48174 R5
+mov R17 -30099
+str R26 -65325 R16
+div R0 R21 R22
+add R19 R0 R9
+jz R25 6808
+mov R9 -56722
+mul R22 R17 R5
+sub R30 R29 R26
+ldr R6 R25 28509
+ldr R6 R13 6993
+div R26 R26 R1
+add R28 R28 R14
+jmp -405
+jz R7 7239
+ret R23
+str R0 27589 R30
+jz R14 4550
+mul R30 R4 R2
+str R20 -41002 R28
+jmp 841
+div R0 R1 R30
+mov R25 -1272
+ldr R20 R23 27860
+ldr R29 R4 34241
+div R26 R23 R11
+div R2 R24 R21
+jz R16 829
+str R3 -63914 R4
+ret R29
+mov R6 -16878
+jmp 2372
+str R26 24746 R6
+div R20 R27 R25
+div R9 R23 R18
+add R25 R15 R14
+add R24 R3 R29
+sub R22 R24 R4
+add R11 R3 R13
+add R2 R17 R25
+str R16 -51546 R22
+sub R15 R16 R25
+mov R9 -34878
+jmp 849
+ret R6
+sub R8 R18 R9
+jmp 3005
+mul R1 R27 R7
+add R24 R21 R1
+str R30 33190 R6
+str R20 -53379 R13
+ldr R0 R30 -63236
+jmp 35
+mov R18 27978
+jmp 7296
+sub R20 R31 R18
+ldr R19 R4 54068
+add R2 R10 R23
+ldr R27 R20 -45129
+ldr R10 R14 -27530
+mul R2 R30 R2
+jmp 4372
+jmp 774
+ldr R8 R5 -42683
+ldr R13 R21 -25312
+sub R5 R13 R12
+div R17 R7 R29
+mul R11 R13 R4
+jz R26 4930
+mov R21 31171
+ret R27
+sub R19 R28 R28
+jmp -156
+ldr R16 R21 -426
+mul R8 R17 R14
+mov R29 -50663
+ldr R24 R28 -33438
+jz R25 1588
+mov R15 -54124
+div R20 R31 R18
+add R19 R26 R16
+div R27 R11 R10
+add R2 R6 R2
+mul R22 R31 R7
+jz R20 836
+sub R1 R2 R1
+mul R16 R1 R30
+ldr R25 R12 15756
+sub R3 R29 R16
+add R29 R1 R28
+ldr R26 R31 27806
+jmp -1849
+jmp 2103
+str R11 -37554 R10
+add R31 R7 R10
+ret R9
+add R16 R31 R31
+ret R26
+div R25 R23 R5
+div R5 R14 R25
+mov R11 -39072
+ret R31
+add R18 R3 R5
+ret R16
+ldr R29 R22 1008
+sub R15 R24 R14
+mul R6 R0 R18
+jz R0 -1573
+mul R13 R7 R1
+ldr R4 R18 -46183
+str R5 -5885 R21
+add R13 R20 R21
+jz R27 6160
+sub R11 R2 R24
+add R6 R18 R1
+div R31 R15 R9
+ret R11
+jz R24 -2510
+mov R26 -29850
+mul R31 R30 R18
+ldr R22 R13 -14284
+ret R4
+div R9 R8 R27
+jz R31 -1186
+sub R13 R9 R7
+ldr R22 R26 39281
+ret R25
+jmp 4968
+mov R9 -35398
+mul R21 R25 R6
+add R22 R28 R28
+jz R30 4715
+ldr R11 R12 -118
+sub R6 R31 R30
+add R16 R25 R19
+mov R1 -4439
+ret R28
+ldr R30 R13 -34567
+str R15 32088 R4
+sub R16 R4 R27
+str R4 -28438 R26
+jz R16 644
+mov R31 -10566
+add R18 R24 R3
+ldr R3 R6 30340
+jmp 2421
+add R26 R4 R7
+sub R5 R24 R30
+sub R12 R27 R3
+ret R7
+str R20 24982 R11
+jz R10 5275
+sub R24 R27 R8
+str R26 45211 R20
+jz R1 910
+mov R15 -46153
+jmp -1325
+add R30 R18 R6
+div R9 R24 R1
+jmp 4702
+mul R19 R5 R31
+mov R7 11695
+add R25 R28 R20
+mov R18 -23404
+mul R12 R20 R5
+jmp 2354
+ldr R1 R29 -61797
+add R26 R3 R23
+mov R7 42319
+sub R13 R16 R24
+mul R16 R15 R15
+add R13 R22 R29
+mul R20 R30 R9
+jz R10 4351
+mov R19 31900
+str R11 61382 R25
+ldr R26 R14 -64140
+div R1 R4 R17
+str R21 -45896 R31
+ret R14
+mov R19 10601
+mul R31 R26 R28
+mul R2 R25 R20
+jz R29 5013
+sub R7 R15 R16
+ret R11
+jmp 3660
+mul R20 R27 R15
+jz R17 636
+sub R21 R12 R31
+ldr R3 R12 16472
+jz R12 526
+add R24 R24 R23
+div R20 R11 R26
+ret R25
+ldr R13 R29 12074
+div R30 R0 R7
+str R7 55404 R8
+ldr R24 R24 -49714
+add R15 R15 R16
+mov R10 -19408
+mul R24 R27 R9
+jmp 5068
+div R6 R5 R11
+mul R29 R12 R1
+add R26 R26 R15
+ldr R11 R30 19119
+ret R15
+add R23 R13 R5
+mov R1 -47863
+add R23 R14 R22
+jz R6 2093
+sub R24 R31 R0
+ldr R22 R19 -54360
+div R12 R5 R11
+ldr R5 R4 17613
+str R9 38182 R18
+jmp 173
+mul R4 R13 R25
+add R26 R18 R8
+str R3 -30746 R0
+add R16 R11 R23
+sub R20 R3 R21
+add R19 R16 R25
+str R23 4020 R11
+jmp 5312
+mov R10 -1326
+sub R28 R21 R17
+div R8 R5 R15
+ret R0
+ldr R16 R6 45133
+str R21 61528 R19
+ret R26
+ret R30
+sub R30 R28 R27
+mul R30 R0 R29
+add R28 R30 R1
+mov R20 -57192
+str R15 -11088 R22
+div R11 R25 R29
+ldr R7 R28 17718
+str R30 -32399 R23
+jmp 5841
+ldr R12 R31 -2127
+sub R14 R10 R9
+sub R25 R2 R5
+str R26 -1025 R3
+sub R22 R11 R12
+ldr R31 R18 11316
+ldr R19 R22 51867
+ret R25
+div R25 R7 R18
+ldr R9 R26 -14452
+jmp 3720
+div R17 R28 R12
+str R29 -61247 R3
+str R22 -53466 R30
+ldr R19 R25 -59413
+ldr R25 R2 -53954
+sub R6 R0 R27
+sub R31 R18 R19
+sub R25 R20 R10
+sub R28 R19 R21
+mov R21 13391
+div R12 R31 R12
+ldr R5 R9 29364
+add R13 R2 R20
+ret R26
+ret R6
+add R3 R21 R5
+ret R6
+ret R21
+jz R21 412
+add R27 R2 R8
+sub R12 R11 R1
+add R29 R5 R14
+mov R7 21062
+jmp 5869
+jmp 3384
+add R9 R5 R13
+jz R28 -1388
+div R21 R14 R28
+mul R26 R10 R17
+add R26 R18 R30
+mul R26 R5 R28
+str R15 -14419 R30
+add R16 R12 R2
+str R28 51022 R4
+str R28 -31483 R31
+ret R7
+sub R28 R23 R27
+str R13 -50831 R29
+jz R21 1677
+jmp -110
+str R31 43078 R5
+jmp 5364
+ldr R25 R30 -22412
+add R30 R12 R27
+jz R25 3545
+jmp 3728
+mul R18 R27 R5
+str R8 57371 R4
+ldr R26 R28 26615
+ldr R1 R4 9822
+ldr R6 R28 -29649
+add R17 R27 R18
+str R10 -22176 R23
+ldr R20 R6 -63221
+ldr R1 R3 -57007
+ret R14
+ret R26
+ret R30
+ldr R6 R0 -30895
+sub R23 R13 R23
+jz R27 6349
+str R22 9013 R11
+jz R4 4484
+str R23 -38648 R18
+mov R26 39814
+jz R29 5142
+sub R16 R26 R20
+add R25 R30 R7
+sub R10 R13 R9
+str R30 -42301 R30
+ret R26
+div R13 R28 R27
+mov R29 -8398
+str R11 -2338 R14
+jz R11 3533
+sub R1 R3 R18
+sub R16 R23 R5
+sub R5 R16 R5
+ldr R10 R22 57001
+jz R14 4839
+sub R16 R30 R2
+str R26 46046 R6
+jz R4 1195
+jz R9 441
+mov R22 21645
+sub R7 R9 R29
+add R17 R23 R23
+mov R21 46660
+jmp -1063
+jz R5 7179
+ret R3
+jz R15 6075
+mul R26 R22 R7
+jmp 2480
+jmp 707
+div R16 R24 R26
+ret R29
+mov R28 872
+jz R15 2462
+add R8 R9 R25
+mul R23 R24 R4
+mov R20 -18213
+div R6 R1 R7
+div R17 R28 R13
+str R1 17972 R11
+str R12 -64909 R29
+mul R25 R2 R31
+mul R10 R20 R18
+mul R2 R24 R31
+mul R9 R1 R6
+ret R19
+div R31 R6 R25
+mul R30 R31 R5
+add R26 R26 R9
+mov R29 60427
+jz R13 1574
+mov R24 54323
+add R12 R18 R4
+ret R19
+jmp 5461
+ret R0
+mul R8 R11 R1
+str R21 13812 R7
+mov R16 20835
+jz R5 -1281
+div R4 R3 R19
+mul R25 R21 R1
+ret R9
+add R24 R7 R30
+mov R14 -36313
+div R5 R26 R6
+sub R9 R4 R1
+ret R23
+add R9 R31 R9
+str R8 -30297 R10
+div R22 R3 R12
+jmp 5022
+ldr R17 R19 -1563
+jmp -728
+ret R18
+mul R21 R25 R30
+mov R1 -16950
+ret R7
+str R8 58110 R19
+jz R3 5537
+mul R27 R29 R30
+jz R29 2510
+add R3 R4 R17
+div R26 R13 R13
+mov R0 53404
+str R18 37925 R27
+str R8 57585 R8
+ret R23
+ldr R17 R28 -63295
+add R7 R21 R23
+str R5 -38690 R7
+mov R28 -857
+str R28 -12437 R9
+sub R1 R4 R8
+sub R18 R15 R2
+div R9 R18 R15
+mul R2 R24 R29
+mov R28 20778
+ldr R10 R16 15723
+sub R8 R29 R29
+add R30 R0 R23
+jmp -698
+sub R14 R30 R23
+mul R27 R7 R27
+jz R2 6683
+sub R5 R27 R8
+sub R19 R17 R17
+sub R10 R4 R5
+div R9 R22 R30
+mul R7 R18 R24
+div R11 R19 R19
+mov R0 39495
+div R5 R17 R21
+sub R24 R29 R12
+jz R25 -1964
+mov R13 -63992
+str R19 -22967 R30
+mov R20 -33719
+sub R31 R11 R6
+ldr R22 R6 -35924
+mov R21 32852
+ldr R17 R0 -30947
+mul R13 R13 R2
+add R6 R15 R12
+str R5 16872 R16
+div R14 R27 R29
+str R19 57918 R9
+add R10 R26 R25
+ret R31
+jz R21 4231
+sub R13 R15 R24
+mul R17 R18 R29
+ret R14
+str R24 5923 R13
+str R13 -23293 R18
+ret R6
+add R7 R23 R1
+mul R7 R12 R15
+add R12 R26 R24
+jz R23 4808
+mov R23 29533
+mul R0 R2 R12
+add R8 R28 R16
+sub R23 R19 R19
+mul R7 R7 R18
+jmp 6060
+sub R7 R4 R25
+str R30 14905 R6
+jmp 975
+mov R1 44495
+ldr R3 R15 -42877
+ret R23
+ret R16
+ret R13
+sub R10 R12 R9
+mov R7 58661
+mul R7 R20 R12
+jmp 3353
+str R31 -56029 R28
+mov R17 24371
+str R10 65224 R15
+ret R8
+div R27 R5 R29
+add R9 R17 R22
+mov R20 19665
+ldr R27 R10 13306
+ret R16
+sub R15 R25 R26
+mul R30 R8 R14
+jz R19 1651
+add R28 R14 R31
+mov R13 21411
+jz R23 2558
+jmp -1822
+mul R10 R23 R12
+ret R6
+str R20 16332 R24
+str R19 -19389 R12
+div R24 R22 R13
+jmp 6858
+sub R12 R28 R4
+jz R3 3834
+str R3 9676 R20
+mov R29 -56101
+mov R2 -45255
+add R7 R23 R5
+add R18 R27 R0
+jmp 721
+str R28 44411 R26
+add R8 R9 R17
+jz R5 -80
+jz R23 6477
+mov R24 58109
+ret R7
+jmp -1171
+mul R21 R0 R17
+mov R19 12157
+jmp 3051
+mul R25 R1 R18
+ldr R16 R14 -52022
+str R2 -35135 R1
+jmp -904
+mul R22 R20 R17
+div R6 R11 R2
+mul R31 R3 R15
+jz R3 -506
+jz R7 6336
+div R11 R7 R5
+jz R27 2368
+str R22 9904 R23
+add R27 R3 R30
+jz R21 3960
+mul R21 R22 R28
+ret R13
+sub R15 R24 R24
+add R21 R11 R13
+jmp 3120
+jz R11 -2228
+sub R18 R28 R28
+sub R21 R8 R20
+ret R8
+mul R9 R0 R6
+ldr R16 R0 40311
+add R31 R17 R20
+str R3 -64365 R31
+add R1 R22 R18
+jz R24 2753
+jmp 2170
+ret R7
+sub R14 R15 R7
+div R4 R24 R6
+ldr R22 R24 46821
+div R3 R31 R10
+jz R19 3843
+ldr R1 R17 63627
+jmp 2608
+div R3 R16 R19
+sub R24 R5 R26
+div R0 R1 R20
+div R16 R9 R6
+jz R15 6353
+mov R8 -49649
+sub R15 R7 R0
+jz R3 3323
+jmp 2569
+sub R0 R3 R18
+ret R27
+div R3 R12 R6
+div R16 R4 R27
+div R29 R0 R0
+ret R28
+sub R6 R21 R13
+mov R15 28453
+jmp 4595
+div R19 R6 R21
+jz R27 -2209
+str R29 29268 R13
+ret R13
+ldr R19 R22 63676
+add R8 R26 R4
+div R23 R0 R10
+mul R18 R23 R16
+mov R10 -61719
+ldr R6 R16 1313
+mul R19 R11 R9
+div R6 R23 R27
+jmp -871
+add R19 R0 R8
+mul R6 R17 R23
+div R19 R14 R28
+sub R23 R18 R0
+mul R30 R31 R4
+jmp 5806
+jmp 1363
+ldr R2 R1 -32266
+mov R6 -52414
+add R14 R19 R7
+sub R11 R25 R16
+add R5 R9 R18
+jz R29 3267
+jmp 1885
+ldr R3 R17 -34399
+sub R19 R7 R28
+mov R23 474
+ldr R11 R18 -41217
+add R28 R7 R7
+sub R31 R11 R20
+mul R18 R7 R2
+jz R25 6141
+add R7 R27 R3
+mul R3 R31 R24
+mov R11 -59367
+sub R19 R9 R28
+mul R22 R28 R2
+sub R18 R17 R24
+sub R17 R23 R22
+add R0 R17 R14
+jmp 1425
+ret R13
+sub R5 R29 R17
+jz R23 -2323
+str R5 -24122 R16
+str R31 52921 R21
+jmp 2349
+mul R3 R19 R17
+ret R26
+jmp -950
+add R11 R30 R29
+mul R2 R28 R12
+mov R3 29693
+ldr R21 R28 20287
+ret R0
+mov R7 -59491
+sub R22 R17 R12
+div R2 R1 R4
+mul R1 R29 R12
+add R12 R18 R31
+add R6 R1 R26
+mul R23 R22 R2
+div R31 R19 R30
+sub R3 R3 R24
+mov R11 31733
+mov R29 56753
+ldr R19 R1 -57255
+mul R5 R20 R26
+div R8 R1 R16
+jz R22 3195
+ldr R9 R28 55767
+ret R16
+sub R31 R8 R2
+sub R17 R26 R1
+add R28 R20 R30
+ret R3
+add R16 R2 R5
+mov R16 -12883
+mov R23 -32771
+mul R25 R27 R20
+add R14 R22 R23
+jz R8 -1694
+sub R2 R16 R23
+div R15 R30 R26
+sub R31 R17 R23
+mul R10 R24 R14
+sub R19 R22 R21
+ret R13
+ldr R20 R17 -28508
+ldr R5 R3 -16989
+add R15 R0 R27
+jz R30 229
+ret R18
+mul R24 R9 R22
+add R20 R18 R22
+ldr R2 R2 -26303
+str R4 -47139 R14
+sub R24 R26 R13
+ldr R11 R23 -43863
+sub R8 R16 R20
+ret R25
+jz R13 4585
+ret R6
+jz R12 651
+sub R6 R7 R11
+sub R7 R22 R13
+ret R7
+sub R14 R7 R12
+ret R30
+jz R20 3660
+ldr R6 R28 -14934
+add R4 R29 R18
+mov R0 -21253
+str R26 -44891 R21
+jmp 3326
+mov R22 -62430
+jz R30 -684
+div R0 R22 R24
+ldr R28 R8 37690
+ldr R16 R7 42711
+div R20 R19 R29
+mov R27 43220
+ret R29
+add R4 R11 R27
+jz R3 5384
+mul R12 R13 R30
+mul R6 R21 R30
+str R1 -60905 R27
+str R11 18743 R15
+ret R25
+mov R26 39003
+ret R9
+add R0 R3 R11
+jz R2 946
+add R22 R30 R2
+jz R22 -2706
+jmp 558
+sub R15 R21 R15
+jz R26 2781
+sub R23 R23 R25
+mov R8 41056
+str R15 21772 R20
+mov R23 26368
+sub R26 R25 R26
+jz R13 28
+ldr R10 R3 -64022
+str R25 53473 R1
+div R1 R14 R19
+mul R27 R31 R22
+str R20 -10720 R31
+sub R1 R1 R30
+sub R12 R8 R4
+jz R14 2128
+mul R12 R0 R7
+mov R1 -60725
+sub R1 R20 R22
+ret R19
+div R15 R5 R15
+mov R21 57515
+mul R17 R26 R18
+str R11 -32960 R5
+ldr R17 R3 -7338
+jmp 2289
+ret R4
+sub R15 R24 R3
+mov R16 21518
+str R17 -31494 R30
+sub R12 R25 R26
+str R6 8789 R28
+jz R29 151
+str R5 -28653 R15
+ldr R27 R25 8979
+add R9 R6 R8
+jmp -63
+sub R18 R18 R22
+sub R28 R15 R3
+ldr R23 R23 -49988
+sub R14 R26 R14
+jz R9 3184
+mul R22 R12 R8
+jmp -115
+sub R21 R20 R16
+ret R16
+div R8 R22 R2
+mov R14 8381
+jz R12 3754
+add R31 R12 R21
+ret R22
+div R1 R7 R7
+ldr R7 R4 21000
+mul R16 R22 R7
+str R25 -63117 R29
+jmp -980
+mul R15 R15 R29
+jmp -92
+sub R1 R30 R29
+sub R8 R4 R20
+ret R5
+div R11 R7 R21
+jz R25 4359
+str R22 -18298 R3
+mov R5 -33877
+jz R15 -1176
+jz R1 5275
+mul R20 R17 R7
+ldr R30 R3 -62935
+ldr R29 R31 -8987
+jmp -1430
+mul R22 R0 R27
+sub R3 R31 R7
+ldr R7 R25 3925
+add R7 R0 R30
+mov R1 4598
+div R2 R2 R23
+jmp 2734
+sub R12 R0 R1
+div R25 R18 R25
+jmp -1206
+jmp 6715
+jz R27 6098
+ldr R25 R17 32165
+jz R6 -1688
+div R12 R19 R19
+ret R17
+mov R5 -20365
+mov R4 -8142
+div R13 R13 R24
+jmp 5752
+add R1 R4 R29
+jz R0 6450
+ldr R15 R19 32592
+ldr R14 R28 10929
+str R4 -2873 R16
+ret R31
+mul R5 R15 R12
+str R4 -42227 R1
+ret R27
+ret R28
+mov R6 -27438
+mul R19 R1 R10
+mul R2 R28 R15
+ret R17
+div R17 R30 R9
+sub R24 R6 R23
+mov R21 29932
+str R12 -41226 R21
+mul R1 R24 R6
+jmp 1314
+jmp 66
+mov R30 61075
+sub R9 R17 R9
+div R4 R9 R19
+mov R26 5876
+ret R7
+mul R15 R26 R14
+ldr R29 R11 26144
+jz R19 1286
+sub R16 R25 R9
+ret R10
+mov R15 36781
+sub R28 R31 R13
+sub R24 R14 R15
+add R2 R10 R14
+mul R1 R7 R31
+ldr R19 R4 1510
+jz R25 2697
+jmp 2219
+jz R6 4438
+ret R12
+mov R16 45281
+ldr R25 R4 24260
+add R20 R14 R20
+add R25 R3 R23
+mul R6 R3 R7
+ret R23
+mul R17 R21 R0
+sub R11 R22 R13
+div R24 R4 R31
+add R31 R2 R29
+jz R21 3196
+add R22 R28 R10
+sub R16 R2 R5
+str R26 47199 R15
+add R25 R13 R29
+ret R9
+ldr R16 R31 58535
+jmp 4514
+add R1 R16 R23
+str R26 -18390 R4
+mul R21 R9 R2
+div R4 R30 R12
+sub R4 R11 R9
+str R28 -23848 R18
+mov R24 -20442
+jz R13 6343
+ldr R18 R3 61850
+ret R20
+ret R8
+div R17 R12 R3
+jz R11 2196
+jmp 901
+add R8 R31 R23
+jmp -269
+mul R24 R20 R3
+ret R29
+ldr R10 R20 -50242
+mov R26 13258
+jmp -2775
+sub R17 R31 R2
+jz R31 2465
+ldr R18 R9 -23445
+ret R18
+ret R19
+ret R15
+div R16 R5 R26
+mov R18 -13568
+ldr R14 R5 35942
+mul R12 R8 R3
+jmp 3311
+div R27 R12 R26
+jmp 899
+mul R28 R27 R30
+ldr R30 R7 43856
+ret R10
+mul R15 R12 R3
+jz R17 5027
+ret R24
+sub R2 R0 R24
+ret R21
+jmp 28
+jmp -3239
+jz R3 3754
+jz R24 2071
+jz R22 6038
+str R26 -6087 R7
+str R19 33424 R30
+jz R9 5887
+jz R9 59
+ret R27
+sub R13 R27 R27
+str R4 60231 R11
+mul R14 R23 R28
+jz R0 -3353
+sub R17 R4 R1
+ret R8
+div R12 R13 R21
+mul R31 R24 R8
+ldr R20 R2 26049
+add R13 R9 R26
+mov R26 4740
+mul R26 R17 R3
+jz R25 3015
+sub R23 R11 R1
+div R3 R3 R8
+jz R5 325
+mov R0 -39081
+jmp 4983
+jmp 5210
+div R11 R23 R15
+sub R0 R3 R11
+str R29 23259 R24
+jz R22 -2978
+mov R0 27978
+jz R10 2641
+ret R4
+mov R6 25918
+jz R9 5480
+add R19 R26 R9
+mul R9 R16 R9
+mul R8 R15 R22
+add R3 R19 R3
+jmp -890
+ldr R1 R14 18581
+add R21 R19 R23
+jmp 5092
+jz R28 5038
+sub R15 R21 R18
+div R18 R3 R28
+div R9 R22 R28
+jz R27 5867
+ret R1
+mul R20 R25 R27
+add R25 R10 R4
+ldr R6 R31 24719
+str R30 -15374 R19
+str R22 -42187 R8
+sub R31 R27 R28
+jz R13 513
+ret R2
+jz R25 1812
+div R19 R31 R20
+mov R17 -58553
+ret R28
+ldr R1 R2 41664
+jz R7 1877
+sub R2 R30 R29
+add R9 R6 R21
+mov R14 -50737
+div R11 R8 R11
+jz R20 4853
+mul R9 R16 R26
+ret R19
+div R14 R25 R29
+jmp 5004
+mov R8 -11514
+div R23 R9 R13
+mul R11 R14 R21
+str R23 34531 R15
+ldr R20 R31 7177
+sub R5 R11 R28
+jmp 6249
+mul R3 R15 R28
+add R21 R5 R23
+add R21 R3 R30
+str R17 -20923 R15
+mov R11 800
+str R24 -8947 R14
+sub R31 R16 R1
+mul R5 R8 R25
+mul R12 R26 R12
+sub R25 R12 R12
+mov R2 26753
+ldr R14 R19 -19593
+sub R14 R7 R24
+div R8 R4 R18
+div R28 R14 R20
+add R1 R18 R30
+jz R27 5618
+div R28 R18 R27
+mov R17 29178
+jmp -1609
+mov R21 -17797
+mul R12 R6 R26
+sub R23 R11 R20
+ret R7
+jmp -486
+add R10 R16 R19
+jz R23 1662
+ret R20
+mov R22 29598
+div R30 R20 R12
+mov R21 48870
+div R27 R5 R13
+jmp 2911
+jz R31 4812
+ret R18
+div R6 R15 R29
+add R6 R18 R21
+jmp 5089
+add R6 R7 R4
+add R28 R17 R14
+str R29 -58336 R14
+add R13 R15 R25
+mov R1 -52559
+mul R1 R17 R27
+ret R12
+str R10 7506 R29
+div R29 R31 R6
+add R9 R7 R16
+ret R16
+ldr R15 R15 43209
+str R17 43160 R5
+sub R7 R30 R25
+ret R29
+add R3 R6 R5
+div R5 R31 R8
+str R29 -22720 R24
+str R19 7932 R15
+ldr R31 R27 47589
+sub R7 R9 R3
+sub R17 R10 R26
+mul R27 R10 R24
+ret R19
+mov R19 64651
+jmp -738
+jmp -3362
+sub R5 R5 R25
+ret R0
+jz R23 5764
+add R8 R31 R2
+jz R28 5600
+ret R26
+add R2 R17 R4
+add R15 R30 R25
+add R20 R13 R2
+str R19 -53770 R29
+str R22 1843 R0
+mul R13 R29 R27
+div R1 R2 R28
+jmp 4276
+jz R21 4373
+add R10 R23 R13
+div R30 R11 R7
+ldr R7 R0 -1869
+div R15 R15 R1
+str R8 -64468 R29
+ret R4
+sub R0 R5 R23
+jmp -1935
+str R5 -42904 R24
+ret R9
+jz R1 3927
+mul R3 R19 R2
+div R14 R7 R15
+mul R8 R12 R25
+mov R31 -24155
+add R29 R0 R9
+jz R8 5310
+ret R18
+jmp 5097
+ldr R23 R9 4222
+jz R8 -2169
+sub R3 R15 R24
+jmp -1175
+str R3 -18316 R0
+jz R23 4455
+jmp 4696
+sub R28 R8 R25
+ret R2
+add R13 R14 R12
+div R21 R1 R16
+div R31 R20 R6
+jmp 4075
+ret R0
+add R1 R3 R7
+add R3 R1 R20
+add R13 R4 R6
+ldr R6 R31 65369
+jz R5 -500
+jz R8 1886
+div R14 R5 R30
+jz R29 3279
+jz R24 1789
+add R20 R26 R8
+sub R30 R21 R21
+jmp 996
+str R10 16238 R14
+mov R26 63085
+mul R5 R26 R14
+div R2 R14 R27
+jmp -387
+sub R31 R14 R30
+sub R8 R2 R5
+mov R24 -17920
+div R20 R28 R20
+jmp -1909
+ldr R21 R6 24250
+sub R19 R12 R25
+sub R1 R10 R24
+jz R10 6287
+ldr R31 R25 -48066
+mov R11 -23632
+str R30 -11941 R2
+ret R20
+jz R27 756
+ret R13
+ldr R28 R23 59208
+sub R18 R21 R28
+div R4 R9 R13
+sub R19 R28 R30
+sub R7 R28 R27
+ret R27
+mov R5 -17133
+jmp 3113
+add R10 R28 R28
+div R5 R6 R7
+sub R28 R28 R2
+ldr R7 R23 -39897
+mov R12 51782
+ret R10
+jz R5 5932
+mov R11 -45834
+str R23 61459 R31
+str R26 15664 R1
+sub R1 R0 R22
+mul R25 R27 R29
+add R6 R6 R6
+mul R8 R30 R6
+mov R23 48187
+sub R20 R15 R2
+add R20 R28 R6
+jz R5 -1685
+jz R4 4643
+jz R31 1399
+div R13 R10 R2
+add R25 R10 R17
+add R28 R2 R3
+jz R6 764
+str R1 -22246 R12
+div R1 R24 R11
+jmp 2525
+div R1 R20 R2
+ldr R14 R26 -5274
+add R24 R25 R3
+ret R16
+ldr R0 R28 64053
+mul R26 R29 R18
+div R1 R5 R20
+mul R24 R26 R24
+add R1 R13 R11
+ret R3
+mul R2 R9 R28
+ldr R7 R17 -14663
+str R9 48144 R16
+div R17 R18 R30
+jmp -276
+div R15 R12 R6
+ldr R27 R7 28668
+mov R3 5528
+div R26 R10 R1
+mov R12 -9258
+mul R28 R16 R1
+jmp 2973
+jz R7 3279
+mul R8 R30 R25
+mul R20 R24 R10
+mov R8 12989
+mov R31 30663
+ldr R1 R16 -33551
+add R11 R18 R18
+add R1 R9 R17
+add R10 R5 R22
+div R9 R11 R15
+add R28 R1 R9
+add R23 R25 R31
+div R10 R21 R3
+ldr R10 R1 -45265
+add R2 R19 R29
+mul R30 R7 R2
+div R0 R21 R19
+ret R27
+jmp 5264
+add R5 R8 R13
+ret R1
+div R19 R23 R19
+str R6 11034 R20
+add R4 R18 R17
+mov R24 -25706
+str R2 14254 R6
+add R12 R14 R1
+sub R12 R5 R27
+jz R9 -1856
+sub R8 R19 R12
+mov R7 -52999
+mov R23 59352
+jmp -3203
+str R7 22268 R11
+mov R30 2627
+add R11 R21 R2
+ret R12
+mul R17 R3 R18
+mov R27 62134
+ret R30
+mul R20 R16 R28
+jmp 155
+str R7 56035 R12
+ldr R3 R1 57571
+add R24 R17 R7
+jmp -2108
+ldr R18 R14 54195
+ret R28
+jz R20 -2285
+div R29 R3 R30
+str R27 -37842 R18
+sub R27 R24 R21
+ldr R25 R30 6049
+mul R0 R3 R11
+jmp -1209
+add R11 R23 R7
+mov R20 6210
+mul R29 R13 R6
+ldr R10 R30 6977
+mul R29 R21 R23
+jmp -3066
+str R11 -1679 R7
+div R23 R23 R12
+sub R31 R22 R20
+mul R25 R2 R21
+sub R4 R24 R7
+add R19 R7 R27
+jz R7 -3677
+mul R4 R23 R14
+ret R19
+ldr R20 R12 -42332
+add R25 R6 R25
+mov R4 2312
+add R30 R16 R2
+jz R4 3801
+jmp -248
+jz R9 2018
+add R26 R13 R12
+div R16 R30 R23
+mul R17 R21 R23
+mov R28 -26393
+ret R22
+ret R31
+ret R23
+jmp 1311
+jmp 1001
+jmp 1110
+mov R4 48514
+mul R20 R28 R1
+str R25 -16383 R19
+mul R23 R17 R7
+jmp -3314
+mov R6 57629
+jz R7 -1369
+mul R22 R23 R17
+jmp 3322
+div R31 R8 R31
+jz R24 5552
+sub R3 R23 R0
+div R2 R9 R26
+jmp -21
+sub R25 R29 R12
+ret R16
+mul R8 R11 R28
+add R5 R4 R27
+mov R13 -10656
+jmp 494
+ldr R22 R22 -45422
+mov R26 -52492
+add R12 R25 R14
+ldr R5 R29 -19019
+mul R2 R25 R4
+jmp 904
+jz R21 5062
+div R10 R3 R6
+mov R2 54367
+div R28 R20 R17
+div R7 R27 R31
+jmp 4954
+sub R3 R5 R29
+sub R7 R26 R0
+jmp 4973
+str R6 35951 R0
+str R1 51095 R17
+div R2 R21 R31
+ret R3
+add R21 R14 R30
+ldr R28 R13 2352
+jmp 5762
+ret R24
+jmp -3449
+sub R26 R7 R16
+ret R16
+add R2 R28 R13
+mul R14 R6 R27
+jmp -242
+mul R27 R25 R14
+div R7 R30 R0
+ldr R1 R18 39176
+ldr R30 R21 -4133
+ret R9
+str R7 59110 R5
+ret R0
+ldr R4 R26 -11672
+div R9 R13 R7
+str R6 1923 R13
+jmp -3156
+add R19 R22 R20
+str R15 -64878 R20
+add R8 R13 R27
+str R9 -41310 R26
+jz R19 -1893
+sub R28 R6 R23
+ldr R14 R0 -31768
+jmp 660
+str R2 -46863 R31
+jmp 3708
+ret R10
+jz R13 -2164
+ldr R22 R5 31032
+ret R25
+jz R12 -2343
+sub R10 R23 R25
+jz R31 -1881
+ldr R20 R2 -12710
+mov R13 -32621
+str R24 51985 R13
+mul R26 R0 R8
+str R1 -60807 R25
+mov R12 64897
+mov R27 22883
+ldr R3 R30 -51912
+jz R22 -759
+mov R8 -7559
+div R17 R16 R13
+mul R25 R8 R20
+mul R6 R31 R29
+div R25 R14 R20
+div R26 R6 R30
+jmp -2012
+jz R23 -2206
+div R21 R10 R19
+div R31 R26 R1
+sub R29 R27 R23
+mov R3 29160
+add R15 R17 R29
+sub R12 R24 R29
+mul R4 R19 R7
+sub R5 R20 R27
+jz R3 -1574
+sub R29 R29 R16
+mov R2 35762
+ldr R22 R11 10920
+jz R22 -3129
+mov R3 45444
+add R18 R18 R17
+jz R28 5095
+sub R20 R8 R21
+str R22 16500 R9
+mul R24 R15 R2
+add R20 R21 R28
+mul R10 R6 R2
+mul R24 R21 R0
+ldr R10 R18 9229
+jmp 1808
+jz R26 3008
+div R21 R26 R7
+div R31 R21 R2
+jmp 4109
+jmp 5736
+ldr R26 R11 57522
+ldr R18 R27 -54119
+div R17 R19 R13
+div R19 R10 R28
+jmp 2796
+mov R17 -57698
+mul R18 R18 R23
+str R16 -18970 R8
+jmp 1054
+str R7 35815 R7
+mov R17 43316
+div R25 R18 R11
+div R28 R21 R23
+str R29 -64184 R6
+str R6 -58910 R7
+str R6 53959 R30
+ret R27
+sub R20 R1 R8
+ret R27
+jmp 753
+jmp 606
+jz R9 4028
+jmp 5870
+mov R9 18514
+mov R12 -47857
+add R2 R27 R26
+jmp -3221
+ret R4
+add R12 R11 R1
+ldr R21 R29 -29492
+str R7 43303 R26
+div R2 R9 R10
+ldr R11 R29 -49642
+add R1 R28 R19
+sub R20 R10 R5
+jz R14 230
+mov R25 -15805
+mul R24 R15 R4
+ldr R22 R4 -36536
+div R20 R5 R17
+str R30 -11916 R5
+ldr R21 R18 15673
+sub R31 R2 R21
+sub R26 R1 R21
+sub R27 R2 R19
+mul R14 R5 R9
+jmp -833
+jz R31 4451
+sub R7 R11 R20
+sub R1 R23 R12
+mov R1 10038
+mov R0 36739
+mov R6 49740
+mul R16 R20 R12
+str R19 22850 R7
+add R3 R31 R10
+jmp 5871
+add R17 R19 R11
+jmp -250
+ret R27
+ret R19
+jmp -2925
+jmp 3471
+mov R14 35399
+str R13 53738 R0
+mov R20 -58659
+jmp 796
+mov R21 -38170
+sub R14 R17 R7
+str R31 5966 R5
+div R5 R16 R21
+div R31 R23 R14
+ret R13
+mov R0 23052
+jmp -973
+sub R15 R17 R18
+div R12 R21 R30
+sub R12 R15 R22
+div R22 R12 R9
+jmp 4744
+div R24 R8 R1
+mul R20 R10 R24
+mul R3 R12 R12
+str R3 36537 R19
+add R26 R24 R20
+mul R24 R1 R13
+div R22 R4 R27
+jz R20 4463
+sub R3 R15 R22
+ldr R8 R12 4182
+mul R29 R23 R11
+ldr R25 R31 4237
+jmp 5165
+mov R21 -9692
+div R8 R23 R29
+mul R30 R2 R29
+sub R15 R7 R30
+mul R28 R28 R30
+add R16 R22 R6
+jmp 5901
+str R15 43655 R29
+jz R2 -375
+div R23 R5 R14
+mul R29 R1 R9
+jz R14 -3282
+jz R24 6019
+ldr R29 R20 65042
+str R7 3546 R0
+mul R5 R22 R27
+mov R21 -33806
+mov R3 39341
+ret R10
+ret R12
+sub R20 R22 R8
+jz R1 1406
+jz R28 -15
+ldr R31 R7 9712
+mul R24 R21 R7
+ret R16
+sub R12 R2 R18
+mul R22 R24 R27
+str R17 34893 R9
+mov R14 39072
+jmp 5558
+str R22 -64284 R4
+mul R28 R21 R2
+mul R31 R26 R17
+jmp -58
+sub R17 R26 R24
+add R25 R25 R26
+div R17 R18 R25
+str R19 6284 R15
+ldr R18 R25 -23926
+div R2 R0 R25
+ret R23
+ldr R5 R20 45130
+ldr R16 R16 57247
+add R30 R10 R22
+sub R28 R21 R6
+add R8 R25 R5
+ldr R14 R20 45744
+jz R27 2182
+jmp 1301
+sub R22 R31 R19
+jmp -3066
+str R24 13482 R21
+sub R7 R20 R23
+jz R28 -3774
+ldr R18 R15 50596
+add R7 R1 R25
+ret R31
+mov R17 58630
+mov R19 -27179
+str R28 -56142 R26
+mov R16 -61876
+jmp 147
+mul R5 R13 R1
+jmp 5347
+ldr R30 R6 -56939
+ret R4
+sub R3 R13 R23
+jz R17 1262
+jz R3 4702
+jz R31 -3900
+sub R24 R5 R4
+add R0 R16 R31
+str R3 45552 R8
+jz R10 -1330
+ldr R18 R10 -2539
+div R28 R11 R6
+ldr R0 R9 -44664
+sub R4 R2 R3
+div R23 R22 R0
+mul R6 R10 R3
+jz R3 1277
+sub R22 R5 R6
+ldr R8 R10 -52595
+add R20 R9 R29
+jz R27 -2492
+add R0 R21 R5
+add R30 R3 R14
+jz R16 -3319
+str R0 33640 R13
+jmp 419
+mov R27 18500
+ret R6
+sub R14 R31 R8
+jmp -1001
+mov R17 46147
+jmp 4918
+add R20 R26 R13
+sub R19 R8 R17
+add R14 R15 R16
+sub R19 R1 R12
+str R4 -2196 R5
+add R16 R29 R16
+div R25 R29 R6
+add R20 R29 R18
+ret R16
+str R1 -167 R1
+str R2 60848 R7
+sub R18 R1 R20
+mul R28 R13 R11
+mov R23 49714
+str R9 -16873 R31
+ldr R20 R4 -10693
+ret R15
+ret R10
+ret R8
+ret R3
+ldr R6 R5 49447
+sub R12 R4 R13
+jmp 3584
+sub R8 R0 R26
+jz R25 -3883
+mov R23 38068
+jz R7 -475
+mov R28 -43966
+mov R4 8745
+ldr R29 R28 1461
+mul R2 R27 R28
+add R21 R15 R2
+ret R8
+ldr R25 R9 27358
+add R27 R29 R24
+jz R17 -1183
+ldr R26 R8 51607
+div R29 R17 R28
+add R22 R29 R22
+jmp 2695
+ldr R19 R17 24830
+add R20 R31 R10
+ldr R9 R21 43435
+ldr R4 R22 34414
+str R3 -4213 R6
+ret R1
+sub R30 R19 R11
+str R9 64400 R30
+mul R4 R16 R3
+str R1 -58999 R16
+jmp 3365
+ret R4
+jmp -1546
+ret R28
+add R9 R0 R14
+add R5 R2 R2
+mov R9 25443
+div R31 R21 R26
+str R9 -19876 R23
+jz R25 -2008
+mov R0 24290
+mul R28 R24 R27
+div R14 R22 R24
+jmp 3420
+mul R22 R28 R11
+jmp 762
+ldr R14 R2 -27684
+sub R31 R9 R24
+add R23 R19 R24
+add R26 R25 R24
+mov R22 -120
+jmp 1266
+div R19 R25 R28
+str R14 -51791 R16
+str R22 64049 R10
+mul R12 R15 R5
+add R1 R6 R8
+jmp 4194
+ret R31
+div R1 R11 R16
+ret R17
+jmp 4901
+mov R17 29835
+div R30 R8 R4
+ret R20
+jz R12 -3149
+ret R4
+div R23 R1 R0
+ldr R22 R4 -28168
+ret R18
+mul R10 R10 R23
+sub R2 R30 R19
+div R28 R13 R0
+jmp 2081
+str R31 -45286 R8
+add R18 R20 R13
+jmp 3260
+ldr R21 R31 -9043
+jmp 121
+ldr R31 R13 -16533
+mov R31 63784
+ldr R16 R13 -32492
+sub R14 R12 R13
+sub R19 R18 R2
+sub R24 R12 R25
+jz R18 -1106
+sub R19 R28 R25
+jmp 3631
+ldr R13 R16 57264
+div R10 R4 R17
+add R13 R3 R30
+add R26 R30 R3
+sub R0 R28 R18
+add R7 R8 R8
+add R3 R13 R6
+jmp 2178
+div R1 R0 R23
+ldr R17 R18 21379
+jmp -1737
+add R29 R17 R7
+mul R1 R16 R11
+ret R7
+jz R16 -2360
+str R10 14119 R3
+jz R23 1893
+add R15 R11 R22
+sub R12 R17 R18
+ldr R31 R6 51473
+mul R2 R9 R30
+div R10 R22 R6
+jz R28 2582
+jz R25 -1132
+str R11 16111 R26
+add R19 R16 R1
+add R18 R13 R12
+mul R18 R31 R4
+jz R27 -3953
+jmp -2419
+sub R31 R1 R17
+str R10 60722 R3
+jmp 3794
+jz R15 4835
+ret R31
+jmp -1550
+add R27 R12 R10
+str R6 -47063 R11
+add R27 R27 R24
+div R27 R14 R4
+jmp 3453
+mov R6 -8607
+jmp 1805
+div R20 R2 R27
+jmp -1558
+jmp 2560
+mov R30 -5871
+mul R7 R8 R5
+ret R14
+mul R1 R29 R0
+jmp -2798
+mul R15 R25 R26
+sub R11 R1 R28
+add R25 R30 R25
+mov R29 48989
+ret R8
+mov R28 4946
+mov R7 4388
+ret R9
+add R1 R17 R29
+str R20 -47527 R7
+mov R26 -25565
+str R27 32992 R5
+jz R2 -309
+jz R31 -2260
+div R8 R15 R21
+sub R16 R23 R7
+add R2 R29 R9
+mul R13 R12 R15
+div R21 R3 R12
+add R30 R17 R26
+jz R27 3948
+mov R23 54615
+add R18 R28 R24
+div R26 R23 R18
+ret R12
+ret R30
+ldr R4 R19 -18903
+mov R31 -11863
+mov R17 -7056
+jz R24 518
+str R8 43852 R26
+jmp 1424
+str R20 8751 R12
+div R23 R7 R4
+sub R24 R25 R17
+jz R15 1580
+mul R28 R31 R12
+jz R20 4572
+div R30 R22 R17
+str R10 18045 R8
+div R23 R23 R13
+mul R15 R22 R23
+jz R16 2163
+mul R22 R6 R3
+div R6 R23 R22
+jz R16 5294
+add R10 R13 R29
+jmp -1300
+jmp -4095
+ret R7
+jmp -2
+add R29 R4 R5
+ldr R9 R3 25587
+sub R15 R13 R8
+mul R25 R31 R19
+div R31 R11 R20
+mov R3 24615
+str R27 -42511 R18
+ldr R11 R27 29053
+sub R6 R30 R16
+str R22 32761 R27
+ret R14
+add R14 R6 R8
+str R19 -41203 R17
+div R24 R4 R22
+ldr R26 R29 26679
+ldr R1 R30 63810
+ldr R30 R3 -1913
+ldr R0 R8 14021
+ret R19
+ret R8
+sub R7 R2 R22
+jmp 27
+div R29 R18 R2
+div R30 R30 R3
+jz R3 1674
+mul R27 R16 R20
+sub R4 R18 R23
+ldr R19 R11 55886
+ldr R5 R6 -20674
+mul R1 R10 R11
+mul R30 R6 R3
+ret R13
+ret R20
+ret R4
+mov R6 12597
+ldr R28 R20 60211
+div R5 R20 R22
+mov R9 -5240
+div R26 R0 R15
+mul R3 R15 R4
+sub R21 R27 R11
+mul R30 R18 R13
+mul R3 R16 R23
+mov R11 -13311
+str R15 17425 R6
+ret R30
+str R11 1033 R7
+mov R12 6148
+mov R24 29840
+add R13 R6 R10
+div R10 R0 R7
+jz R9 -4161
+mul R13 R13 R3
+str R7 41776 R18
+jz R23 1284
+jmp 3746
+ret R2
+jz R18 -4217
+div R26 R18 R20
+div R12 R7 R6
+add R30 R14 R21
+str R7 -64395 R8
+sub R8 R1 R0
+mul R1 R24 R23
+ldr R19 R10 -29396
+mul R13 R15 R16
+sub R24 R23 R29
+ldr R0 R13 25281
+add R6 R16 R24
+mul R12 R9 R16
+jz R8 -705
+ret R1
+add R31 R18 R0
+ret R12
+ret R27
+mov R17 10573
+add R16 R19 R22
+jz R31 -1762
+mov R1 -26669
+jmp 5237
+sub R17 R2 R0
+add R29 R4 R4
+str R8 -63792 R24
+ret R0
+ldr R12 R21 -47576
+jmp -595
+sub R6 R28 R21
+str R11 11363 R6
+jz R12 -3689
+mov R12 -57688
+div R15 R21 R1
+jz R22 -1555
+sub R14 R27 R11
+jz R16 4625
+str R27 60044 R9
+ret R29
+mov R31 -61368
+jmp -2348
+mov R25 -29894
+jz R24 3146
+mov R4 -40827
+div R28 R0 R4
+str R24 30789 R4
+mov R6 43775
+add R22 R7 R14
+jz R14 -1725
+mov R23 61486
+sub R9 R17 R21
+add R16 R22 R4
+ldr R11 R18 -59550
+jz R27 582
+str R28 -1545 R4
+div R31 R19 R28
+jz R11 2747
+ldr R1 R29 -63714
+jz R24 -3185
+mul R5 R23 R12
+add R10 R22 R11
+mov R26 10664
+ret R19
+jmp -2369
+ret R20
+jz R25 895
+sub R31 R17 R12
+ldr R10 R30 -19642
+mul R12 R20 R21
+ldr R25 R12 47872
+jmp -3349
+jmp -2627
+jmp 3049
+add R5 R3 R11
+div R26 R26 R13
+mov R30 31215
+div R21 R21 R28
+div R12 R29 R28
+jz R14 5125
+ret R23
+mul R2 R12 R28
+jz R21 4365
+mul R27 R20 R22
+str R22 -9498 R9
+ret R22
+mov R30 -62595
+ldr R3 R0 4095
+ret R11
+jmp -2823
+mov R4 14478
+jmp -1608
+add R24 R16 R16
+jz R24 2823
+div R20 R9 R13
+mul R26 R28 R27
+str R31 -9198 R17
+add R0 R20 R17
+ret R23
+ldr R1 R12 -50452
+ret R19
+mov R15 -9992
+add R3 R11 R2
+str R22 45895 R5
+ldr R24 R18 24347
+sub R19 R30 R17
+sub R11 R16 R28
+add R31 R23 R14
+jmp -632
+mul R0 R3 R28
+jz R27 3847
+mov R28 13663
+mov R23 43584
+div R27 R22 R26
+mul R7 R5 R3
+str R26 -51586 R10
+add R11 R14 R21
+str R20 -60097 R7
+ldr R3 R25 24281
+jz R12 118
+ldr R20 R14 -36721
+sub R24 R16 R18
+jmp 5154
+ldr R12 R27 -28006
+jmp -807
+mov R20 -29775
+ret R2
+jz R28 2300
+ldr R19 R9 -35930
+ret R4
+ldr R23 R16 -20501
+jz R21 4734
+ldr R11 R6 54591
+jz R5 -2579
+ldr R9 R17 -58203
+mul R4 R22 R21
+mul R17 R9 R10
+ret R14
+mul R10 R2 R25
+ldr R10 R2 -794
+div R9 R31 R29
+jz R6 -860
+jz R26 3449
+mul R0 R13 R30
+mul R2 R15 R11
+add R3 R18 R31
+ret R20
+ret R5
+mul R23 R17 R5
+div R24 R2 R28
+str R2 40053 R1
+jz R23 498
+mov R24 -21101
+mov R30 4010
+jz R12 4544
+jz R16 223
+mov R25 -20993
+jmp -1165
+ldr R8 R31 18700
+add R16 R17 R8
+str R19 -2389 R2
+jz R3 1766
+jmp -3614
+sub R13 R10 R7
+ret R9
+sub R5 R22 R21
+mov R6 30868
+jmp 668
+div R22 R11 R25
+ldr R5 R12 -55328
+add R22 R27 R19
+add R29 R24 R2
+div R15 R20 R19
+ldr R6 R5 -63733
+sub R18 R10 R30
+ret R4
+add R6 R0 R14
+add R19 R5 R9
+ret R9
+ldr R24 R12 32814
+mov R1 52579
+ret R8
+sub R16 R16 R4
+mov R20 -19900
+ldr R7 R11 34347
+div R20 R3 R15
+ret R5
+mov R8 -7174
+ldr R12 R5 63695
+sub R12 R11 R3
+mov R15 -19714
+mov R5 32304
+jz R4 -1599
+jz R16 3249
+div R18 R17 R10
+jmp 5411
+div R2 R6 R11
+div R23 R22 R8
+div R4 R3 R3
+mov R15 -6088
+ret R13
+sub R0 R0 R17
+jmp -1802
+add R17 R21 R26
+ldr R31 R14 21688
+sub R15 R26 R17
+mul R4 R18 R21
+mov R29 17252
+ldr R27 R18 8560
+jmp 1984
+str R21 -2048 R16
+ldr R6 R7 62825
+str R17 -2637 R20
+sub R24 R0 R9
+ret R27
+str R26 -22947 R16
+add R29 R20 R27
+ret R30
+jmp -885
+jmp 2506
+ldr R18 R27 -54997
+ldr R8 R28 -53044
+mov R20 -3776
+ldr R25 R9 -6785
+ret R10
+mov R10 3648
+ret R12
+ret R8
+str R23 13597 R29
+ret R13
+str R12 -15153 R6
+mul R31 R25 R0
+div R24 R11 R22
+str R30 47712 R28
+mul R24 R4 R31
+jmp -3138
+ret R7
+add R28 R9 R4
+str R8 -19780 R13
+add R20 R6 R3
+sub R23 R22 R9
+add R3 R2 R5
+str R11 15838 R6
+div R17 R27 R19
+ldr R28 R27 -24774
+sub R9 R11 R26
+ret R30
+jmp 1106
+div R24 R26 R9
+mul R7 R28 R1
+mul R26 R23 R7
+mov R10 -44976
+mul R22 R30 R25
+ret R28
+ret R21
+div R27 R26 R20
+div R13 R9 R4
+div R22 R2 R15
+sub R19 R7 R24
+jmp -4467
+sub R29 R25 R23
+add R10 R9 R4
+jz R27 770
+sub R16 R6 R26
+mov R23 -853
+sub R12 R24 R2
+ldr R26 R22 -35263
+div R17 R1 R7
+add R2 R21 R24
+add R16 R2 R6
+ldr R26 R1 10556
+div R2 R11 R20
+ldr R6 R25 58519
+str R17 51166 R0
+ldr R20 R9 -25683
+str R2 -64409 R26
+add R15 R24 R3
+mul R5 R17 R30
+ret R2
+ldr R31 R23 38898
+add R14 R26 R14
+add R12 R29 R25
+mul R16 R12 R4
+str R8 45723 R10
+div R13 R0 R17
+mov R14 -22687
+ret R16
+jmp -1089
+ret R26
+ret R28
+div R29 R6 R7
+mov R18 29577
+mov R30 -65493
+add R7 R23 R16
+add R0 R6 R15
+ldr R7 R25 18646
+div R10 R29 R5
+ldr R8 R24 -35403
+ldr R3 R0 -3547
+mov R5 45821
+mul R22 R10 R7
+div R13 R12 R28
+mul R24 R4 R30
+add R19 R19 R3
+add R16 R5 R26
+ldr R21 R7 -31005
+ldr R29 R28 30144
+sub R12 R17 R22
+jz R25 4107
+div R6 R30 R18
+ret R30
+sub R27 R26 R3
+div R15 R4 R31
+mov R24 -8391
+jz R17 688
+ldr R11 R11 -12627
+mul R10 R7 R31
+sub R8 R31 R17
+sub R13 R1 R27
+add R21 R11 R2
+jz R13 4317
+ret R28
+str R17 -51883 R21
+mov R3 -31916
+sub R30 R18 R27
+ldr R1 R1 34591
+jz R11 2776
+mov R0 918
+jmp 3902
+jmp -759
+ldr R15 R2 -20659
+str R11 -18220 R17
+jmp 1011
+ret R7
+jmp 367
+jz R19 -4542
+sub R25 R0 R5
+div R10 R11 R27
+jmp -1534
+str R23 27229 R15
+ldr R11 R14 38966
+div R29 R28 R4
+ret R20
+add R4 R1 R15
+str R13 -48504 R9
+jz R19 3515
+ret R15
+mul R12 R20 R11
+jmp 2095
+add R13 R7 R17
+jz R30 1964
+mov R30 -29493
+mul R25 R5 R22
+sub R17 R10 R14
+add R23 R29 R12
+mov R7 35009
+ldr R28 R27 -22087
+mul R18 R17 R25
+ret R31
+str R25 2912 R21
+mul R7 R14 R30
+str R31 12825 R21
+ldr R1 R23 -19425
+ret R2
+ret R27
+div R11 R1 R4
+str R26 21215 R27
+jmp -1154
+jmp -1753
+jz R3 -602
+ldr R18 R17 -60298
+jz R21 2052
+jz R1 3724
+div R1 R16 R17
+sub R31 R0 R17
+jz R28 166
+ret R4
+add R0 R20 R9
+jmp 3355
+jmp -1949
+jz R20 839
+sub R20 R21 R9
+str R7 45191 R7
+div R10 R3 R20
+sub R16 R1 R18
+div R12 R3 R15
+mov R8 3645
+str R24 64456 R22
+mul R22 R21 R12
+mul R3 R13 R28
+mov R27 15732
+add R31 R2 R21
+jmp -4076
+jmp 4599
+ldr R29 R0 -50583
+div R1 R27 R1
+str R21 -9289 R0
+sub R22 R5 R4
+add R31 R23 R9
+ldr R9 R22 57741
+add R0 R2 R12
+str R2 24304 R21
+mov R26 62864
+jmp 2832
+ret R15
+jmp -4545
+jz R16 3106
+ldr R0 R29 10060
+ret R16
+mul R8 R20 R1
+jz R19 3803
+mul R15 R18 R9
+ldr R30 R1 -63795
+ret R31
+mul R1 R18 R14
+mov R9 -163
+ldr R30 R28 57204
+ldr R18 R4 6141
+sub R20 R13 R13
+ret R3
+str R28 -50853 R28
+ret R29
+mov R31 33394
+mov R31 9412
+jz R20 127
+ret R6
+sub R6 R6 R15
+jmp -3211
+jmp -2520
+add R21 R18 R1
+str R15 38149 R25
+ret R22
+ldr R5 R9 41349
+mov R23 -54392
+sub R22 R19 R5
+mov R15 -39742
+ldr R27 R7 32386
+ret R10
+ldr R20 R4 9942
+mov R10 -16998
+ret R29
+ldr R9 R26 35161
+ret R25
+mul R7 R18 R21
+sub R1 R2 R7
+mul R24 R31 R8
+sub R7 R16 R18
+mul R0 R26 R7
+jmp -3308
+sub R8 R0 R20
+str R13 41250 R2
+str R4 34033 R15
+ret R17
+jz R16 2263
+ret R14
+add R11 R20 R28
+mul R10 R12 R17
+sub R23 R29 R16
+jmp 4056
+mov R1 -20396
+jz R6 4480
+mul R0 R20 R23
+sub R27 R5 R31
+jmp 3072
+mul R6 R20 R16
+mov R21 -49856
+ret R24
+ret R8
+jmp 1502
+sub R12 R26 R21
+mov R7 31010
+mov R29 7414
+add R28 R18 R26
+jz R14 -3757
+jmp 1263
+jz R26 3249
+str R9 55789 R14
+sub R27 R22 R15
+div R31 R24 R17
+jmp 1667
+ret R8
+sub R17 R16 R31
+div R7 R11 R28
+sub R16 R25 R1
+sub R3 R0 R30
+div R13 R15 R26
+sub R22 R2 R14
+div R10 R25 R1
+jmp -575
+ret R2
+str R28 -37813 R19
+mul R3 R24 R31
+div R30 R2 R16
+jmp 409
+mov R31 23860
+mov R19 -16820
+mov R29 -56116
+div R5 R29 R20
+sub R12 R17 R7
+ldr R20 R29 -22789
+sub R23 R9 R23
+mul R22 R6 R4
+ret R17
+mul R29 R9 R8
+jz R4 481
+add R29 R19 R28
+ret R16
+jz R9 -1210
+sub R11 R7 R15
+mul R1 R9 R28
+div R1 R12 R6
+mul R14 R17 R29
+div R5 R20 R28
+mul R27 R27 R23
+jz R2 4854
+div R10 R20 R18
+mov R10 -49954
+ret R27
+jmp 4157
+str R6 40987 R7
+mul R10 R5 R25
+jmp 4037
+mul R11 R12 R10
+str R17 36393 R0
+ret R16
+jmp -1938
+jmp -2428
+add R22 R10 R27
+ldr R5 R21 20606
+ret R15
+str R27 4839 R31
+sub R1 R26 R27
+str R14 -64302 R6
+jmp 4538
+ldr R18 R0 64922
+jmp -2620
+div R31 R21 R29
+sub R25 R0 R27
+div R25 R13 R16
+mul R0 R20 R20
+str R1 13316 R15
+mov R1 -64508
+mov R29 -34809
+mul R6 R20 R13
+str R0 39441 R15
+div R18 R20 R16
+div R29 R18 R6
+sub R28 R8 R18
+mov R3 32430
+div R19 R16 R30
+jmp -1319
+add R28 R15 R6
+mov R20 48136
+mul R22 R1 R6
+jz R29 -3880
+str R8 25299 R17
+jz R30 1036
+jmp 239
+ret R13
+add R2 R22 R3
+jmp 1133
+div R21 R20 R8
+jmp -136
+jz R5 -4871
+mov R10 13639
+mov R27 -44226
+mov R28 -20381
+ldr R30 R18 -3820
+jz R1 -3079
+mul R10 R14 R5
+jz R30 3335
+mul R23 R4 R2
+div R24 R11 R6
+ret R30
+str R27 9898 R28
+str R8 -57275 R8
+mul R17 R12 R30
+mul R15 R26 R23
+jmp -1323
+div R23 R27 R7
+mul R9 R3 R10
+ldr R10 R23 5166
+ldr R11 R0 48648
+mul R20 R27 R12
+add R19 R19 R10
+str R9 44524 R23
+div R23 R0 R0
+div R16 R22 R13
+jz R23 2594
+add R5 R19 R7
+sub R5 R16 R31
+mul R4 R23 R12
+add R13 R6 R28
+jmp -1318
+mov R15 -9945
+sub R7 R10 R22
+mov R15 -5440
+add R15 R8 R7
+div R22 R26 R18
+mul R17 R21 R18
+jmp 1165
+mov R26 -8738
+mul R7 R14 R18
+jz R16 -909
+div R21 R19 R25
+sub R24 R24 R9
+mov R28 -29211
+str R12 45061 R0
+ldr R22 R3 -29414
+add R7 R29 R0
+ldr R16 R14 56982
+jz R7 -1339
+jmp -1066
+div R5 R25 R22
+ret R29
+ret R0
+ldr R2 R15 -13599
+jz R23 1567
+mul R28 R0 R5
+mul R6 R18 R7
+mov R6 27092
+jz R19 4121
+ret R19
+sub R8 R10 R13
+mov R6 -64078
+jmp 561
+mov R9 -17669
+mov R28 36101
+jz R15 313
+div R13 R23 R11
+mul R21 R30 R10
+mul R0 R24 R1
+jmp 2554
+jmp -2512
+jmp 2328
+div R29 R15 R0
+ret R10
+ldr R16 R9 -883
+jmp -2471
+mul R22 R0 R30
+div R12 R29 R4
+jz R26 3821
+jmp -1620
+add R21 R15 R26
+str R14 62748 R30
+jz R18 1146
+ldr R10 R14 42458
+jz R16 -3089
+jz R1 -303
+ret R0
+div R14 R0 R0
+jmp 4768
+mul R25 R7 R25
+sub R7 R5 R10
+jz R7 3101
+jmp 2844
+mov R5 -55541
+jmp 2277
+str R1 -28093 R23
+mov R25 -35015
+mov R6 -24827
+mul R18 R4 R13
+mul R16 R16 R13
+div R16 R7 R13
+sub R9 R19 R30
+ldr R4 R10 -38462
+sub R13 R9 R13
+mov R27 -20528
+mov R18 40781
+add R29 R13 R9
+add R15 R30 R18
+mul R13 R17 R23
+mul R23 R31 R5
+div R18 R22 R13
+mul R31 R0 R7
+jmp -4104
+mov R24 -55218
+mul R20 R18 R4
+div R27 R13 R12
+add R9 R27 R30
+jmp 3781
+sub R15 R26 R11
+jz R11 -4837
+str R3 -36794 R17
+mov R28 -11145
+mul R9 R18 R12
+mul R14 R12 R10
+jz R4 -4209
+str R31 64107 R1
+mul R26 R18 R19
+add R15 R21 R3
+div R6 R3 R23
+jz R31 -2749
+div R18 R2 R24
+jz R31 2427
+mul R14 R28 R4
+str R3 61105 R13
+jz R18 -2236
+jz R22 -2975
+div R10 R11 R5
+sub R3 R10 R28
+str R24 -46350 R28
+mul R0 R31 R6
+ldr R14 R26 1567
+jmp 3746
+mul R18 R29 R11
+jz R1 1117
+sub R7 R26 R1
+sub R24 R26 R13
+ldr R5 R4 -45082
+jmp 3649
+sub R0 R13 R2
+ret R21
+sub R5 R30 R29
+ret R8
+div R6 R24 R28
+ret R18
+jz R1 -1599
+add R19 R25 R13
+jmp 2036
+ret R7
+jmp 2784
+mul R30 R26 R24
+sub R26 R6 R25
+ldr R3 R11 -13685
+add R24 R3 R2
+str R23 -46381 R27
+div R8 R0 R8
+add R16 R28 R25
+sub R25 R13 R26
+sub R8 R22 R3
+ret R14
+ret R24
+jz R26 -4968
+div R17 R30 R6
+jz R23 3710
+div R22 R12 R9
+div R18 R12 R12
+ret R24
+ldr R25 R30 11713
+ret R21
+mov R15 -61710
+mul R26 R9 R19
+sub R2 R9 R12
+jmp 757
+str R20 -38687 R28
+mov R18 6833
+mov R11 61442
+mov R3 53985
+ldr R0 R21 -18228
+add R15 R4 R2
+jmp -4663
+add R18 R29 R30
+add R27 R30 R6
+jmp -186
+add R9 R2 R30
+jmp 1224
+ret R4
+jmp 185
+ldr R9 R7 8
+div R19 R30 R13
+str R13 -41430 R11
+add R0 R6 R12
+jz R14 2483
+mov R20 -23072
+mul R20 R12 R26
+mov R20 -31859
+ret R25
+ldr R19 R26 -35745
+div R13 R15 R5
+mov R30 -9138
+jmp 3780
+jz R3 -2456
+div R22 R5 R15
+mov R2 3087
+sub R3 R11 R23
+mov R7 14150
+add R5 R18 R19
+mov R5 12602
+ldr R18 R4 -61474
+sub R20 R2 R22
+jz R19 -1616
+mov R24 -23461
+add R21 R24 R16
+mul R31 R30 R10
+str R17 -26834 R15
+add R31 R24 R18
+add R20 R9 R20
+add R11 R29 R26
+mov R5 -12131
+mov R8 -39525
+mov R15 59658
+div R7 R19 R0
+add R6 R31 R19
+ret R2
+ldr R25 R26 -36877
+jz R27 2291
+jmp 3980
+div R30 R14 R7
+mov R7 -20907
+div R24 R16 R22
+sub R13 R6 R3
+ret R11
+mov R24 39323
+str R30 63350 R11
+str R10 -59534 R19
+ldr R13 R31 21472
+mov R10 61184
+ret R12
+jmp -3898
+sub R25 R18 R13
+jz R16 -750
+mul R7 R6 R12
+mul R26 R4 R18
+str R14 42198 R5
+ldr R5 R24 -28372
+sub R31 R6 R26
+div R10 R2 R21
+str R11 24262 R30
+ret R14
+mul R26 R8 R8
+str R31 31520 R14
+str R19 -38560 R6
+ret R30
+sub R14 R6 R24
+ldr R25 R6 43842
+add R13 R2 R18
+sub R1 R24 R8
+jmp 1932
+add R16 R21 R4
+mov R25 -55302
+mul R29 R14 R5
+add R19 R28 R11
+mov R9 -61243
+mov R20 3570
+ret R8
+div R5 R2 R19
+add R26 R3 R16
+jmp 1278
+mul R22 R11 R8
+ret R23
+jz R19 -983
+ldr R31 R25 29890
+str R0 -52138 R3
+sub R3 R13 R9
+jmp 1259
+jmp -267
+ret R8
+ret R7
+div R7 R19 R21
+ret R10
+ret R17
+ret R15
+jmp 4296
+str R25 36127 R7
+jmp 2978
+sub R23 R6 R1
+jz R24 4324
+ldr R12 R5 43244
+sub R17 R23 R1
+ldr R5 R3 -48251
+ret R2
+sub R26 R4 R31
+sub R17 R11 R19
+add R28 R15 R19
+str R13 -30551 R9
+str R5 -20759 R3
+str R13 25958 R26
+jmp -293
+jmp 4569
+ret R2
+sub R26 R1 R22
+mov R27 -9824
+str R0 55437 R10
+jz R1 -263
+ret R29
+mul R17 R2 R24
+str R23 -42968 R6
+jz R30 -1498
+jz R19 -3042
+div R16 R26 R10
+ret R27
+jmp -1648
+div R12 R9 R16
+ret R18
+add R27 R8 R1
+jmp 2828
+ret R12
+jz R9 249
+jz R16 -3515
+jz R14 -2797
+mov R29 39809
+str R29 55218 R7
+ldr R2 R3 13205
+jmp -4877
+mov R5 39522
+ldr R27 R29 44008
+div R22 R30 R25
+jmp 1831
+ret R28
+sub R5 R8 R25
+jz R9 -1075
+mul R24 R22 R25
+jmp -3255
+mov R11 -48594
+str R28 -52272 R26
+jz R29 -4452
+mul R11 R22 R29
+mov R2 36639
+mul R26 R27 R16
+ldr R31 R5 45132
+ret R29
+jz R30 3270
+sub R4 R17 R13
+str R29 38675 R25
+jmp -1755
+str R23 21242 R6
+ldr R29 R13 31986
+sub R27 R23 R1
+add R23 R4 R11
+mov R6 -63874
+jmp 2572
+mul R4 R25 R28
+mov R10 36538
+mul R19 R14 R26
+mul R28 R3 R20
+mov R24 -34521
+ret R4
+str R27 -22344 R31
+div R21 R1 R28
+ret R3
+mul R3 R13 R22
+jmp -1556
+ldr R10 R5 24160
+div R20 R6 R13
+ldr R7 R23 -12941
+sub R21 R23 R23
+div R23 R0 R14
+str R11 -6652 R3
+sub R29 R21 R19
+add R7 R30 R23
+jz R10 -2442
+add R31 R30 R12
+ret R15
+add R20 R4 R17
+sub R26 R21 R9
+add R22 R6 R20
+jmp -4880
+add R30 R1 R17
+sub R26 R9 R7
+jz R23 -2129
+ldr R8 R2 -12076
+add R31 R11 R23
+sub R29 R1 R8
+mul R10 R16 R16
+str R10 -58346 R29
+jmp -4883
+str R23 -842 R11
+ret R13
+str R19 -52361 R2
+ret R7
+mov R29 -41389
+mov R8 -41527
+str R7 -24845 R24
+jmp 3108
+sub R23 R1 R13
+ldr R5 R9 20125
+mul R26 R17 R30
+jmp -3633
+jmp -2909
+ret R25
+add R22 R12 R22
+mov R16 4273
+div R31 R31 R8
+ldr R29 R0 51259
+jmp 573
+ret R28
+mov R31 -11188
+ret R29
+ret R21
+ldr R9 R16 -64842
+mul R24 R1 R12
+add R6 R12 R22
+div R22 R20 R25
+ret R14
+jmp -2968
+add R27 R22 R19
+ldr R11 R17 -16247
+mov R18 3744
+sub R4 R14 R10
+div R18 R24 R15
+ret R18
+jmp -3046
+ldr R18 R9 -62942
+ret R3
+div R10 R7 R24
+add R22 R2 R3
+mov R4 -5413
+mov R19 4222
+sub R22 R17 R31
+mul R3 R26 R18
+sub R19 R0 R7
+str R16 -46015 R28
+add R30 R20 R13
+ret R14
+jmp -1454
+jmp -2993
+mul R21 R16 R30
+mov R22 51907
+sub R0 R22 R13
+jz R9 3260
+ret R9
+div R14 R4 R8
+mov R9 -13876
+add R3 R12 R19
+sub R5 R24 R10
+jmp 76
+sub R2 R29 R24
+div R23 R22 R6
+jz R0 -2533
+div R17 R29 R21
+str R14 -50090 R27
+add R21 R25 R13
+div R24 R25 R10
+add R25 R25 R2
+jz R23 3346
+ret R19
+mul R18 R10 R19
+jz R25 -580
+mov R14 -5141
+str R14 3464 R13
+mov R2 62196
+ldr R6 R28 -20605
+mov R9 46002
+mov R11 19714
+jmp -1811
+add R21 R16 R11
+div R23 R28 R11
+jz R31 -4530
+jz R25 3688
+jmp -4826
+ldr R23 R14 38457
+div R11 R21 R6
+sub R20 R21 R25
+add R15 R13 R14
+ldr R12 R5 19774
+str R19 50197 R20
+add R31 R29 R13
+ret R17
+jmp 2424
+jmp -643
+mov R19 62407
+str R13 53864 R17
+div R23 R4 R22
+str R5 4794 R25
+jz R6 1106
+ldr R20 R5 5004
+div R1 R22 R20
+mul R14 R17 R1
+ret R18
+str R2 37150 R13
+div R0 R13 R6
+div R29 R30 R6
+div R26 R3 R7
+str R15 -28483 R29
+add R4 R20 R25
+jmp -881
+add R3 R0 R7
+div R16 R13 R12
+jz R17 -567
+jmp 2415
+sub R29 R30 R22
+sub R10 R6 R12
+div R4 R31 R6
+mul R24 R14 R23
+mul R3 R9 R0
+mov R17 270
+ret R21
+jz R9 1477
+str R29 -42485 R22
+str R11 -6856 R21
+str R16 27811 R10
+mul R11 R15 R21
+ret R24
+str R31 129 R12
+add R27 R26 R20
+jz R13 1038
+str R8 -57653 R15
+jz R6 381
+str R3 3370 R28
+sub R6 R13 R4
+mul R5 R8 R28
+add R7 R26 R4
+add R5 R30 R13
+div R0 R0 R21
+add R31 R17 R10
+div R31 R11 R11
+jz R11 -1843
+mul R19 R24 R9
+ldr R12 R7 4261
+ret R23
+str R0 21091 R3
+div R4 R22 R26
+jmp -2565
+sub R26 R1 R8
+sub R4 R4 R23
+ret R24
+mov R3 -4704
+ret R4
+str R15 9627 R21
+str R22 -52948 R25
+str R23 -31832 R3
+sub R12 R11 R12
+add R16 R6 R9
+str R3 -54938 R10
+ret R31
+ret R18
+mul R23 R4 R4
+jz R29 663
+add R27 R30 R11
+ldr R5 R11 64941
+mul R13 R31 R15
+add R5 R18 R24
+ldr R14 R5 -49455
+mov R5 -59892
+mov R23 35423
+div R5 R22 R8
+div R27 R7 R7
+div R7 R29 R16
+add R30 R6 R6
+str R10 52489 R29
+ldr R21 R12 21874
+jz R19 3296
+mov R30 46722
+mov R0 -64572
+ldr R7 R11 1273
+jmp -352
+sub R6 R9 R18
+mul R15 R0 R10
+add R6 R11 R27
+div R31 R0 R24
+sub R2 R9 R3
+mov R18 -45643
+str R27 8353 R5
+mul R6 R26 R31
+ldr R7 R3 -14383
+ret R9
+ldr R23 R5 -30198
+ret R9
+mul R23 R27 R8
+ldr R7 R1 45056
+ldr R27 R26 -48268
+div R24 R15 R28
+jz R13 1385
+str R10 -62271 R30
+div R29 R6 R5
+mov R25 21269
+str R25 15761 R17
+add R1 R1 R11
+ldr R19 R15 -25911
+jz R22 -530
+mov R18 19569
+mul R30 R2 R13
+sub R30 R10 R30
+mul R21 R7 R3
+sub R1 R27 R10
+jz R12 -3438
+sub R7 R18 R11
+sub R3 R8 R21
+ret R29
+sub R12 R5 R12
+add R21 R20 R19
+sub R17 R27 R23
+mul R28 R27 R7
+sub R22 R27 R7
+div R22 R19 R29
+str R31 -53908 R20
+ret R13
+sub R25 R21 R3
+jz R22 2834
+ldr R21 R21 49145
+jz R21 4353
+jz R4 646
+ret R22
+div R29 R18 R18
+ldr R28 R18 2357
+jz R20 -522
+ret R22
+jz R18 -2292
+jmp 1852
+jmp 2864
+ldr R10 R2 50819
+str R27 27054 R16
+mov R3 -41963
+div R30 R15 R11
+mov R16 46276
+str R18 -21928 R14
+jmp -395
+add R27 R12 R11
+mul R5 R3 R17
+mov R23 -38700
+sub R4 R27 R9
+sub R30 R7 R4
+mul R16 R5 R2
+div R16 R25 R4
+add R21 R27 R27
+add R13 R0 R0
+jz R22 2791
+ret R24
+ldr R13 R7 64812
+div R11 R29 R10
+jz R10 -3368
+sub R4 R30 R27
+add R26 R28 R0
+sub R7 R16 R23
+jmp -410
+jz R23 -122
+mul R10 R2 R6
+mov R7 29114
+jz R10 -1452
+sub R26 R1 R9
+add R25 R25 R14
+ret R12
+jmp -364
+jz R11 -4812
+ret R7
+ret R10
+sub R17 R5 R29
+str R2 11232 R23
+ldr R9 R23 -25261
+ldr R4 R20 14801
+add R4 R24 R12
+ldr R10 R7 36337
+jmp -946
+mov R13 52379
+str R21 59369 R10
+jz R4 -579
+mov R5 -22919
+div R31 R4 R5
+str R26 32777 R18
+jmp -3497
+ldr R14 R3 57640
+div R30 R5 R31
+ret R4
+add R28 R7 R5
+jmp -3432
+jmp -760
+jmp 2606
+str R11 -47111 R16
+str R13 -39697 R24
+mov R11 -20732
+jmp 327
+jz R12 3615
+jmp -4853
+add R10 R2 R6
+ret R2
+ldr R4 R19 6989
+mul R15 R25 R6
+ret R7
+ret R18
+str R16 14567 R9
+add R3 R15 R12
+ret R19
+ldr R30 R27 -41294
+jmp -2962
+add R29 R0 R21
+jz R1 3061
+mov R2 -42485
+add R6 R11 R11
+mul R21 R4 R7
+jmp 1906
+jz R4 -1566
+div R22 R7 R15
+mov R15 -40980
+sub R17 R16 R9
+mov R24 -28599
+div R0 R2 R9
+div R9 R12 R3
+mov R9 -1042
+div R19 R12 R6
+jmp -1416
+sub R22 R22 R13
+ret R9
+jz R6 -4532
+ldr R8 R21 -47450
+jmp -3619
+jmp -4677
+div R12 R7 R7
+mul R24 R6 R23
+div R10 R11 R6
+jmp -4298
+ldr R11 R23 5054
+add R22 R1 R3
+jz R21 -460
+jmp -2805
+sub R5 R15 R14
+add R18 R24 R13
+add R23 R9 R26
+ldr R19 R5 31842
+mov R12 -52010
+str R3 -36180 R22
+mul R31 R18 R31
+ret R31
+sub R17 R27 R30
+div R25 R29 R13
+jz R0 4147
+jmp 1797
+mul R10 R4 R30
+sub R20 R3 R10
+div R7 R27 R6
+jz R30 -5499
+ldr R12 R22 -31817
+str R13 -21551 R14
+mov R1 -31867
+str R22 -19341 R18
+sub R14 R12 R10
+add R13 R16 R14
+ldr R12 R9 57607
+mul R27 R16 R26
+ret R7
+add R17 R5 R22
+mul R24 R27 R4
+jz R12 -412
+add R19 R10 R31
+sub R24 R11 R28
+ldr R28 R28 1213
+div R4 R17 R15
+ret R16
+div R19 R26 R15
+jz R5 -5023
+jmp 2680
+mul R27 R10 R5
+div R0 R2 R2
+ret R15
+sub R7 R9 R17
+mov R17 -37585
+jz R28 -4767
+str R18 64267 R28
+add R13 R23 R14
+sub R6 R22 R8
+jz R20 2457
+add R24 R9 R21
+mul R10 R19 R6
+mov R4 34852
+mul R21 R13 R21
+sub R7 R24 R0
+mul R27 R11 R15
+add R19 R19 R20
+sub R15 R1 R27
+jz R16 -5162
+mul R26 R17 R15
+str R20 10952 R14
+add R8 R23 R3
+mul R4 R9 R25
+mov R9 45972
+sub R24 R28 R0
+div R15 R12 R23
+ldr R5 R7 -51437
+div R19 R13 R31
+ret R9
+div R23 R16 R2
+jz R24 3942
+ret R28
+str R5 21538 R28
+mul R5 R23 R5
+ldr R24 R31 -33544
+mov R12 -29052
+add R9 R10 R20
+jmp -3695
+mul R11 R10 R1
+str R10 43775 R19
+sub R27 R6 R19
+sub R21 R17 R4
+jmp 2963
+ldr R30 R14 4628
+str R7 -7671 R15
+ldr R1 R9 52979
+add R5 R17 R24
+mul R21 R4 R6
+ret R23
+ldr R18 R18 -31477
+add R2 R13 R17
+sub R25 R16 R31
+sub R18 R3 R30
+ldr R31 R12 39414
+div R27 R17 R13
+div R3 R31 R22
+jz R21 -4345
+add R22 R23 R5
+sub R10 R16 R19
+jmp -5628
+str R14 -13593 R10
+mul R16 R20 R5
+mul R22 R3 R0
+ret R19
+mov R13 45147
+add R29 R6 R22
+jmp 170
+str R29 50037 R14
+add R4 R15 R5
+div R28 R14 R2
+ret R9
+str R10 63443 R23
+mov R31 61105
+str R15 -44014 R21
+jmp -3996
+mul R8 R13 R9
+str R4 32122 R14
+ldr R2 R7 14978
+mov R21 46003
+div R27 R26 R25
+jmp -456
+add R19 R9 R17
+sub R1 R30 R27
+sub R31 R27 R1
+ret R7
+mul R18 R10 R5
+str R8 14346 R0
+jmp 4209
+jz R30 -14
+jz R15 1284
+add R3 R15 R13
+ret R11
+jz R14 -2888
+jz R25 -3667
+mov R31 -53095
+sub R5 R6 R21
+add R17 R12 R24
+sub R19 R20 R25
+div R12 R18 R8
+mov R12 -34584
+ldr R26 R25 58359
+ldr R19 R10 34852
+ldr R9 R20 6873
+ldr R13 R14 1100
+ldr R21 R18 27627
+ret R27
+ldr R3 R4 5802
+jz R6 -4831
+div R31 R28 R5
+sub R24 R6 R21
+div R16 R14 R17
+jmp -4602
+mul R6 R31 R7
+ret R3
+add R9 R25 R16
+sub R26 R23 R29
+ldr R5 R17 -10440
+jmp -946
+jmp 1420
+ldr R11 R30 34417
+ret R6
+jmp 1906
+ret R22
+jmp -3806
+mov R1 -37661
+ret R1
+sub R31 R16 R2
+mov R29 37980
+jz R24 -1217
+jz R2 -5516
+add R13 R18 R15
+ret R8
+add R15 R20 R19
+str R9 54878 R19
+mul R26 R31 R14
+jz R5 -42
+mul R2 R31 R30
+jz R7 -30
+ret R20
+ldr R16 R7 21678
+jmp -3856
+mul R7 R4 R31
+jz R17 601
+ret R0
+sub R12 R15 R0
+mul R9 R22 R13
+sub R8 R19 R10
+str R13 -44609 R17
+mul R12 R18 R12
+ret R27
+div R21 R29 R7
+str R30 -64807 R16
+div R16 R23 R29
+jz R23 2012
+add R16 R28 R29
+jmp -281
+jmp -1651
+div R5 R13 R4
+div R18 R30 R18
+str R22 36849 R26
+ldr R3 R1 -10244
+mul R5 R0 R18
+div R5 R13 R19
+mov R13 48883
+jmp -2167
+jmp 1619
+ldr R10 R18 -50159
+sub R17 R16 R5
+jmp -177
+mov R5 -19098
+ret R2
+jmp -3302
+str R28 61952 R26
+str R10 22166 R24
+mul R3 R12 R23
+ldr R20 R27 3915
+ldr R30 R15 -33261
+jz R7 -5545
+jz R19 -4450
+mov R22 -32911
+str R29 2721 R4
+ldr R7 R5 63428
+jmp -3411
+jz R15 -218
+jmp -2966
+ldr R31 R19 -42298
+ret R3
+jz R16 -3039
+jmp 525
+mov R10 -60502
+mul R6 R6 R7
+str R29 -754 R21
+str R28 62181 R26
+mov R2 -4601
+ldr R9 R17 -24908
+str R0 -13734 R17
+ret R30
+add R2 R8 R20
+ldr R9 R10 48206
+str R4 -56640 R1
+div R2 R1 R0
+jz R13 1466
+div R10 R1 R9
+add R7 R29 R25
+str R27 -60202 R25
+mul R5 R26 R19
+sub R1 R17 R5
+str R2 6032 R12
+jmp -93
+mov R24 49136
+mul R12 R4 R21
+div R9 R8 R14
+str R15 33092 R5
+ret R1
+jz R23 201
+str R2 -47361 R22
+jmp -3462
+div R30 R30 R18
+ldr R14 R31 6039
+jz R15 -4848
+div R10 R31 R8
+jz R6 3638
+jz R25 -4565
+ret R16
+mov R17 -39355
+add R15 R15 R17
+str R4 60025 R15
+ret R6
+str R29 -63714 R16
+jz R20 966
+jmp 499
+add R2 R29 R2
+mul R0 R21 R1
+jz R11 -3130
+jz R14 -1129
+div R31 R21 R18
+jz R3 -5336
+str R14 2784 R6
+ret R26
+ldr R15 R5 -7254
+sub R9 R22 R3
+ldr R29 R21 60029
+div R17 R19 R14
+ldr R25 R3 53967
+jmp 3040
+str R22 -50543 R27
+str R28 -17213 R13
+jz R17 -4902
+sub R26 R7 R30
+div R16 R7 R20
+div R11 R18 R1
+mul R8 R15 R21
+mov R21 -5682
+sub R8 R22 R1
+jz R30 -4737
+ret R18
+ldr R9 R8 43103
+mul R2 R23 R10
+ldr R31 R19 29496
+jmp -405
+jmp -4782
+div R14 R13 R15
+sub R8 R31 R7
+jz R0 -3643
+str R9 13967 R22
+jmp 654
+div R24 R21 R16
+sub R18 R19 R9
+div R0 R21 R31
+div R25 R11 R29
+str R6 8831 R30
+jz R29 544
+str R4 -21392 R23
+jmp 3987
+div R11 R23 R9
+add R29 R25 R17
+div R10 R31 R15
+ldr R17 R2 -12566
+mov R17 40148
+mov R7 -44675
+jz R25 189
+sub R15 R23 R15
+str R4 -25353 R10
+str R24 -57889 R10
+sub R6 R17 R26
+mov R18 -32512
+jmp -309
+ret R27
+jz R20 1781
+jmp 1503
+mov R7 -20019
+mov R27 -63870
+ldr R11 R4 16741
+jmp 2968
+ret R3
+jz R1 3302
+add R6 R12 R13
+add R19 R2 R1
+div R22 R8 R9
+ret R23
+sub R1 R14 R10
+ldr R5 R14 -64675
+mul R2 R12 R11
+add R19 R31 R16
+str R13 29990 R12
+ret R25
+add R5 R23 R22
+mov R27 -47082
+add R9 R7 R30
+jz R16 -5165
+ret R0
+ret R6
+sub R16 R7 R29
+str R4 -49884 R8
+mul R23 R31 R7
+str R0 -47067 R0
+add R18 R27 R27
+str R3 -62154 R10
+jz R22 3741
+ldr R20 R16 -17264
+mul R3 R21 R20
+mov R11 8316
+mov R5 5637
+jz R17 -3858
+ret R16
+jz R1 2064
+div R23 R29 R8
+add R24 R12 R28
+mul R2 R16 R2
+sub R30 R3 R10
+ret R25
+jz R4 307
+jmp 2050
+div R21 R9 R28
+add R17 R9 R15
+jz R8 -688
+div R31 R12 R22
+add R11 R10 R9
+jz R29 -2386
+str R21 27093 R16
+mov R13 -10270
+div R12 R20 R12
+mov R12 -25637
+mul R19 R21 R4
+mov R11 -531
+mov R16 27474
+sub R13 R14 R15
+jmp 3615
+ldr R8 R21 -28114
+jmp -632
+jmp -994
+sub R11 R1 R19
+mul R8 R1 R26
+ldr R13 R25 39521
+jz R29 -5759
+mul R31 R30 R3
+str R20 -48472 R11
+sub R4 R19 R11
+jz R24 -5310
+sub R10 R8 R17
+jmp -2523
+sub R25 R15 R1
+ret R19
+str R23 -55668 R0
+mul R31 R30 R31
+mov R28 -48502
+mul R17 R5 R1
+add R31 R30 R6
+ret R27
+sub R25 R22 R22
+jz R30 -2953
+mul R5 R20 R5
+jz R18 -3651
+sub R27 R7 R1
+mov R6 32441
+add R27 R20 R1
+ldr R25 R27 -4343
+str R27 18582 R22
+jmp -216
+mov R29 -2944
+jmp -328
+sub R21 R30 R27
+jz R24 -2765
+mov R11 -26969
+ret R4
+add R13 R16 R12
+jmp 688
+ret R8
+str R5 45147 R29
+ret R13
+div R23 R22 R27
+jz R9 -1409
+add R2 R5 R14
+div R28 R29 R3
+str R9 -37768 R31
+mul R29 R31 R6
+ret R27
+ldr R29 R24 43661
+ret R18
+str R17 -37243 R2
+jmp -2314
+add R18 R7 R11
+str R12 45060 R15
+ret R27
+str R31 33432 R5
+sub R5 R12 R4
+jz R31 -5498
+add R10 R31 R25
+str R0 -26075 R24
+sub R5 R4 R10
+div R20 R10 R7
+str R30 -30398 R10
+div R23 R16 R29
+str R0 62004 R6
+mul R16 R3 R27
+mov R8 27828
+jz R9 -4012
+mov R3 -14302
+ret R29
+jmp 414
+ldr R0 R2 36038
+add R1 R1 R28
+div R10 R19 R16
+jz R11 -5531
+mov R14 -13432
+mul R2 R27 R17
+div R0 R12 R31
+jz R19 -5804
+ldr R28 R7 23658
+sub R26 R31 R15
+div R18 R26 R5
+sub R23 R18 R14
+div R8 R30 R3
+mul R7 R16 R25
+jmp 1558
+str R21 -39741 R0
+ldr R24 R9 -17024
+ret R27
+mul R8 R3 R7
+ret R13
+mov R5 -7905
+ret R23
+add R17 R22 R30
+jmp -4179
+add R10 R27 R31
+jz R3 -3039
+str R9 43541 R13
+jmp 155
+str R22 -17297 R11
+mov R24 -35370
+sub R6 R8 R31
+mov R9 65357
+div R9 R29 R5
+jmp -2571
+div R10 R17 R7
+mov R1 11886
+ldr R24 R23 -65216
+ldr R25 R16 5135
+jmp 695
+mul R17 R2 R30
+jmp -500
+add R17 R20 R28
+div R30 R13 R8
+jmp -2149
+div R31 R7 R21
+mov R30 56866
+ldr R21 R17 -43646
+div R13 R3 R18
+mul R13 R16 R12
+ldr R14 R23 40464
+div R5 R29 R18
+mov R22 -40183
+sub R31 R12 R11
+jz R7 -118
+mov R10 -44297
+jmp 656
+str R13 11053 R2
+mul R25 R12 R30
+mov R9 34052
+add R5 R27 R30
+jmp -1937
+jmp -4991
+div R11 R26 R25
+ldr R28 R24 24651
+jz R24 -2290
+str R3 14457 R25
+div R21 R27 R6
+jz R29 -1295
+mov R26 -37082
+mov R20 -17032
+sub R17 R15 R1
+add R11 R16 R2
+jz R13 -836
+mul R28 R25 R16
+add R18 R8 R17
+div R13 R7 R16
+ret R8
+ldr R22 R31 61132
+str R4 -971 R26
+div R18 R5 R22
+jz R3 904
+str R15 -50595 R13
+mov R25 38484
+sub R2 R22 R11
+add R19 R3 R17
+ret R13
+ldr R18 R24 -53519
+add R23 R3 R23
+str R15 14548 R1
+add R3 R18 R17
+mov R5 -64761
+jmp 1891
+sub R23 R29 R31
+mov R12 -36930
+ret R10
+div R17 R17 R4
+jz R2 -3868
+add R20 R2 R26
+ret R24
+ldr R7 R27 15573
+ret R28
+sub R30 R25 R24
+ret R7
+ret R23
+str R7 61676 R28
+mov R30 -4126
+add R25 R9 R26
+div R25 R0 R28
+mul R1 R24 R17
+jmp 2286
+add R21 R15 R6
+ret R22
+mov R0 -34944
+ldr R3 R20 -48181
+jmp 1882
+mov R26 20346
+str R24 62364 R23
+ldr R0 R22 -13915
+jz R24 2520
+ldr R22 R21 -7225
+mul R13 R13 R2
+add R8 R9 R9
+mov R14 -10126
+jmp -5168
+add R10 R14 R0
+ldr R10 R20 -38496
+str R2 65451 R10
+ldr R0 R21 16438
+div R2 R22 R0
+div R14 R24 R31
+mul R27 R13 R5
+mul R22 R20 R30
+div R1 R7 R1
+mul R4 R4 R4
+sub R6 R25 R5
+add R28 R5 R21
+jz R27 1578
+add R13 R4 R13
+str R30 16132 R15
+add R24 R9 R9
+ret R21
+mul R3 R14 R2
+ret R21
+add R30 R5 R26
+add R27 R3 R3
+str R4 16662 R19
+str R14 10358 R29
+add R18 R12 R10
+jz R17 3708
+sub R11 R15 R28
+jz R5 -798
+ret R9
+jmp 1447
+jmp -2007
+mul R13 R19 R19
+ret R22
+mov R4 43615
+sub R30 R31 R23
+sub R21 R4 R15
+div R18 R30 R15
+jz R10 2677
+mul R2 R21 R26
+add R20 R9 R25
+mul R20 R28 R11
+ret R9
+ret R16
+mov R11 -25539
+mul R11 R12 R31
+jmp -2333
+mul R2 R7 R17
+ret R25
+mul R5 R12 R13
+str R6 -309 R16
+mov R9 7891
+str R4 10159 R3
+sub R23 R24 R2
+ldr R19 R29 42122
+str R21 57141 R16
+mov R26 35179
+mov R30 2917
+div R19 R4 R8
+div R6 R14 R14
+sub R1 R8 R28
+mov R26 59224
+ldr R0 R12 -26338
+str R1 -46437 R5
+div R5 R5 R30
+div R26 R19 R7
+ret R6
+str R21 -64272 R20
+sub R26 R18 R16
+add R29 R26 R30
+jz R28 1583
+sub R15 R15 R0
+ldr R17 R10 -19288
+jmp -1552
+jmp -2681
+str R17 63276 R26
+ret R14
+jz R28 3601
+add R26 R15 R2
+add R30 R15 R26
+mov R1 -7046
+str R2 -38772 R25
+sub R10 R13 R0
+sub R20 R27 R16
+mov R11 -47502
+jz R10 2017
+div R11 R9 R31
+mul R21 R2 R5
+jz R25 -628
+sub R2 R23 R27
+ldr R12 R24 28782
+sub R26 R15 R18
+ldr R14 R21 -54225
+add R1 R2 R10
+ret R30
+sub R25 R3 R0
+ret R10
+ldr R9 R8 12299
+ret R13
+add R20 R18 R13
+str R29 51872 R16
+div R13 R15 R10
+str R29 64002 R10
+str R24 -3384 R8
+str R4 -63699 R11
+add R6 R2 R3
+div R28 R31 R1
+ldr R1 R5 20175
+ret R31
+add R16 R4 R28
+div R17 R2 R2
+mul R0 R19 R5
+jz R14 -702
+div R30 R10 R7
+div R6 R16 R29
+add R24 R5 R25
+ldr R20 R18 55173
+sub R5 R29 R2
+jz R5 -4394
+add R19 R8 R23
+jz R7 -4590
+add R23 R13 R18
+add R15 R2 R22
+div R10 R19 R11
+ldr R21 R20 -58778
+ldr R9 R28 11189
+sub R4 R0 R1
+jz R5 3543
+sub R22 R17 R3
+ret R15
+mov R1 -27836
+sub R11 R30 R21
+str R29 -29511 R7
+ret R11
+ldr R3 R15 29919
+add R30 R29 R11
+str R23 10830 R10
+ldr R13 R31 -41908
+jmp -2335
+add R18 R6 R16
+mul R11 R10 R3
+jmp -2420
+ret R30
+str R10 64091 R17
+mov R6 -27676
+ldr R27 R15 -8113
+div R17 R0 R12
+jmp -4929
+str R17 -41381 R1
+str R31 -4423 R19
+mul R21 R20 R8
+jz R13 333
+mul R13 R31 R7
+add R15 R26 R30
+ret R14
+jmp -998
+ldr R3 R24 -17076
+jmp 1573
+sub R4 R8 R3
+jmp 1109
+sub R12 R31 R29
+str R26 -18888 R26
+jz R14 2092
+mov R15 61112
+mul R10 R4 R22
+mul R3 R19 R31
+jmp -1492
+ret R28
+add R9 R22 R7
+ldr R14 R8 -59139
+div R21 R3 R16
+str R24 -34381 R29
+str R2 -7260 R20
+str R0 -26275 R29
+ldr R13 R21 -29263
+jmp 1870
+div R31 R13 R11
+div R18 R6 R13
+str R7 33532 R14
+mov R15 35813
+ldr R18 R18 -41002
+jz R19 -4659
+str R15 37526 R17
+sub R5 R10 R24
+ldr R6 R31 48464
+jz R1 -5640
+str R20 25901 R11
+jmp 3442
+mul R9 R16 R20
+ldr R13 R1 -44215
+ldr R29 R22 38811
+sub R21 R6 R5
+add R18 R22 R17
+jmp 322
+add R11 R23 R13
+str R5 -40204 R23
+jmp 2557
+mov R1 41324
+jz R20 -5587
+mov R29 58325
+ret R18
+jz R11 -5439
+jmp -6001
+div R1 R1 R25
+str R13 -3837 R27
+mul R3 R7 R4
+add R3 R24 R14
+sub R11 R31 R30
+jz R25 -1180
+jz R12 -6390
+ldr R16 R28 -18876
+jz R0 -5488
+ldr R0 R25 5495
+div R31 R6 R29
+div R7 R5 R18
+add R15 R27 R11
+str R0 63201 R24
+mul R14 R24 R9
+mov R19 60698
+jz R20 -1342
+add R15 R24 R19
+div R23 R1 R22
+mul R9 R17 R21
+jz R10 -6229
+mov R22 -26056
+add R5 R21 R3
+mov R16 62129
+div R1 R14 R2
+jmp -642
+jz R18 -3489
+mov R30 -1181
+jmp 2334
+add R4 R5 R30
+mul R0 R0 R29
+add R0 R28 R29
+div R19 R12 R17
+div R28 R12 R2
+ldr R6 R12 46200
+div R27 R15 R21
+jz R31 -3813
+sub R8 R24 R12
+ldr R8 R14 -34986
+ldr R29 R16 54238
+jmp -99
+jz R17 3009
+jz R5 851
+add R19 R18 R14
+str R2 -50939 R30
+sub R18 R1 R19
+jmp -5699
+str R29 -54686 R27
+jz R30 -4975
+mul R19 R17 R12
+str R3 -54890 R13
+div R24 R3 R20
+jz R27 -1965
+str R11 61178 R2
+str R1 25209 R4
+mul R6 R25 R20
+mov R26 12625
+sub R14 R8 R28
+jmp -4802
+jz R5 -986
+sub R29 R9 R14
+mov R13 5684
+mul R18 R13 R4
+ldr R8 R11 -20080
+mul R22 R27 R27
+jmp -5864
+str R4 64236 R14
+add R22 R9 R4
+ret R23
+ldr R4 R4 64587
+mul R6 R26 R25
+div R1 R7 R3
+add R4 R31 R8
+ldr R13 R2 -48996
+add R28 R24 R18
+add R13 R11 R31
+jmp -4111
+mul R21 R8 R20
+ldr R26 R28 -52154
+jz R14 3509
+str R17 -39804 R19
+div R21 R3 R3
+ldr R17 R3 -10298
+jz R30 -102
+mov R29 41120
+mov R4 -125
+sub R25 R14 R25
+jmp -407
+mov R24 41805
+div R31 R8 R6
+jz R20 1349
+mul R1 R2 R8
+add R20 R22 R15
+mul R13 R6 R25
+ldr R18 R29 64650
+mul R25 R31 R13
+sub R22 R5 R7
+mov R19 56611
+ret R6
+div R14 R7 R8
+div R28 R8 R13
+jmp 2544
+jz R13 -4598
+ret R1
+jz R0 -4733
+mov R7 -62117
+ret R1
+jz R24 -3853
+ret R25
+mul R28 R23 R0
+mul R8 R30 R27
+ldr R18 R15 55423
+sub R24 R19 R17
+jz R8 -3267
+div R13 R6 R30
+jz R29 2107
+ret R6
+ldr R3 R4 8807
+ldr R5 R12 -47817
+sub R9 R31 R8
+add R24 R3 R23
+jmp 238
+jz R2 -1411
+ret R2
+jz R12 -5421
+sub R22 R24 R25
+ret R22
+jz R15 1532
+sub R8 R18 R31
+mov R27 -14318
+jmp 1401
+add R3 R20 R1
+mul R1 R4 R7
+sub R5 R18 R18
+jmp -1033
+div R14 R19 R27
+jmp -5544
+div R25 R4 R15
+mov R27 32901
+jz R10 -5871
+div R14 R24 R28
+div R2 R29 R15
+div R0 R23 R16
+ret R17
+ldr R4 R27 -58543
+mov R31 59438
+ldr R18 R15 24741
+add R21 R14 R12
+mov R21 54472
+mul R5 R16 R13
+str R16 52654 R9
+mul R17 R8 R6
+div R10 R0 R16
+mov R22 1337
+jmp -1037
+sub R5 R0 R0
+str R20 29211 R25
+str R16 20887 R13
+sub R13 R7 R18
+jmp -1556
+jz R11 1668
+ret R10
+mov R14 62803
+jz R16 -4441
+div R10 R10 R27
+div R29 R19 R2
+mov R9 47330
+ret R12
+div R6 R19 R22
+str R14 26155 R28
+ret R22
+str R2 -26089 R13
+ret R14
+mul R21 R17 R12
+mov R10 -63786
+mov R13 3250
+mov R1 -18163
+mov R24 11341
+jmp -6155
+mov R15 14283
+jmp -3012
+div R12 R12 R14
+add R6 R25 R31
+mul R19 R12 R8
+ldr R22 R31 -50287
+jmp -1967
+div R14 R22 R3
+jmp 302
+ldr R26 R6 49208
+jz R9 283
+jmp 1
+ret R29
+div R18 R15 R25
+sub R8 R18 R4
+ret R25
+div R20 R1 R5
+div R2 R0 R15
+sub R2 R12 R30
+ret R23
+div R4 R7 R22
+sub R15 R21 R9
+add R22 R17 R26
+mov R19 36969
+str R31 -18177 R2
+add R12 R24 R4
+ldr R14 R18 14342
+mov R10 14940
+ret R2
+add R28 R28 R9
+sub R3 R18 R9
+ldr R25 R27 483
+mul R10 R14 R12
+mov R9 2725
+mov R8 -51352
+add R7 R9 R13
+sub R11 R30 R21
+jz R24 2832
+mov R20 56317
+div R13 R18 R8
+div R27 R23 R8
+ret R13
+str R7 62303 R5
+jz R15 3355
+jmp -5385
+add R23 R25 R9
+div R2 R9 R17
+add R15 R0 R17
+str R1 17597 R31
+sub R2 R28 R10
+ldr R13 R18 -20113
+sub R16 R19 R25
+mul R20 R24 R13
+mov R23 21746
+mul R6 R15 R24
+mov R5 30078
+jz R23 -4610
+str R27 -47245 R19
+add R15 R28 R7
+add R15 R24 R20
+mul R24 R10 R22
+jmp 2953
+sub R12 R9 R17
+str R21 51780 R3
+jmp -1425
+mov R26 -43904
+mov R0 -60971
+str R24 -7726 R24
+mul R18 R9 R20
+div R24 R29 R15
+add R3 R5 R0
+add R23 R9 R14
+jmp -4672
+mov R23 -37890
+ret R24
+div R31 R14 R29
+jz R15 1286
+jz R23 -1609
+sub R17 R27 R23
+add R11 R22 R12
+mov R14 -49641
+ret R28
+jmp -290
+mov R12 -3217
+jz R27 -2391
+sub R18 R9 R7
+jmp -2146
+add R1 R12 R2
+jz R7 -5481
+sub R28 R15 R18
+div R23 R9 R24
+jz R19 -5303
+mul R24 R17 R15
+div R3 R7 R17
+add R13 R31 R17
+sub R24 R21 R20
+jmp 113
+ldr R5 R14 27141
+mul R31 R7 R7
+mov R23 -49830
+ret R13
+jz R15 -3393
+jmp -242
+mov R2 6887
+div R29 R6 R20
+ldr R8 R25 -63784
+str R26 16923 R10
+ldr R12 R4 9889
+div R21 R23 R15
+ret R10
+sub R7 R30 R2
+mov R13 22999
+sub R12 R18 R20
+jz R22 -6068
+ret R11
+div R7 R19 R24
+mul R19 R13 R29
+sub R5 R31 R20
+ldr R5 R21 46893
+str R7 -15257 R12
+jz R0 -4555
+jz R1 -3615
+ldr R9 R3 43833
+ldr R5 R9 -25039
+mul R26 R25 R31
+ret R25
+div R29 R16 R29
+add R7 R0 R17
+mul R22 R24 R12
+sub R28 R0 R17
+mul R10 R23 R23
+mul R25 R7 R31
+ret R20
+add R16 R9 R19
+str R21 -42398 R20
+div R23 R8 R9
+ldr R26 R21 55597
+jmp 773
+mov R8 62450
+mul R16 R13 R10
+ldr R5 R9 -6987
+jmp 1249
+ret R30
+ldr R7 R4 -30290
+mov R0 -720
+add R11 R26 R8
+ret R10
+jz R8 2289
+div R7 R13 R30
+div R6 R1 R6
+div R14 R16 R27
+jz R29 2213
+ldr R22 R28 28312
+mov R10 27532
+mul R22 R17 R19
+str R17 2290 R5
+jmp -3205
+add R7 R21 R18
+jmp 1565
+str R8 24639 R3
+jz R2 -6623
+sub R20 R30 R6
+sub R2 R19 R0
+jmp -1479
+str R14 57429 R30
+jmp 2627
+ldr R18 R22 -28696
+ret R25
+mov R6 26252
+ret R13
+mov R4 16809
+ret R24
+add R3 R30 R13
+str R16 -38867 R20
+jz R5 -1002
+str R4 58406 R25
+jmp 1542
+sub R4 R17 R21
+ldr R28 R6 35014
+sub R31 R4 R10
+ret R25
+add R22 R17 R4
+mul R0 R22 R15
+str R29 40431 R23
+mul R29 R18 R29
+mul R31 R25 R2
+add R24 R16 R11
+jmp -6276
+jz R28 -6091
+mul R26 R27 R8
+jz R10 968
+ret R7
+jmp 388
+jmp 966
+add R20 R15 R16
+jz R17 -4564
+mov R25 24054
+add R31 R27 R7
+jmp 2132
+mov R22 51211
+add R1 R6 R25
+add R5 R10 R7
+div R15 R23 R20
+jz R11 -4280
+ldr R14 R17 -49893
+mov R3 -25142
+ldr R4 R1 -64061
+ldr R6 R0 5933
+div R28 R9 R22
+ret R29
+add R19 R30 R28
+sub R23 R23 R20
+jmp -1858
+sub R24 R7 R12
+mul R14 R6 R29
+mov R12 -63040
+str R23 39124 R0
+ret R16
+ret R7
+ret R5
+ldr R12 R10 -902
+sub R19 R3 R14
+jz R31 -5761
+ret R14
+sub R10 R26 R15
+mov R2 13721
+div R26 R31 R0
+ret R8
+str R15 796 R19
+sub R5 R22 R30
+jmp 2720
+mov R28 55098
+div R9 R0 R17
+jmp -4750
+jz R8 -1342
+jmp -668
+ldr R14 R19 -39817
+jz R2 -3595
+div R1 R8 R16
+add R8 R21 R8
+mul R20 R3 R20
+add R27 R15 R4
+str R12 -52107 R28
+mul R15 R4 R21
+ldr R11 R12 53201
+ret R27
+str R30 -33673 R1
+ldr R11 R1 29843
+ldr R9 R30 24522
+str R25 26814 R12
+jmp 127
+str R6 5120 R28
+ldr R13 R4 43467
+str R26 -8981 R31
+jmp -2967
+jmp 1689
+ret R27
+mul R25 R13 R28
+mov R8 -53759
+jz R13 1235
+str R16 7321 R28
+ldr R29 R15 594
+jz R3 -2472
+str R24 -47956 R29
+add R14 R28 R4
+str R12 51894 R4
+sub R6 R15 R16
+mov R31 18080
+str R27 -46180 R6
+str R4 20061 R0
+div R26 R11 R10
+mul R18 R21 R8
+add R28 R29 R17
+mul R10 R11 R30
+div R14 R17 R0
+jmp 478
+jmp -4997
+sub R26 R19 R2
+mul R1 R21 R6
+str R14 12420 R13
+mul R16 R21 R27
+div R17 R0 R30
+mov R24 41757
+add R8 R11 R18
+add R21 R6 R29
+mul R21 R9 R5
+div R20 R28 R20
+mov R30 54922
+str R19 -53246 R21
+add R26 R13 R13
+jz R27 -4360
+jz R7 2461
+ldr R29 R29 11590
+add R21 R26 R30
+str R21 -51489 R13
+ldr R8 R27 49250
+mov R11 -53690
+sub R29 R18 R14
+mul R24 R4 R8
+ret R26
+sub R19 R7 R2
+ldr R7 R13 -55614
+jz R18 -4191
+mul R7 R16 R31
+str R27 18738 R29
+str R5 23921 R4
+jmp 3018
+mov R10 29563
+ldr R10 R20 33819
+mov R20 -40432
+ldr R28 R29 -31721
+jmp -3470
+ldr R16 R4 25770
+jz R2 -5624
+str R14 -58316 R13
+jmp -5125
+jz R26 -1806
+jmp -2796
+ret R25
+jz R30 -6131
+add R5 R0 R3
+mov R29 49644
+add R14 R30 R2
+str R26 -14239 R21
+str R26 -45943 R4
+ldr R5 R5 35450
+mul R4 R2 R25
+mov R6 -36213
+str R4 -40881 R10
+sub R13 R21 R12
+sub R7 R20 R4
+mov R10 -9614
+jmp -1226
+ret R24
+div R12 R7 R19
+str R1 64058 R29
+str R30 -55674 R6
+jz R10 1463
+jmp -1118
+ldr R16 R20 -22000
+ldr R20 R7 20100
+ret R16
+add R0 R9 R15
+jmp -3919
+div R7 R28 R16
+str R12 42450 R17
+jz R10 -4995
+mul R7 R27 R30
+mul R13 R11 R13
+sub R26 R9 R26
+add R21 R9 R6
+mov R20 65301
+mul R7 R24 R7
+sub R31 R15 R18
+jmp -1319
+jmp 1441
+ret R23
+add R4 R19 R31
+mul R0 R16 R25
+jz R7 -6825
+sub R17 R22 R16
+mov R28 11777
+jz R22 -1148
+sub R21 R1 R9
+mov R28 52922
+jmp -2838
+str R19 -21752 R9
+jmp -5963
+jz R17 -1113
+mul R14 R10 R17
+add R4 R11 R1
+ldr R5 R14 3722
+sub R0 R9 R30
+div R4 R9 R14
+div R6 R15 R2
+sub R21 R28 R8
+sub R26 R28 R22
+jz R23 -5861
+ret R31
+jmp -1255
+ret R4
+sub R29 R19 R3
+mul R5 R25 R8
+mov R23 -11609
+str R21 -41781 R7
+jz R20 1629
+str R12 -36285 R23
+mov R0 -33178
+ret R14
+sub R25 R18 R7
+ldr R4 R5 -31177
+jz R11 1801
+mov R30 42175
+ret R4
+jmp -2896
+str R23 16282 R5
+jmp -1806
+str R2 11442 R20
+add R0 R18 R17
+add R23 R5 R17
+mul R30 R29 R19
+add R20 R10 R11
+add R16 R30 R25
+sub R21 R18 R2
+mul R26 R24 R30
+jmp 2099
+ldr R31 R10 -6167
+ret R30
+str R19 31053 R23
+ldr R2 R16 -61587
+mul R22 R0 R9
+jmp -205
+add R30 R6 R4
+div R13 R14 R1
+jz R5 427
+str R31 43203 R0
+ret R25
+jz R24 2980
+str R4 37535 R20
+div R16 R22 R31
+add R21 R27 R4
+ret R17
+div R19 R13 R30
+ldr R9 R10 17114
+str R11 14209 R14
+sub R18 R30 R19
+ldr R9 R29 32277
+div R6 R30 R10
+str R2 -2862 R17
+mul R25 R4 R6
+add R21 R25 R5
+div R18 R30 R1
+ret R17
+ret R25
+jmp -5616
+str R29 -42091 R28
+str R29 -42073 R17
+ldr R22 R11 31771
+add R21 R15 R13
+str R17 33189 R15
+jmp 326
+mul R8 R2 R0
+mov R16 -46117
+jz R23 511
+sub R28 R23 R23
+sub R6 R14 R30
+add R6 R2 R9
+jmp -6896
+sub R30 R27 R10
+jmp 2962
+jz R28 -6198
+mov R30 -43968
+jmp -3869
+sub R27 R7 R27
+div R25 R3 R10
+mul R22 R30 R21
+sub R14 R24 R21
+ldr R7 R15 42944
+mul R14 R11 R19
+jmp -3365
+sub R12 R10 R23
+jmp -6232
+sub R15 R28 R10
+jz R21 -5677
+ldr R22 R28 27093
+add R7 R2 R15
+add R6 R8 R10
+jz R20 -2775
+jmp 2851
+ret R18
+div R7 R23 R16
+sub R26 R7 R1
+add R9 R8 R18
+mul R13 R26 R6
+jz R28 -170
+mov R26 22196
+ldr R7 R15 31932
+sub R28 R16 R2
+jz R23 -5526
+ldr R11 R23 45222
+jmp 163
+div R21 R2 R2
+jmp -4722
+jz R16 1462
+mov R1 -37177
+jmp -4540
+mov R7 23184
+mov R8 8043
+mul R10 R19 R21
+ret R20
+str R28 -254 R0
+jmp 796
+sub R26 R13 R17
+jmp -5045
+jz R3 -4894
+add R10 R5 R29
+div R9 R15 R28
+jz R8 2296
+ldr R27 R27 -14188
+ret R7
+str R27 -49612 R26
+ldr R20 R21 12694
+div R22 R9 R8
+jz R29 2791
+jmp -6022
+str R7 -5517 R13
+mul R15 R22 R29
+jmp -5851
+add R23 R29 R12
+div R14 R15 R15
+str R13 -40589 R12
+sub R24 R6 R30
+ldr R2 R25 -12620
+str R6 23400 R20
+div R27 R20 R18
+jmp 60
+ret R27
+div R31 R15 R29
+jz R22 -3114
+str R29 -5687 R28
+div R1 R14 R26
+jmp -2308
+ldr R24 R28 -15880
+ret R3
+ldr R28 R16 61878
+ret R7
+mul R5 R28 R18
+str R18 -21023 R29
+div R10 R5 R10
+jz R12 -2084
+div R13 R18 R1
+ret R13
+jmp -4937
+str R30 -8356 R1
+add R17 R14 R21
+jmp -1461
+mov R0 28273
+mul R23 R23 R8
+div R24 R25 R10
+ldr R25 R13 -28252
+str R6 2973 R1
+mul R9 R1 R30
+div R10 R12 R0
+ret R2
+mov R7 -46631
+jz R31 -5003
+str R1 50214 R13
+sub R0 R6 R20
+ldr R28 R14 59831
+jz R8 -4814
+mov R4 21017
+ret R1
+mul R26 R3 R10
+str R5 -26701 R0
+str R25 33401 R11
+ldr R4 R16 -47828
+mul R1 R21 R27
+mul R7 R18 R6
+div R22 R23 R14
+str R10 -878 R9
+jz R28 -1807
+jz R8 2208
+div R18 R27 R9
+str R31 -21223 R9
+jmp 889
+add R4 R5 R7
+add R29 R20 R24
+add R5 R20 R25
+mov R20 23325
+mov R6 34491
+mul R26 R10 R7
+sub R29 R17 R29
+ret R7
+mov R26 -28169
+add R10 R8 R15
+div R22 R3 R26
+str R21 -53724 R14
+str R26 -56556 R3
+str R28 64638 R4
+ldr R0 R10 -24874
+ldr R10 R4 5966
+mul R17 R17 R10
+sub R17 R21 R6
+mov R18 -59236
+jz R11 -2996
+div R23 R26 R2
+jmp -4208
+add R8 R30 R22
+add R17 R31 R19
+str R5 -2777 R26
+add R22 R24 R26
+jmp 865
+add R2 R25 R0
+add R7 R3 R0
+add R23 R10 R8
+jmp -445
+str R2 -26518 R23
+sub R10 R10 R25
+jmp -4997
+mul R5 R17 R21
+ldr R30 R3 -31681
+jmp -3417
+sub R28 R14 R12
+jz R23 -189
+jmp -5217
+mul R29 R8 R2
+mul R20 R16 R23
+jmp 1120
+ldr R8 R14 16384
+jz R26 -303
+sub R20 R20 R26
+jmp 1958
+ldr R1 R22 29202
+ret R13
+add R30 R18 R5
+sub R23 R18 R31
+jz R2 2185
+mov R19 16677
+jmp 163
+ldr R19 R29 -37499
+jmp 1859
+ret R23
+mov R0 -34095
+div R6 R23 R5
+mul R5 R28 R16
+add R13 R16 R17
+ldr R21 R27 5396
+mul R27 R25 R11
+add R28 R1 R11
+add R10 R25 R27
+jz R28 1010
+str R25 52288 R0
+jmp -1111
+sub R14 R4 R1
+mul R23 R17 R23
+div R1 R21 R20
+jz R17 2387
+add R21 R26 R15
+div R16 R16 R30
+sub R0 R14 R27
+mov R5 -41393
+div R16 R26 R12
+sub R31 R13 R7
+div R1 R25 R23
+sub R18 R11 R20
+mov R5 -23711
+jmp 1008
+ret R16
+add R28 R27 R23
+ret R30
+jmp -908
+mov R21 15448
+jz R5 -2730
+ldr R19 R22 63027
+ret R24
+mul R8 R0 R6
+str R15 7907 R31
+jz R29 -2971
+jmp -5057
+jmp -331
+jz R13 -3353
+str R0 -46423 R30
+jz R27 -3302
+jmp -7155
+str R13 -60952 R15
+add R0 R2 R19
+add R2 R3 R16
+jz R17 -5370
+str R1 -60879 R28
+jz R0 -2077
+ldr R15 R27 -5741
+str R0 53399 R27
+div R4 R26 R30
+sub R20 R8 R31
+add R25 R1 R21
+mov R27 31562
+str R13 -47761 R31
+jz R21 -4383
+sub R24 R19 R0
+ret R2
+ldr R26 R23 37443
+mul R13 R5 R26
+add R22 R22 R29
+sub R7 R26 R17
+ret R14
+ret R29
+ret R3
+mov R7 35612
+mov R27 4980
+sub R30 R28 R18
+sub R3 R1 R24
+mov R18 -65213
+jmp -1710
+mul R17 R21 R19
+add R8 R25 R27
+ret R12
+ret R0
+add R4 R28 R3
+jmp -6482
+ret R26
+jmp 1969
+sub R26 R23 R17
+ldr R14 R2 -5503
+str R8 43403 R9
+str R0 -51743 R19
+ldr R4 R21 -15236
+div R19 R2 R6
+sub R8 R30 R19
+sub R28 R23 R21
+add R12 R8 R9
+jmp -5282
+jmp -547
+div R26 R19 R12
+add R15 R16 R7
+ldr R11 R4 21070
+str R6 18074 R14
+add R23 R30 R10
+mul R6 R28 R13
+jmp -232
+sub R8 R28 R19
+jz R1 -5912
+str R14 -41930 R3
+ldr R8 R15 34062
+div R24 R11 R25
+div R26 R17 R20
+str R12 -50063 R19
+ldr R7 R20 -9736
+div R8 R13 R22
+ldr R4 R5 -26848
+div R24 R19 R1
+sub R17 R21 R13
+add R8 R4 R30
+jmp -3334
+jmp -4352
+jmp 1225
+jz R3 1648
+jz R18 2460
+jz R3 -1496
+div R17 R20 R10
+str R9 -53344 R20
+ldr R15 R18 -25698
+mov R0 52819
+ldr R2 R8 15653
+mul R4 R1 R16
+ldr R24 R22 52
+mul R7 R24 R14
+str R22 -13045 R14
+mov R22 -52595
+sub R5 R2 R20
+ret R27
+ldr R18 R17 -58445
+jz R11 -2307
+mul R30 R20 R28
+ret R27
+jz R3 -2220
+mul R17 R28 R1
+mov R21 -58959
+sub R21 R10 R19
+mov R2 46355
+jz R23 -5472
+add R28 R23 R25
+str R0 -5847 R14
+mul R24 R18 R31
+jmp -5126
+sub R31 R12 R0
+ldr R8 R14 24040
+ret R18
+str R5 12616 R27
+ldr R5 R11 59357
+div R20 R28 R16
+jz R14 548
+jmp -3444
+sub R14 R7 R10
+jz R13 -5920
+ret R28
+sub R17 R15 R1
+str R5 47886 R28
+add R0 R22 R18
+div R14 R3 R0
+jmp -7202
+sub R25 R15 R20
+str R4 16652 R29
+jmp -1310
+str R15 -37180 R24
+sub R23 R20 R13
+div R11 R3 R23
+jmp -1365
+jmp -3979
+mul R13 R22 R0
+mov R1 22698
+add R9 R17 R11
+jz R28 768
+ret R26
+jz R2 -807
+div R8 R7 R2
+ret R21
+add R19 R1 R16
+mov R15 -54190
+jmp -7021
+mul R1 R26 R5
+sub R2 R14 R23
+sub R17 R12 R1
+mov R23 -16469
+add R0 R30 R1
+ret R22
+mul R28 R29 R2
+add R25 R11 R6
+ret R23
+ret R21
+ret R7
+div R17 R19 R18
+sub R22 R1 R16
+sub R31 R27 R30
+mul R2 R23 R9
+mov R3 24212
+ret R24
+ret R26
+str R26 11714 R27
+add R30 R31 R25
+jz R5 2578
+sub R31 R20 R13
+str R8 -31448 R22
+mul R16 R19 R11
+jz R27 -7358
+jmp 669
+jmp -2114
+mov R10 -50281
+mov R28 35565
+jmp -6526
+jz R11 -918
+sub R24 R22 R29
+div R23 R0 R28
+sub R12 R14 R11
+jz R22 1521
+mov R31 62715
+mul R3 R1 R19
+jz R19 -3262
+ret R5
+ldr R7 R1 -3562
+str R4 -61346 R2
+jmp -5188
+mul R28 R20 R6
+ldr R15 R17 -13504
+mov R12 36945
+add R14 R3 R1
+mul R20 R15 R7
+jz R15 1155
+add R30 R9 R26
+add R18 R8 R4
+add R13 R31 R31
+jmp -1036
+div R12 R22 R19
+sub R19 R20 R22
+sub R13 R20 R4
+sub R30 R17 R15
+jz R6 1380
+ret R9
+jz R2 -6058
+ldr R3 R6 -61184
+div R27 R4 R22
+str R12 54476 R10
+ret R19
+ret R5
+jmp -2061
+div R9 R10 R26
+jmp -5566
+sub R20 R18 R9
+ret R25
+str R30 -30894 R3
+ret R7
+sub R6 R12 R8
+add R16 R20 R20
+div R22 R0 R10
+str R18 -56566 R3
+jmp -635
+ret R25
+mul R14 R28 R27
+ldr R19 R3 -54310
+mul R14 R19 R27
+str R24 -13499 R2
+div R13 R17 R17
+jmp -4754
+add R27 R6 R18
+mul R22 R13 R19
+jmp -3761
+mul R4 R7 R8
+jmp 1114
+jmp -5315
+div R16 R9 R1
+div R10 R18 R7
+ldr R16 R4 60648
+jmp -4675
+mul R6 R5 R30
+div R9 R30 R6
+mov R5 5542
+mov R28 -40268
+jz R15 546
+str R11 -21053 R21
+jmp -55
+jmp -6381
+mov R23 216
+ldr R1 R7 -33230
+ldr R4 R15 -48413
+sub R4 R3 R8
+sub R0 R28 R24
+sub R20 R17 R24
+sub R30 R1 R17
+ldr R13 R23 15640
+jz R27 -825
+jmp -3905
+jmp -3930
+ldr R8 R5 54947
+str R16 18545 R9
+str R12 7659 R9
+mul R4 R25 R19
+ldr R26 R28 29043
+ret R22
+mov R4 -40155
+add R6 R31 R26
+mov R15 -42650
+ldr R19 R29 -6183
+add R30 R18 R6
+ldr R26 R21 -46209
+jz R16 -5816
+add R30 R8 R21
+add R5 R8 R20
+ret R1
+str R26 29151 R12
+jmp 1581
+jz R19 -7137
+ldr R13 R6 -45897
+add R24 R1 R24
+add R18 R14 R14
+ret R20
+jmp 113
+div R17 R3 R29
+sub R30 R0 R14
+str R21 57095 R13
+sub R12 R13 R18
+str R19 35841 R11
+mul R25 R14 R3
+jz R27 -1066
+ret R12
+div R7 R29 R2
+ret R0
+jmp -1860
+div R14 R27 R9
+div R24 R5 R14
+sub R24 R9 R26
+div R9 R19 R16
+ret R28
+mul R29 R8 R20
+mov R3 59351
+mov R28 49202
+mul R13 R2 R6
+str R2 21175 R27
+mov R21 38168
+jz R7 -4093
+ldr R15 R16 41964
+div R20 R28 R26
+div R20 R26 R3
+mul R16 R9 R3
+sub R18 R9 R11
+sub R31 R9 R0
+add R22 R31 R10
+ret R5
+jmp -4827
+div R13 R3 R9
+div R10 R31 R6
+ret R21
+div R27 R12 R12
+mul R5 R16 R0
+jmp -2391
+div R13 R30 R5
+div R5 R6 R15
+sub R9 R0 R10
+sub R23 R11 R9
+mov R5 -4075
+mul R5 R23 R5
+div R4 R18 R21
+div R22 R16 R13
+ldr R14 R15 65332
+jz R22 -3587
+mul R18 R22 R8
+ldr R2 R26 -8167
+ret R4
+ldr R19 R19 53509
+jmp 37
+ret R14
+add R20 R28 R7
+add R21 R0 R13
+str R25 2253 R9
+str R0 45167 R23
+div R20 R7 R18
+ret R3
+mul R23 R9 R20
+mul R2 R22 R15
+sub R6 R30 R19
+sub R8 R28 R17
+add R11 R5 R14
+jmp -3465
+ldr R31 R15 48263
+add R0 R22 R16
+jmp -3848
+sub R2 R13 R6
+mov R8 -9453
+jmp -4318
+ldr R17 R8 -31817
+ldr R19 R27 -42107
+jmp 320
+mul R23 R27 R11
+jmp -5833
+jmp -3874
+jmp -4822
+div R27 R16 R30
+div R3 R5 R6
+mov R20 -27646
+jmp -2912
+add R26 R0 R0
+add R13 R24 R15
+str R5 53132 R11
+sub R29 R6 R23
+mov R20 58866
+add R4 R4 R8
+sub R21 R24 R28
+mov R4 44992
+add R6 R23 R2
+jmp -6925
+jmp -4227
+jz R11 2158
+mul R6 R10 R29
+mov R10 -11476
+div R11 R5 R9
+add R4 R1 R10
+ret R10
+ret R21
+sub R9 R6 R18
+str R29 44383 R23
+div R27 R29 R25
+jz R4 -4809
+add R1 R4 R19
+ret R17
+div R31 R27 R28
+jz R27 -5979
+mov R10 58539
+sub R15 R14 R2
+add R4 R3 R8
+mul R12 R28 R14
+sub R25 R11 R6
+str R18 48739 R20
+sub R22 R10 R5
+jmp -4668
+mul R20 R7 R13
+jmp -1043
+jz R5 -3718
+sub R10 R5 R4
+sub R13 R11 R21
+jmp 2049
+str R17 -57068 R26
+mul R27 R26 R11
+jz R15 1283
+add R26 R24 R12
+jmp -1468
+add R15 R25 R4
+mov R16 2107
+jmp 1652
+jmp -7094
+ret R30
+jz R18 -5078
+mov R0 58274
+add R30 R23 R4
+str R11 5492 R20
+add R25 R7 R30
+str R3 42336 R28
+jz R1 -7602
+mov R30 43265
+jz R0 -5091
+ldr R2 R9 57240
+str R30 -16847 R8
+ldr R22 R8 59685
+ldr R17 R12 -54736
+mul R12 R11 R20
+add R15 R24 R19
+ret R6
+div R27 R21 R9
+sub R14 R10 R30
+jmp -5398
+jmp -929
+ret R2
+sub R26 R6 R6
+ldr R24 R22 -26865
+add R14 R5 R4
+mul R12 R31 R14
+jmp -7020
+ret R3
+mul R18 R11 R27
+div R24 R21 R4
+str R7 32245 R30
+sub R25 R26 R20
+add R12 R28 R17
+ldr R22 R30 62608
+add R7 R22 R13
+ldr R11 R26 10412
+ldr R21 R21 15387
+sub R26 R21 R17
+ret R11
+mov R29 56522
+mul R1 R7 R11
+ret R6
+sub R2 R15 R28
+ldr R17 R17 -16601
+div R19 R9 R5
+jmp 1394
+div R4 R13 R25
+jz R9 -617
+ret R31
+sub R17 R14 R5
+add R1 R27 R9
+div R30 R21 R7
+jmp -5030
+jmp -3971
+mov R1 -63588
+sub R29 R20 R4
+jmp -2437
+ret R8
+mov R28 59606
+mul R30 R28 R27
+jz R15 -3137
+mul R28 R7 R7
+ret R23
+ldr R5 R31 151
+sub R4 R0 R8
+jmp -7264
+mov R20 -4569
+ldr R15 R13 -63644
+div R11 R13 R13
+ldr R17 R31 53223
+mov R2 11340
+mul R4 R21 R10
+ret R18
+sub R21 R10 R5
+add R2 R15 R8
+add R13 R18 R23
+str R30 5942 R13
+mov R16 25791
+jmp -245
+add R23 R8 R12
+jmp -1565
+ret R24
+mul R23 R13 R4
+str R22 -60984 R14
+mul R28 R22 R9
+ldr R22 R3 -51940
+ldr R29 R23 -22732
+str R22 48939 R12
+str R13 5148 R9
+mul R17 R14 R29
+mov R21 -51077
+sub R26 R27 R30
+add R2 R29 R13
+str R4 40783 R30
+div R7 R3 R12
+mul R23 R14 R1
+mul R25 R4 R19
+str R23 -54702 R28
+ret R8
+jz R3 -5930
+add R10 R0 R18
+mul R13 R3 R29
+jz R4 -3351
+mul R9 R22 R11
+str R10 31811 R6
+ldr R7 R1 54878
+ret R28
+ret R20
+jmp -1998
+jmp -6347
+sub R22 R20 R17
+mul R29 R17 R13
+mul R17 R18 R23
+ldr R23 R28 -15434
+sub R24 R17 R28
+ret R13
+mov R11 9439
+jz R14 -2667
+jmp 1862
+add R13 R1 R15
+ret R27
+mov R4 47000
+add R10 R17 R27
+sub R3 R12 R29
+jz R31 -3232
+add R19 R5 R12
+jmp -4801
+jmp -2096
+mov R9 6248
+sub R18 R0 R1
+mov R4 58631
+sub R13 R10 R24
+div R6 R23 R26
+mul R13 R31 R28
+mul R31 R27 R30
+mov R7 5890
+div R11 R27 R20
+str R31 32845 R19
+jz R16 1347
+jmp 1516
+ldr R29 R22 -41252
+jz R1 -2462
+add R8 R18 R1
+div R15 R28 R30
+jmp -6970
+mul R8 R27 R0
+jmp 1969
+sub R15 R3 R2
+str R5 38075 R28
+jmp -1044
+mov R19 34252
+mov R6 58734
+mov R14 36082
+ldr R20 R13 41923
+ldr R27 R1 -52591
+jz R11 748
+div R21 R8 R19
+ldr R2 R31 -4228
+ret R19
+mul R16 R11 R5
+sub R3 R9 R29
+add R19 R14 R24
+sub R2 R16 R24
+mul R19 R29 R14
+jz R9 441
+jz R17 -7463
+add R12 R22 R22
+jmp -1811
+str R22 -2199 R21
+ldr R19 R8 -4502
+div R9 R9 R24
+add R2 R24 R10
+mov R27 20469
+jz R17 -5394
+mov R27 27022
+ldr R0 R15 -44928
+jz R27 -1348
+ret R9
+add R11 R23 R8
+div R3 R24 R10
+ret R22
+jmp -1370
+add R24 R28 R11
+mov R9 33360
+mov R14 20093
+str R16 64023 R24
+jz R2 1987
+ret R13
+mul R12 R1 R10
+mov R5 -25657
+add R15 R31 R3
+div R20 R14 R30
+mov R26 11358
+jmp 1945
+sub R15 R8 R15
+div R14 R2 R27
+jmp 2057
+add R25 R19 R31
+mov R13 -58142
+mov R14 -33399
+mov R27 -33262
+str R18 46417 R24
+str R27 21554 R7
+mul R28 R24 R11
+mul R4 R10 R20
+add R28 R30 R28
+ret R5
+jmp -2168
+ldr R7 R19 -21409
+jmp -3760
+jz R1 -1573
+str R3 17101 R25
+sub R25 R31 R22
+sub R29 R0 R27
+mul R23 R25 R3
+str R12 23169 R25
+jmp -7731
+add R21 R19 R29
+div R28 R10 R21
+add R19 R8 R21
+div R27 R1 R1
+add R0 R14 R13
+div R18 R9 R29
+sub R1 R3 R5
+add R26 R10 R4
+ret R12
+jz R1 -5964
+sub R16 R22 R17
+jz R18 -4020
+add R21 R25 R16
+add R19 R5 R21
+mov R28 33603
+mul R18 R10 R27
+mov R8 -42400
+ret R24
+mul R0 R18 R0
+add R3 R8 R2
+str R28 29903 R17
+add R21 R8 R16
+jz R27 -6883
+str R3 -25453 R17
+add R5 R21 R17
+div R13 R14 R25
+div R2 R22 R4
+jz R20 -1765
+ret R15
+str R6 -47327 R16
+sub R0 R30 R22
+sub R1 R23 R26
+sub R0 R17 R14
+str R29 -23645 R22
+mov R29 -8787
+ret R11
+jmp -401
+mov R31 -24227
+sub R24 R30 R9
+ldr R25 R29 -11431
+ret R4
+ldr R22 R17 19865
+str R29 -58265 R23
+jmp -1759
+div R25 R16 R17
+ret R31
+add R5 R22 R30
+ldr R8 R19 29930
+sub R0 R5 R0
+jz R17 -5364
+div R20 R23 R29
+str R15 30488 R15
+div R7 R12 R20
+ldr R21 R20 -23255
+mul R12 R7 R14
+jz R18 1206
+mov R20 -40808
+mul R31 R4 R14
+ldr R25 R19 7175
+mov R29 -48598
+jmp 14
+add R17 R12 R25
+mov R8 -50162
+ldr R8 R3 18189
+ret R7
+mul R7 R3 R30
+ret R28
+div R20 R27 R10
+jz R18 -3044
+mov R25 -57840
+str R17 60235 R10
+sub R19 R7 R23
+div R21 R8 R6
+jz R23 -7462
+sub R21 R31 R11
+add R0 R19 R9
+mov R28 -29344
+mul R8 R12 R18
+jmp -4452
+div R17 R7 R15
+mov R30 54877
+jz R30 -4984
+jz R12 -2916
+sub R12 R10 R29
+add R20 R30 R30
+str R4 -34377 R21
+div R11 R17 R4
+div R2 R2 R28
+ldr R17 R2 56633
+mul R19 R15 R1
+mov R31 -28129
+ldr R6 R27 41070
+ret R26
+mov R17 39631
+str R7 5634 R6
+mul R2 R23 R24
+jmp 1637
+mov R13 -23858
+str R14 28505 R24
+mul R1 R9 R8
+jz R13 -6543
+div R31 R12 R27
+mov R1 -45028
+str R29 -17717 R18
+ret R7
+mov R5 22801
+sub R4 R30 R14
+jmp -1209
+sub R24 R10 R18
+ldr R13 R4 18242
+ret R29
+add R6 R14 R8
+ret R0
+str R0 -47237 R17
+div R10 R15 R3
+ret R8
+sub R8 R19 R20
+mov R26 -56720
+sub R26 R29 R30
+mov R22 -44097
+jz R22 649
+div R1 R14 R1
+div R16 R14 R22
+div R1 R27 R28
+ldr R9 R4 49028
+sub R5 R31 R17
+mov R25 -26354
+add R19 R8 R12
+sub R28 R24 R14
+ret R22
+str R5 -13476 R30
+sub R20 R27 R22
+ldr R0 R17 20475
+mov R14 -803
+mul R28 R18 R14
+add R24 R9 R31
+jmp -4814
+mov R12 -64581
+jz R7 -6535
+jmp -5863
+str R9 2668 R2
+jz R29 -2466
+sub R21 R19 R6
+add R23 R17 R28
+mov R24 50452
+mov R11 42222
+mul R25 R28 R20
+ldr R17 R28 13911
+ldr R22 R29 12588
+jz R0 -4388
+ret R15
+jmp -2146
+mov R0 36067
+jz R5 -6313
+mul R23 R21 R6
+ret R12
+add R22 R25 R14
+jmp -1076
+add R10 R2 R9
+mul R11 R22 R6
+jz R30 -2592
+add R17 R10 R15
+ret R13
+mul R25 R11 R10
+str R31 -335 R24
+str R22 7593 R17
+div R9 R10 R24
+div R27 R30 R21
+mul R18 R12 R16
+jmp -2351
+mov R17 -32603
+add R12 R27 R19
+ldr R15 R29 -50086
+str R5 29223 R27
+div R1 R21 R2
+mul R1 R31 R24
+ret R12
+mul R24 R25 R21
+ret R25
+ldr R8 R26 -19441
+sub R8 R6 R7
+jz R29 -4297
+jz R28 774
+add R29 R2 R25
+ldr R17 R1 -38219
+jmp -6084
+mul R20 R15 R20
+add R1 R30 R4
+ret R18
+div R28 R24 R27
+mov R3 -49617
+mul R28 R16 R29
+div R19 R20 R14
+sub R11 R24 R7
+add R28 R10 R30
+jmp -692
+mul R14 R10 R20
+add R5 R24 R30
+jmp -1498
+ret R22
+jz R7 -6329
+div R21 R15 R30
+sub R9 R21 R5
+div R29 R16 R9
+jz R11 -3526
+ret R20
+add R4 R13 R16
+add R15 R8 R4
+jmp -2299
+ret R20
+ret R21
+jmp -6578
+jmp -7506
+mov R14 51746
+ldr R13 R16 43729
+mul R8 R10 R31
+mul R14 R3 R8
+str R3 -32151 R15
+str R17 -48438 R24
+div R19 R5 R13
+jmp 1509
+ldr R7 R20 -19981
+add R22 R23 R14
+jz R7 -733
+ldr R10 R9 29862
+mov R17 16256
+sub R4 R29 R14
+ret R15
+ret R24
+add R31 R2 R15
+ldr R0 R1 -4366
+sub R17 R29 R13
+ldr R27 R23 -3383
+str R7 -3381 R26
+jz R3 469
+sub R17 R5 R13
+mov R20 31712
+ret R23
+sub R21 R24 R2
+div R1 R16 R24
+div R27 R21 R6
+jmp 485
+mov R23 25348
+sub R0 R4 R15
+div R5 R21 R7
+str R14 50453 R8
+jmp 1151
+sub R16 R26 R11
+mov R18 12521
+ret R24
+mul R25 R17 R17
+sub R8 R31 R28
+div R29 R24 R10
+ldr R30 R29 49685
+mov R6 13915
+sub R5 R4 R19
+ret R24
+jmp -3226
+jmp -5037
+sub R7 R8 R0
+mov R10 32797
+mul R9 R15 R15
+jz R4 -5516
+div R1 R10 R9
+sub R1 R19 R7
+add R0 R29 R8
+add R13 R7 R21
+ldr R6 R20 -22861
+ldr R4 R1 -64868
+sub R1 R28 R26
+jmp -2440
+jz R24 -7138
+mul R11 R9 R10
+add R17 R10 R30
+jz R9 979
+jz R14 521
+mov R31 33988
+add R24 R0 R3
+mov R12 -45814
+jmp -7102
+jz R6 -5508
+sub R15 R28 R17
+mul R0 R31 R9
+div R8 R4 R28
+ret R22
+div R31 R23 R30
+jz R0 -3564
+str R9 1518 R25
+str R7 -62516 R28
+div R2 R17 R9
+jz R29 -389
+jz R27 -4564
+ldr R12 R2 -11624
+jz R15 959
+str R14 6376 R17
+sub R29 R25 R9
+sub R19 R14 R25
+jmp 482
+sub R31 R15 R25
+add R5 R13 R4
+jmp -61
+jmp -7221
+div R12 R14 R8
+mov R2 64624
+sub R3 R28 R17
+add R17 R0 R26
+div R9 R8 R21
+mov R4 12549
+str R22 33449 R13
+div R16 R5 R28
+add R15 R12 R1
+str R30 -50011 R31
+jz R13 -5803
+add R8 R28 R0
+jmp -3898
+div R31 R8 R21
+mov R0 18147
+str R20 10491 R24
+add R22 R8 R11
+sub R17 R4 R0
+jmp -461
+sub R18 R3 R28
+add R30 R8 R29
+sub R17 R1 R27
+div R21 R1 R19
+mov R0 -37273
+add R3 R31 R18
+sub R20 R1 R0
+jmp -6809
+add R1 R30 R25
+ret R29
+div R8 R21 R5
+ldr R15 R17 27277
+str R31 -30101 R19
+jz R14 -7540
+sub R13 R15 R10
+ldr R14 R18 -6715
+div R15 R11 R18
+ret R3
+sub R24 R18 R11
+str R9 60952 R12
+jz R8 -313
+str R25 39149 R3
+jz R31 -4840
+jz R11 -2545
+str R24 54852 R23
+div R28 R21 R18
+mul R17 R9 R17
+add R9 R21 R6
+sub R0 R29 R17
+mov R17 47148
+jmp -851
+ret R16
+mov R10 -49341
+mul R10 R21 R13
+ret R27
+ldr R24 R14 -48416
+ret R28
+ldr R31 R14 -3077
+add R13 R2 R28
+add R19 R28 R5
+sub R9 R28 R19
+mul R12 R2 R25
+div R20 R18 R7
+add R13 R8 R3
+add R3 R29 R31
+div R31 R16 R4
+div R25 R4 R19
+div R9 R3 R10
+ret R2
+jmp 824
+jmp -6447
+div R27 R0 R31
+ldr R0 R25 -63606
+sub R22 R27 R17
+sub R8 R6 R16
+mov R21 -10314
+mov R11 -51060
+mov R26 -41585
+ldr R4 R3 52825
+div R11 R27 R18
+mov R12 47530
+ldr R25 R13 -9939
+jz R12 -287
+jz R11 -8042
+str R7 -45673 R7
+ldr R15 R2 25119
+sub R7 R11 R11
+mov R12 3923
+str R21 -29126 R26
+jz R3 -4452
+mul R15 R7 R18
+jz R1 570
+mov R29 42666
+add R10 R10 R4
+add R1 R20 R12
+add R4 R16 R22
+ldr R14 R23 -18043
+sub R21 R6 R4
+mul R20 R12 R16
+ldr R25 R7 61616
+mov R30 -9670
+add R16 R24 R15
+div R9 R3 R11
+jmp -6257
+ldr R8 R7 24792
+mul R6 R8 R21
+mul R18 R2 R10
+str R21 30794 R21
+jz R27 -7856
+mov R22 -41054
+str R10 -51076 R31
+jz R20 -5244
+jmp -6733
+mov R0 -60424
+jz R17 -3318
+ldr R17 R29 19833
+ldr R7 R23 57915
+ldr R21 R23 22916
+div R25 R26 R24
+ldr R29 R7 -27862
+add R30 R31 R24
+mov R28 57318
+sub R26 R14 R26
+sub R7 R2 R0
+ldr R12 R27 40539
+jz R18 1372
+ret R30
+add R21 R19 R28
+ret R16
+mov R12 13861
+ldr R1 R2 63686
+ret R8
+mov R18 60080
+mul R18 R7 R22
+ret R27
+ret R9
+add R15 R23 R23
+ret R18
+ldr R12 R31 -43083
+jz R17 -3497
+sub R30 R16 R30
+str R30 56546 R5
+ldr R29 R3 -30741
+ldr R6 R14 -56860
+mul R20 R27 R13
+ret R1
+jz R0 -4392
+mov R5 -41788
+mul R23 R22 R0
+str R27 38022 R18
+sub R15 R19 R30
+ldr R15 R10 -64895
+add R22 R27 R19
+mul R15 R2 R20
+ret R19
+jmp 1417
+mul R8 R18 R12
+mov R7 22026
+ret R4
+jmp -925
+ldr R2 R31 -8325
+add R31 R23 R23
+mov R27 -26598
+jz R23 -4903
+jz R11 -1428
+ret R5
+add R24 R12 R13
+mul R28 R23 R22
+jmp -853
+jmp -955
+jmp -5985
+ldr R4 R17 -46952
+add R14 R11 R11
+ret R6
+sub R16 R13 R9
+sub R30 R17 R19
+str R30 39487 R0
+add R0 R0 R15
+div R31 R16 R31
+mov R26 -59694
+sub R27 R4 R25
+jz R27 -3492
+add R6 R1 R23
+mul R27 R9 R29
+str R31 -17202 R21
+sub R12 R2 R29
+mul R9 R2 R23
+sub R13 R10 R20
+jz R15 -952
+jmp -6433
+ret R28
+mul R7 R7 R9
+mov R2 25594
+mul R18 R19 R31
+div R9 R23 R24
+ret R28
+div R28 R8 R5
+ldr R19 R6 34038
+sub R4 R22 R7
+add R11 R28 R20
+jmp -2992
+div R19 R7 R24
+mul R3 R22 R20
+add R11 R22 R23
+str R9 -14736 R22
+div R0 R19 R7
+add R12 R13 R6
+div R21 R13 R28
+str R0 24978 R29
+div R10 R31 R22
+ret R30
+mul R2 R25 R3
+ldr R4 R12 -54605
+mov R27 64001
+div R25 R24 R3
+str R12 65255 R3
+sub R10 R20 R7
+str R17 -43543 R24
+add R11 R3 R0
+mul R23 R15 R12
+jz R31 1527
+jz R6 -4685
+ldr R22 R25 -12623
+jmp -4096
+ret R27
+jmp -1451
+jz R14 -4051
+ldr R6 R10 10284
+mul R27 R28 R13
+sub R2 R16 R21
+ret R8
+mov R24 28455
+mul R21 R29 R13
+sub R26 R26 R6
+sub R0 R26 R28
+sub R19 R9 R22
+mul R26 R26 R22
+sub R31 R5 R17
+div R30 R1 R2
+str R30 -47016 R22
+div R14 R2 R9
+div R20 R19 R0
+jmp -6691
+jmp -1105
+mov R11 40208
+ret R29
+ldr R19 R12 -33390
+add R11 R15 R29
+sub R19 R12 R31
+div R3 R15 R15
+div R28 R18 R5
+mul R12 R14 R3
+div R8 R6 R22
+ldr R17 R21 -57040
+str R24 -15462 R17
+ret R15
+mul R17 R20 R17
+add R17 R14 R30
+add R17 R16 R5
+sub R4 R6 R21
+str R9 -41062 R9
+ldr R7 R9 -45209
+ret R20
+mov R20 -45443
+jz R5 -1452
+mul R23 R27 R26
+ret R10
+ldr R28 R2 -1101
+mul R0 R12 R28
+ldr R11 R15 -5661
+jmp -2836
+ldr R28 R22 -11459
+mul R15 R14 R4
+jmp 565
+mov R15 -59674
+jz R11 1281
+add R30 R25 R23
+mul R18 R5 R12
+mul R5 R2 R5
+ldr R7 R26 -18015
+mul R12 R3 R0
+mov R13 -25767
+str R0 50495 R2
+add R27 R7 R6
+str R29 40805 R0
+add R31 R1 R11
+ldr R31 R26 62703
+str R8 20676 R16
+div R24 R28 R5
+mul R14 R9 R31
+str R17 -7864 R6
+add R17 R0 R28
+ret R27
+jmp -6491
+mov R21 32332
+mul R2 R28 R14
+ldr R9 R16 5894
+jmp -4737
+str R25 -25170 R11
+ldr R3 R4 -31292
+sub R5 R12 R1
+str R5 29926 R25
+jz R30 -8442
+jmp -5788
+mul R16 R4 R20
+str R13 13955 R25
+str R31 -13420 R7
+sub R7 R6 R28
+mul R8 R9 R25
+mul R9 R11 R16
+jmp -8012
+mul R30 R21 R23
+mov R23 -50218
+sub R1 R3 R29
+jmp -5679
+ldr R22 R13 -16846
+ldr R21 R27 -13738
+str R25 -49228 R29
+add R0 R21 R10
+jmp -1937
+ret R1
+mov R20 -21819
+sub R25 R6 R21
+mov R21 -63275
+mov R23 -46956
+jz R25 -133
+sub R20 R6 R30
+add R30 R21 R20
+jmp -6307
+add R12 R29 R16
+add R28 R8 R3
+add R13 R14 R25
+jmp -193
+jz R29 84
+ldr R14 R13 30393
+str R16 4566 R31
+str R1 -43171 R2
+str R3 51767 R1
+sub R4 R4 R10
+jz R7 270
+ret R6
+ret R2
+sub R10 R20 R4
+str R23 -51608 R13
+add R19 R24 R28
+ldr R6 R9 33219
+mov R25 -49288
+add R25 R29 R14
+mul R19 R6 R5
+sub R28 R16 R6
+ret R20
+ret R17
+jmp -4783
+mov R9 34104
+str R1 -18262 R18
+sub R4 R27 R19
+div R26 R28 R20
+div R5 R3 R4
+mov R30 24780
+div R2 R13 R1
+jmp -2862
+jmp -3555
+add R11 R18 R9
+mul R31 R9 R22
+jmp -8373
+ret R25
+jmp -5075
+sub R23 R26 R15
+mul R17 R6 R29
+mov R22 -37493
+jz R15 -6481
+add R8 R13 R7
+sub R14 R7 R22
+mov R3 -49142
+div R11 R27 R20
+div R11 R2 R31
+mul R22 R26 R14
+mov R2 49871
+mov R14 20067
+mul R29 R16 R26
+add R1 R4 R12
+jz R7 -7077
+add R22 R27 R3
+mov R5 -64798
+ldr R18 R8 24658
+mul R25 R14 R19
+sub R25 R10 R11
+sub R26 R5 R5
+div R27 R31 R22
+jz R7 70
+mul R4 R22 R7
+mov R1 18948
+sub R27 R15 R14
+str R12 62770 R12
+ldr R20 R21 -54303
+mov R5 -5635
+jz R3 -8165
+str R3 -9437 R16
+add R7 R19 R18
+mul R26 R29 R18
+ret R20
+add R2 R28 R30
+jmp -371
+mul R15 R9 R30
+sub R11 R4 R28
+str R6 -19718 R0
+ldr R14 R21 -61408
+jmp -1718
+ret R14
+str R20 -2448 R19
+jz R3 -2652
+mul R24 R4 R31
+str R24 52878 R13
+str R14 -9558 R13
+sub R23 R31 R3
+mov R19 50519
+mov R5 36630
+jmp -3199
+ldr R14 R3 -17511
+jmp 139
+mov R31 -36088
+jmp -6022
+jz R8 -8284
+sub R30 R17 R4
+mul R21 R14 R1
+add R10 R5 R28
+mul R3 R2 R30
+sub R29 R6 R5
+mov R14 43426
+ret R15
+sub R17 R13 R10
+mov R10 -28350
+mul R30 R18 R27
+add R24 R31 R19
+ret R11
+ldr R28 R28 -25360
+jz R14 -7466
+ldr R19 R29 27433
+ldr R9 R4 -25282
+add R18 R3 R1
+ldr R14 R26 -23098
+str R31 35510 R22
+mul R17 R14 R5
+div R1 R26 R20
+mul R16 R18 R22
+add R13 R4 R25
+jz R23 -5082
+str R12 -16243 R5
+div R12 R12 R22
+add R17 R18 R31
+str R28 -43512 R5
+add R15 R4 R18
+sub R12 R26 R13
+jmp 799
+add R0 R30 R3
+ldr R18 R8 23679
+sub R12 R29 R15
+ret R11
+jz R23 -4160
+str R13 -36035 R6
+div R3 R27 R23
+mul R29 R5 R6
+ldr R9 R13 36071
+jmp -243
+add R31 R16 R2
+add R31 R18 R7
+jmp -4002
+mov R20 -31288
+ldr R28 R9 -36699
+jz R24 -7973
+mul R4 R24 R17
+jmp -1809
+sub R7 R3 R31
+add R24 R10 R6
+sub R3 R22 R23
+div R5 R31 R21
+str R30 43034 R0
+sub R7 R21 R19
+ldr R31 R11 62858
+ldr R27 R14 54004
+div R7 R18 R18
+ret R11
+ret R26
+jz R26 -4358
+jz R19 -5635
+ldr R29 R19 -24957
+ldr R30 R5 64214
+sub R12 R29 R28
+sub R26 R17 R17
+ldr R2 R9 -31506
+ldr R9 R2 -53396
+div R29 R29 R20
+div R18 R18 R12
+div R30 R29 R12
+ret R16
+mov R7 61092
+mov R13 12886
+jz R24 -4150
+mov R5 -43628
+ret R5
+div R27 R1 R17
+add R28 R26 R2
+sub R1 R25 R20
+jz R12 -8397
+ldr R18 R31 16219
+str R14 -708 R9
+ldr R12 R19 -44787
+jmp -2110
+sub R14 R10 R29
+jz R14 -991
+sub R6 R21 R20
+div R12 R2 R15
+mov R0 18422
+ret R20
+div R11 R12 R18
+jmp -7611
+mul R13 R1 R18
+str R27 -30099 R30
+div R31 R19 R22
+jz R31 -44
+mov R31 -28782
+jmp -3627
+ret R2
+jz R27 -8178
+jz R5 -3379
+jz R13 -8395
+mul R25 R25 R27
+ldr R7 R8 -47794
+mov R22 -37611
+str R26 -30726 R28
+div R29 R0 R3
+ret R9
+sub R23 R16 R2
+jmp -82
+add R5 R21 R22
+mul R2 R12 R20
+mov R31 10538
+add R26 R17 R5
+add R7 R12 R25
+div R29 R22 R0
+sub R26 R30 R24
+mul R2 R5 R22
+str R4 31408 R18
+str R4 19862 R17
+mul R9 R3 R16
+ret R22
+ret R24
+jz R7 973
+mov R12 48971
+jmp -7202
+sub R29 R27 R23
+add R15 R16 R20
+mov R27 -11457
+div R12 R3 R9
+add R2 R1 R17
+str R17 64130 R12
+ret R0
+mov R28 47317
+ldr R19 R11 9076
+mul R17 R3 R23
+jz R11 -5085
+div R1 R0 R8
+jz R6 -725
+mul R16 R13 R20
+div R22 R5 R16
+ldr R19 R11 -31934
+jmp -4788
+str R29 -49830 R28
+div R1 R29 R18
+jmp -801
+jz R8 -8181
+ret R10
+jmp -42
+sub R4 R30 R24
+sub R16 R28 R29
+str R4 -15896 R7
+sub R1 R31 R9
+add R0 R31 R10
+str R26 -61786 R6
+jz R22 -6000
+mul R12 R8 R17
+add R20 R15 R9
+ldr R13 R17 -30389
+mov R12 -3918
+mul R17 R19 R24
+ret R3
+sub R12 R10 R6
+div R2 R3 R9
+mul R2 R4 R13
+sub R2 R30 R30
+jmp -7606
+sub R23 R24 R31
+str R15 -38409 R27
+str R11 25447 R10
+mul R24 R13 R15
+sub R22 R18 R13
+jmp -2588
+ret R24
+mul R30 R21 R19
+ldr R31 R15 22117
+mul R19 R30 R21
+mul R30 R14 R3
+mov R9 13227
+jz R8 -2906
+ldr R1 R10 -35536
+add R12 R3 R26
+div R25 R18 R3
+div R30 R25 R25
+str R30 3956 R9
+jz R30 -7428
+jmp -5813
+ret R29
+mov R29 25987
+div R19 R21 R12
+add R6 R4 R21
+ldr R1 R25 39033
+str R18 -11859 R8
+div R25 R12 R8
+jmp -7125
+ldr R26 R0 17808
+ldr R4 R25 3714
+ldr R11 R27 37515
+div R24 R19 R2
+str R23 -45889 R26
+add R29 R14 R8
+div R1 R22 R1
+ret R1
+ret R4
+ret R27
+jz R29 -6999
+str R13 63774 R12
+jmp 253
+jmp -4126
+add R31 R30 R14
+div R6 R18 R17
+jz R2 -4278
+ldr R17 R25 -38655
+jmp -1206
+str R14 -6823 R26
+jmp -3362
+ldr R8 R24 -40294
+str R17 17664 R28
+str R7 25503 R19
+ldr R31 R3 -34680
+mul R8 R27 R22
+ret R30
+add R23 R29 R22
+mov R1 -53495
+ldr R11 R0 37133
+str R6 -39850 R1
+str R20 47896 R19
+jmp -916
+ldr R30 R22 -51471
+ldr R3 R6 50337
+mov R1 -52868
+div R18 R23 R26
+ret R9
+str R0 -38394 R27
+sub R18 R23 R18
+mul R25 R10 R2
+str R6 3870 R1
+ret R7
+str R26 -53474 R31
+sub R23 R24 R31
+mov R17 -57956
+jmp -4476
+ret R19
+str R24 3707 R23
+add R11 R7 R24
+mul R20 R24 R6
+jz R9 1026
+jmp -528
+add R12 R25 R0
+mov R11 -45650
+sub R14 R16 R27
+div R10 R18 R20
+add R23 R11 R30
+add R31 R14 R27
+add R31 R18 R5
+str R15 -32581 R28
+jmp -8820
+mul R24 R8 R9
+mul R4 R4 R0
+jmp 509
+ldr R4 R9 -40298
+jmp -3328
+jz R6 -1691
+div R17 R23 R11
+sub R22 R17 R13
+str R1 -57288 R17
+ret R11
+jz R8 -8369
+ldr R1 R3 -31138
+div R3 R14 R12
+jmp -7436
+div R4 R18 R19
+mov R9 -50554
+str R27 14691 R16
+add R13 R9 R9
+sub R27 R2 R5
+jmp -2083
+str R28 35348 R12
+add R26 R0 R24
+ldr R12 R5 55457
+add R2 R25 R1
+mul R15 R5 R9
+str R3 30896 R4
+ldr R26 R16 -13619
+ldr R8 R11 12699
+mov R9 39951
+mov R5 -64258
+sub R17 R29 R2
+add R21 R15 R12
+sub R21 R31 R20
+jz R26 -7150
+add R31 R3 R2
+sub R8 R31 R11
+ldr R22 R3 10502
+str R28 -12053 R12
+mul R22 R24 R2
+add R2 R29 R26
+mov R5 39746
+str R9 34535 R11
+mul R30 R26 R21
+jz R15 -5179
+add R12 R14 R23
+add R1 R6 R1
+div R29 R22 R31
+jz R9 -2070
+jz R25 701
+ret R1
+ldr R21 R24 -55432
+ldr R17 R18 -38357
+str R4 53448 R0
+mul R13 R7 R29
+mul R5 R30 R18
+jmp -1511
+str R25 27072 R2
+jmp -3449
+jz R28 -2399
+div R22 R19 R8
+ret R9
+ldr R1 R11 -11703
+jmp -4801
+jz R8 -2890
+ldr R16 R7 4471
+jz R22 -7619
+ret R28
+sub R24 R19 R13
+ret R9
+mov R28 -8148
+mul R26 R6 R20
+add R3 R23 R25
+jmp -2806
+jz R17 -299
+jmp -3906
+jmp -5434
+sub R18 R0 R29
+jz R15 -3895
+sub R31 R18 R16
+sub R26 R4 R19
+str R7 -38328 R20
+mov R0 -22732
+div R10 R17 R30
+ret R1
+jmp -8563
+str R1 38411 R26
+ret R15
+str R26 -17639 R13
+sub R24 R28 R6
+mul R1 R21 R10
+ret R24
+sub R23 R25 R25
+str R25 31875 R13
+ldr R2 R30 57526
+str R29 55362 R1
+ldr R4 R2 2195
+sub R19 R19 R9
+jz R10 -1523
+ldr R26 R10 52359
+jmp -4797
+jmp -2149
+jmp -17
+div R12 R14 R7
+jz R21 352
+mov R13 -38131
+add R16 R28 R25
+ret R4
+div R9 R27 R20
+jz R3 -5592
+ldr R19 R22 -45861
+ret R28
+jz R19 -678
+div R10 R22 R21
+sub R12 R27 R3
+ret R29
+mov R9 38882
+mov R10 -17824
+mul R11 R10 R20
+ldr R15 R23 43717
+mov R15 14073
+sub R20 R12 R10
+str R31 -15546 R28
+mov R16 39842
+jz R4 -4590
+jz R13 -6566
+mov R2 5068
+str R21 11752 R16
+ret R9
+ret R1
+ret R13
+sub R2 R16 R5
+sub R29 R7 R11
+mul R9 R24 R19
+jmp -3692
+jz R30 -1709
+mov R22 32176
+mul R5 R12 R2
+str R7 -29305 R29
+ret R13
+sub R26 R18 R28
+ret R27
+jz R10 -6236
+str R21 -39376 R16
+sub R0 R17 R28
+add R10 R22 R28
+div R25 R3 R31
+jmp -5769
+jmp -7214
+div R2 R6 R28
+str R15 24761 R17
+jz R4 -2638
+div R16 R15 R13
+sub R3 R24 R9
+str R13 47245 R22
+sub R11 R24 R21
+add R29 R7 R22
+div R31 R7 R29
+sub R24 R14 R1
+ret R13
+mul R10 R30 R19
+ldr R2 R19 -51767
+jmp -7007
+jmp -643
+jmp -5177
+div R2 R14 R0
+mul R14 R16 R21
+mul R0 R14 R20
+jz R24 -7564
+str R30 13859 R4
+mov R4 51371
+add R2 R6 R17
+div R11 R3 R8
+mul R24 R2 R8
+str R18 -52623 R26
+str R26 -11281 R3
+jz R5 -7208
+str R22 -62828 R23
+ret R24
+mul R13 R1 R21
+ldr R12 R30 -43532
+mul R18 R1 R9
+sub R31 R13 R26
+add R16 R19 R12
+mov R1 31526
+div R8 R30 R8
+mov R29 -30668
+mul R22 R25 R18
+mul R2 R21 R20
+mov R25 49902
+jz R21 -4588
+div R26 R26 R1
+jmp -2921
+div R23 R16 R31
+jz R24 -747
+mov R14 10731
+jmp -7628
+add R20 R4 R18
+mov R20 -52047
+jmp -4991
+ret R16
+str R27 -5726 R13
+ldr R4 R18 -17254
+mov R25 48285
+ldr R3 R11 32991
+sub R30 R12 R19
+jz R29 -8502
+div R13 R6 R13
+add R30 R9 R19
+mov R30 17078
+str R11 39911 R17
+ret R30
+str R10 20163 R31
+ldr R10 R25 -2081
+jmp -7532
+jmp -4935
+jmp -6577
+ret R4
+add R30 R7 R0
+mul R26 R16 R29
+ldr R12 R3 -31672
+ret R19
+jmp -7670
+mul R19 R17 R5
+jz R31 -8298
+add R2 R22 R12
+sub R11 R24 R7
+sub R8 R2 R24
+sub R26 R7 R24
+str R25 -1396 R0
+str R3 -60568 R19
+mul R4 R26 R31
+div R29 R18 R31
+div R7 R17 R11
+str R21 242 R21
+div R16 R8 R2
+div R21 R26 R8
+ldr R3 R27 52080
+jz R27 -2137
+jmp -4174
+sub R1 R20 R20
+ret R20
+sub R15 R18 R11
+jz R27 -3646
+add R25 R0 R18
+sub R7 R12 R30
+mul R20 R17 R15
+add R10 R20 R4
+ret R9
+div R10 R22 R3
+jmp -5962
+ret R30
+add R24 R16 R8
+jz R11 -1332
+div R14 R23 R19
+jmp -2422
+jz R25 -353
+mov R12 47920
+mul R22 R3 R30
+mul R30 R3 R12
+jmp -543
+jz R20 -2400
+jz R30 -26
+str R31 -22915 R6
+jmp -3167
+sub R6 R6 R31
+sub R2 R4 R6
+mul R3 R10 R15
+jmp -5840
+mul R20 R25 R30
+str R31 10417 R29
+jmp -8887
+ldr R29 R11 43264
+ret R27
+div R16 R14 R9
+ret R27
+ret R29
+str R8 -51054 R14
+add R7 R17 R3
+ldr R14 R4 -6074
+ldr R8 R19 1790
+jmp -3609
+ret R21
+ret R12
+sub R2 R13 R7
+ldr R20 R8 -41903
+sub R24 R1 R22
+div R12 R21 R8
+jz R4 -7254
+div R6 R20 R8
+jz R17 -5278
+ret R28
+ldr R12 R10 1958
+jz R26 412
+mul R11 R20 R2
+jz R11 -7118
+mul R17 R19 R8
+jz R22 -3894
+ldr R10 R14 7472
+jz R0 -7816
+jmp -4690
+jmp -7890
+mul R8 R13 R26
+jmp -5162
+mov R17 -49406
+ret R4
+jz R31 -8239
+div R28 R31 R8
+div R6 R3 R31
+str R11 16766 R17
+sub R8 R10 R2
+jmp -2417
+ldr R17 R28 -44419
+ldr R10 R23 23888
+jmp -721
+ldr R19 R14 39695
+add R10 R20 R15
+jmp -2763
+ldr R1 R25 -20471
+str R7 9799 R20
+str R4 -9455 R7
+add R12 R20 R19
+mul R24 R25 R6
+str R19 47652 R24
+str R15 51714 R9
+ldr R1 R29 -28703
+ldr R12 R24 12616
+str R16 -28754 R3
+jz R1 -7067
+mov R4 -41787
+mul R8 R27 R9
+ret R18
+add R10 R15 R4
+div R14 R25 R3
+mov R27 -33475
+mul R7 R29 R20
+mul R19 R0 R4
+jmp -1570
+mul R28 R28 R13
+ldr R8 R11 61374
+ret R3
+str R22 25225 R26
+mul R31 R11 R6
+div R1 R11 R21
+mov R18 -30710
+jz R1 -2181
+mov R22 -61329
+ret R14
+sub R26 R9 R5
+ldr R0 R10 -54789
+jmp -1494
+jmp 58
+add R9 R26 R25
+str R16 -10354 R18
+str R28 -3224 R16
+sub R12 R29 R12
+sub R21 R19 R25
+mov R21 -48235
+sub R1 R19 R14
+div R16 R13 R1
+ret R17
+mov R15 12233
+mov R30 12130
+mov R20 -47908
+jmp 568
+jz R29 553
+str R2 -34906 R0
+mov R25 54740
+div R26 R22 R20
+div R5 R16 R0
+str R12 -35503 R20
+jmp 411
+add R19 R17 R3
+div R25 R5 R29
+str R21 10039 R10
+add R28 R20 R22
+jz R8 -2350
+jmp -4543
+ldr R6 R24 65488
+str R23 50473 R11
+div R29 R2 R4
+ret R31
+jz R3 -5953
+mul R29 R29 R12
+str R11 1951 R9
+div R25 R28 R3
+jmp -6068
+sub R24 R21 R25
+str R4 -65114 R0
+mov R30 -5897
+str R2 64230 R20
+ldr R22 R31 34422
+jmp -8721
+ret R0
+add R11 R11 R14
+mov R20 48387
+jz R17 -254
+add R10 R27 R14
+div R11 R20 R27
+str R14 62048 R10
+jz R11 -3703
+str R20 -54079 R20
+mov R21 -1385
+jz R9 -1844
+ldr R10 R13 -28928
+mul R20 R5 R24
+ret R15
+mov R13 52392
+mov R2 -17143
+div R21 R10 R6
+ldr R19 R1 -3079
+add R17 R30 R2
+str R7 -16336 R9
+add R26 R21 R22
+ldr R12 R21 -40048
+sub R22 R16 R21
+mov R21 -530
+jmp -8818
+str R0 12316 R7
+sub R8 R4 R29
+div R14 R26 R28
+jmp -8730
+div R11 R6 R19
+mov R18 31008
+sub R30 R24 R17
+sub R8 R21 R27
+div R5 R2 R26
+add R20 R25 R4
+add R22 R22 R7
+sub R23 R5 R20
+mov R0 39065
+jz R8 -9126
+jmp -5809
+sub R29 R18 R0
+jz R12 -2031
+jz R31 -9103
+jz R31 -375
+mul R17 R28 R10
+sub R17 R29 R22
+mul R22 R23 R8
+jmp -6355
+jmp -2549
+str R15 -15392 R25
+div R30 R26 R14
+str R12 5582 R25
+sub R2 R10 R10
+ldr R7 R11 -48145
+jz R7 -6952
+jmp -4866
+ret R15
+ldr R6 R17 -25641
+jz R9 365
+div R31 R17 R3
+ret R23
+jz R6 -2343
+str R15 29285 R3
+sub R25 R20 R16
+ret R20
+add R0 R27 R25
+str R14 -50086 R12
+jz R25 -6020
+sub R5 R12 R21
+div R10 R22 R26
+ret R1
+add R25 R31 R29
+sub R23 R4 R28
+add R14 R18 R28
+ret R17
+mul R17 R4 R28
+jmp -5291
+str R8 63290 R3
+add R30 R17 R29
+add R19 R9 R17
+div R1 R15 R13
+jmp -6069
+str R27 32983 R24
+mul R10 R4 R22
+sub R13 R19 R31
+add R13 R2 R5
+jmp -8927
+add R2 R25 R23
+ldr R21 R31 -45649
+div R23 R13 R2
+div R9 R30 R14
+str R13 23979 R16
+str R28 -12422 R24
+jmp -266
+jmp -265
+mul R29 R9 R5
+div R18 R13 R18
+jmp -1536
+ldr R4 R19 16208
+ret R1
+div R23 R23 R7
+ret R9
+mov R14 52381
+jz R27 -3165
+ret R3
+str R31 10471 R30
+div R23 R6 R16
+mov R19 -48978
+add R27 R2 R28
+jmp -5193
+add R1 R14 R18
+jmp -9231
+ldr R18 R0 -55294
+ret R9
+ldr R7 R8 -7518
+ret R22
+div R2 R31 R30
+jmp -7815
+sub R23 R29 R28
+mov R1 2589
+sub R21 R2 R27
+div R23 R20 R11
+str R23 46410 R9
+sub R12 R19 R18
+mov R11 40952
+str R11 65385 R9
+mul R17 R13 R31
+ret R21
+ldr R17 R18 22820
+str R9 -14204 R19
+div R4 R23 R13
+str R14 16820 R19
+jmp -1904
+ret R14
+str R25 29935 R7
+jz R29 -2277
+mov R0 8484
+add R11 R16 R6
+sub R2 R9 R26
+str R3 2141 R8
+add R20 R12 R0
+add R12 R3 R7
+jmp -4288
+jmp -3281
+str R20 48514 R28
+div R12 R16 R0
+ldr R7 R31 -59
+ret R8
+sub R12 R4 R13
+mov R9 14715
+mul R19 R3 R11
+jmp -1520
+jmp -3239
+add R28 R3 R19
+ldr R29 R12 31813
+mul R19 R13 R7
+sub R25 R27 R5
+jmp -8584
+sub R18 R11 R18
+div R8 R12 R20
+jz R5 -2512
+str R15 63668 R13
+div R15 R3 R21
+sub R24 R7 R31
+sub R29 R0 R28
+jz R26 -8412
+ret R17
+str R7 51292 R26
+ret R30
+jz R8 -7546
+mul R22 R29 R17
+ldr R26 R0 -15301
+mov R0 -64835
+ldr R0 R2 55810
+mov R1 -35871
+mov R28 42095
+sub R7 R21 R23
+mov R15 26714
+add R12 R6 R21
+div R5 R31 R2
+add R18 R9 R9
+ret R13
+str R20 -33317 R19
+mul R13 R14 R3
+mov R26 -57254
+mov R18 -15918
+mul R5 R6 R19
+jz R31 -3500
+ret R0
+div R17 R2 R14
+ret R15
+mul R10 R10 R21
+mul R23 R26 R6
+jmp -702
+div R1 R27 R31
+jmp -8309
+ret R15
+mov R14 -30836
+str R12 46125 R16
+sub R30 R26 R13
+add R17 R14 R19
+mul R16 R5 R0
+div R23 R15 R19
+div R18 R12 R9
+jz R14 -7537
+jmp -8173
+str R18 22260 R19
+ldr R15 R29 64453
+mul R7 R15 R5
+ret R12
+str R20 -37269 R2
+mov R31 -61244
+add R30 R11 R8
+ret R30
+ldr R27 R17 3031
+ret R1
+str R18 14266 R3
+sub R4 R5 R17
+jz R28 -919
+add R10 R30 R6
+add R7 R17 R29
+mov R21 57176
+str R31 3815 R4
+sub R28 R20 R27
+jmp -249
+mov R5 23489
+add R28 R20 R27
+str R30 -15719 R18
+sub R16 R15 R18
+ldr R27 R24 -59230
+jz R10 -722
+ldr R16 R0 -27729
+jz R30 -3572
+div R10 R14 R31
+str R4 40139 R15
+add R12 R20 R4
+mul R10 R6 R12
+mul R6 R1 R7
+ret R27
+ldr R30 R4 -20494
+mov R10 56569
+mov R18 271
+jmp -2358
+div R21 R0 R0
+ret R23
+str R16 -5385 R25
+mul R22 R21 R23
+ret R2
+mov R14 2111
+ret R24
+mov R10 46308
+ldr R18 R11 -47638
+sub R20 R15 R5
+ret R6
+div R5 R25 R11
+ret R8
+add R28 R8 R11
+ldr R16 R3 5801
+sub R19 R6 R8
+str R18 57045 R25
+ret R13
+str R17 32182 R21
+div R19 R7 R22
+str R0 -32766 R16
+sub R7 R25 R20
+add R0 R7 R1
+div R26 R20 R15
+ldr R0 R18 -25985
+mul R30 R5 R3
+sub R31 R31 R31
+sub R26 R23 R9
+add R31 R28 R4
+jmp -996
+mov R7 -61248
+mov R5 -28692
+add R15 R15 R0
+mul R0 R18 R5
+add R26 R15 R14
+jmp -3327
+ldr R16 R7 64516
+mov R2 -174
+str R10 -24479 R5
+sub R22 R11 R17
+add R21 R10 R10
+ret R0
+mul R29 R8 R7
+div R23 R8 R4
+jmp -868
+mov R13 -42275
+add R30 R20 R17
+mov R9 -9410
+add R1 R12 R23
+mul R1 R4 R11
+str R2 17291 R15
+jmp -8862
+mov R14 -13717
+mul R16 R0 R24
+add R4 R17 R8
+div R13 R7 R13
+jz R10 -9170
+sub R2 R17 R27
+add R2 R15 R4
+div R19 R14 R30
+jz R14 -5824
+add R27 R16 R13
+mul R13 R2 R12
+ldr R10 R21 -16505
+add R10 R23 R25
+div R28 R25 R7
+div R28 R13 R20
+mul R15 R10 R21
+str R16 25598 R1
+jz R14 -5034
+jmp -2455
+ldr R17 R10 -42662
+str R24 63884 R12
+str R26 45752 R13
+mul R24 R28 R6
+div R2 R17 R17
+sub R18 R22 R8
+mul R7 R13 R4
+ret R2
+mov R10 50697
+ldr R19 R8 -1184
+jmp -9473
+str R20 5666 R10
+mul R20 R8 R20
+ldr R27 R29 -54738
+jmp -3258
+mul R29 R22 R0
+div R10 R10 R18
+add R23 R23 R13
+jz R25 -5133
+str R7 -995 R2
+jmp -4966
+sub R14 R19 R29
+add R23 R15 R6
+mov R6 -20554
+sub R7 R20 R20
+add R13 R27 R17
+jmp -7386
+str R11 -60817 R8
+jz R27 -7321
+str R13 -2356 R7
+mul R6 R26 R4
+mov R7 -12228
+add R26 R24 R26
+ldr R13 R26 37772
+str R7 56748 R22
+ldr R25 R2 20957
+mul R21 R10 R13
+str R5 -37805 R15
+ldr R19 R20 36910
+ldr R5 R28 16212
+ldr R28 R8 -10133
+div R5 R8 R27
+mul R31 R3 R7
+ldr R25 R23 -28241
+ret R9
+ldr R26 R24 14546
+jz R30 -5627
+ldr R11 R3 40614
+div R2 R2 R21
+sub R9 R31 R23
+mul R24 R16 R24
+ldr R14 R5 -44819
+jz R21 -6395
+sub R15 R5 R13
+str R18 -26006 R8
+ldr R25 R2 43562
+ldr R22 R17 39124
+jz R22 -7735
+str R4 -4626 R29
+str R9 15324 R27
+mov R7 64909
+jmp -6086
+mul R24 R20 R10
+mul R3 R27 R12
+div R27 R29 R23
+mov R18 30153
+jz R8 -582
+jmp -1646
+add R20 R23 R9
+jmp -2999
+sub R29 R21 R17
+str R29 -41298 R24
+mul R11 R20 R8
+mul R30 R27 R1
+div R0 R2 R27
+str R27 50725 R2
+mov R26 -4860
+div R13 R20 R18
+mul R20 R27 R11
+str R10 -9148 R24
+sub R30 R0 R13
+mul R7 R5 R15
+mov R30 -3478
+ldr R17 R13 56074
+add R21 R9 R17
+sub R5 R26 R17
+add R16 R26 R30
+sub R20 R17 R19
+str R20 59786 R17
+str R2 -40978 R10
+ldr R27 R30 -61271
+mov R15 -17390
+add R7 R9 R7
+ldr R19 R31 -13124
+jz R23 -2406
+add R31 R31 R31
+div R11 R20 R0
+mov R12 48579
+jmp -8912
+add R5 R26 R9
+ret R21
+jz R11 79
+div R1 R0 R31
+add R13 R17 R2
+ldr R7 R4 -5898
+mov R4 -3060
+div R1 R15 R26
+jz R16 -2733
+add R20 R31 R28
+mul R26 R24 R20
+ldr R3 R17 19566
+jz R12 -5114
+div R14 R24 R9
+jz R27 -8558
+jmp -867
+jz R21 -3218
+div R3 R6 R22
+add R23 R19 R8
+ret R4
+mul R3 R18 R6
+ret R0
+sub R19 R24 R23
+sub R14 R0 R18
+ldr R1 R2 -2463
+mul R10 R23 R15
+sub R2 R1 R24
+sub R11 R27 R20
+sub R26 R13 R21
+div R22 R10 R31
+ldr R19 R30 -60552
+add R3 R31 R20
+ret R7
+jmp -6861
+mov R28 -40853
+ldr R9 R27 -7032
+str R9 27603 R26
+mov R22 -8468
+ret R6
+jmp -5277
+ldr R18 R22 -16807
+add R9 R9 R15
+ldr R22 R17 -13395
+mul R27 R4 R29
+mov R26 57088
+div R23 R31 R24
+jmp -3007
+str R4 36692 R16
+sub R5 R8 R6
+jz R21 -3386
+div R11 R15 R16
+sub R29 R7 R30
+mov R19 42433
+ret R9
+str R13 -56655 R21
+jz R29 -9326
+jmp -4714
+str R15 -20382 R23
+add R23 R3 R4
+str R31 47474 R30
+mov R0 -30581
+jmp -3
+sub R31 R19 R18
+mul R4 R24 R24
+jmp -2113
+mov R1 -14955
+ret R25
+sub R14 R8 R13
+jz R19 -3918
+mul R5 R7 R16
+str R13 -9271 R27
+div R20 R21 R23
+mov R17 21367
+add R22 R4 R4
+mov R19 -59261
+div R23 R20 R22
+str R5 63417 R22
+jmp -2495
+sub R28 R0 R16
+div R20 R13 R17
+jmp -6637
+jz R2 -5604
+ldr R3 R2 23618
+ldr R19 R14 -62845
+sub R19 R26 R19
+jmp -8352
+ret R10
+jz R11 -2795
+ldr R9 R24 -43880
+ldr R9 R7 -26719
+mul R8 R21 R14
+div R5 R17 R5
+jmp -5919
+jmp -2254
+sub R13 R10 R7
+jmp -1235
+jz R31 -1405
+add R9 R14 R14
+ret R3
+ret R22
+mov R0 -2507
+ret R22
+add R9 R0 R12
+str R31 -5560 R16
+ret R12
+ret R20
+jmp -4683
+str R7 -36605 R6
+mul R28 R6 R24
+str R12 52425 R4
+mov R14 14483
+div R15 R18 R16
+str R30 -51310 R18
+jz R22 -7943
+ldr R12 R24 31743
+mov R1 55360
+mov R7 -45394
+add R25 R23 R30
+jmp -4750
+add R27 R16 R26
+add R2 R31 R19
+div R11 R30 R17
+ret R27
+ret R10
+str R4 52437 R23
+str R27 50083 R17
+add R24 R5 R5
+ldr R26 R27 -50931
+jz R29 -8018
+mul R25 R13 R14
+jz R25 -8656
+div R2 R6 R30
+ldr R20 R14 62621
+add R28 R5 R12
+sub R23 R22 R26
+div R16 R28 R4
+ret R15
+div R2 R12 R16
+sub R17 R24 R7
+div R15 R4 R17
+add R29 R30 R6
+jz R15 -158
+div R21 R27 R1
+mul R19 R11 R22
+ldr R12 R8 16686
+sub R7 R3 R31
+ret R10
+sub R11 R25 R22
+jmp -1321
+str R19 -2820 R2
+ret R12
+jmp -5127
+sub R22 R19 R5
+jmp -5050
+jmp -5090
+jmp -6940
+ret R7
+str R28 -33794 R31
+ret R19
+jz R20 -8550
+jz R13 -1643
+sub R25 R27 R30
+jmp -1413
+sub R28 R8 R19
+add R3 R10 R0
+jmp -8898
+add R9 R4 R25
+str R8 -20570 R20
+mul R2 R11 R25
+jmp -803
+str R16 -2602 R20
+str R7 -5175 R10
+add R3 R13 R24
+mov R4 61484
+jz R20 -2966
+str R0 -26861 R16
+jz R26 -8808
+ret R10
+jz R28 -5960
+sub R0 R17 R18
+mov R7 -13612
+jz R4 -7469
+div R30 R1 R12
+jz R9 -7163
+str R13 43700 R0
+mov R26 9663
+ret R23
+div R25 R31 R11
+ret R28
+div R8 R2 R23
+str R31 27238 R29
+jz R18 78
+add R2 R28 R2
+str R7 44030 R30
+ldr R20 R22 45991
+ret R28
+ldr R22 R26 2648
+jmp -3275
+mov R12 3725
+jmp -6506
+ret R19
+sub R12 R26 R7
+str R26 47213 R9
+mov R5 -29319
+mov R16 -33645
+ret R24
+div R28 R2 R29
+mov R1 -52868
+mov R4 -12141
+add R17 R18 R28
+ret R29
+div R25 R7 R22
+add R11 R26 R28
+mul R14 R3 R7
+jmp -8524
+div R4 R8 R2
+add R5 R8 R12
+add R24 R3 R7
+jz R3 -2456
+str R15 -16082 R9
+mul R14 R17 R0
+mul R10 R28 R22
+str R18 58708 R11
+sub R19 R4 R17
+ret R9
+str R23 -10082 R15
+ret R22
+mov R2 -7656
+add R12 R5 R23
+ret R24
+div R28 R6 R0
+add R15 R3 R18
+sub R4 R14 R1
+div R21 R7 R5
+jmp -4798
+ldr R17 R22 -3919
+jz R29 -3423
+mov R21 37925
+add R23 R4 R19
+add R15 R8 R19
+sub R23 R4 R26
+jmp -3771
+sub R12 R2 R30
+str R29 -465 R17
+div R1 R10 R0
+mul R0 R28 R23
+jz R0 -4844
+mov R0 -57777
+ret R13
+ldr R24 R26 8310
+div R2 R8 R6
+ret R0
+mul R15 R10 R20
+ldr R10 R31 -36710
+ret R31
+jmp -4055
+ret R13
+sub R13 R24 R2
+sub R0 R1 R9
+jz R23 -6878
+add R24 R1 R19
+mul R19 R23 R20
+jmp -4337
+jmp -4559
+mov R29 -62756
+str R25 -46982 R17
+jz R7 -296
+add R7 R23 R2
+mul R4 R0 R12
+mul R24 R19 R4
+str R30 49897 R2
+sub R1 R5 R16
+div R21 R14 R27
+jmp -2374
+jz R16 -1209
+mov R12 6169
+sub R21 R6 R29
+mul R14 R27 R8
+jmp -2435
+add R9 R27 R20
+ldr R0 R13 -37274
+mov R22 61170
+sub R23 R11 R30
+jmp -9917
+jz R12 -4769
+mov R10 34123
+jz R25 -5875
+add R16 R3 R17
+ldr R19 R8 145
+str R28 -21755 R1
+jmp -2525
+ldr R15 R21 41850
+jz R29 -1762
+mov R20 26521
+mov R7 -59996
+sub R15 R18 R19
+ret R21
+mul R8 R28 R29
+mov R16 -15152
+ret R17
+div R24 R19 R12
+jz R24 -1363
+ret R8
+mov R6 -7855
+ldr R9 R21 51534
+jmp -439
+mul R15 R12 R16
+mul R27 R9 R31
+sub R20 R23 R0
+mul R14 R12 R18
+str R25 -20182 R22
+mul R20 R5 R3
+ldr R23 R16 -9788
+mul R23 R2 R24
+mul R1 R26 R6
+str R11 9405 R12
+ldr R25 R8 32626
+str R29 20939 R25
+ret R10
+mul R12 R13 R13
+sub R29 R9 R18
+mul R31 R5 R1
+sub R1 R23 R8
+str R6 -33018 R22
+jmp -539
+mul R17 R30 R0
+jmp -733
+div R22 R23 R11
+jmp -3668
+str R18 -41810 R7
+str R9 19390 R24
+str R17 2158 R31
+add R31 R6 R18
+ret R0
+jmp -7631
+div R5 R21 R18
+add R2 R0 R13
+div R22 R21 R7
+ldr R2 R30 -8561
+mul R31 R17 R11
+sub R23 R30 R2
+ldr R2 R31 13887
+div R8 R9 R23
+sub R23 R17 R9
+add R10 R10 R23
+div R2 R10 R23
+ret R10
+jmp -248
+sub R24 R19 R14
+mov R8 216
+mov R7 -17063
+jz R28 -7375
+str R10 26548 R8
+ret R11
+str R15 5496 R27
+str R27 26360 R21
+str R23 -44308 R9
